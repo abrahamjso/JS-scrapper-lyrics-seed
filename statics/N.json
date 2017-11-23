@@ -1,0 +1,5565 @@
+{
+  "letra": "N",
+  "artistas": [
+    {
+      "name": "N II U",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%20II%20U/169663"
+    },
+    {
+      "name": "N Neuer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%20Neuer/2620077"
+    },
+    {
+      "name": "N Phase",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%20Phase/141470"
+    },
+    {
+      "name": "N'Dea Davenport",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%27Dea%20Davenport/68869"
+    },
+    {
+      "name": "N'Kenge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%27Kenge/849728"
+    },
+    {
+      "name": "N'Klabe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%27Klabe/668802"
+    },
+    {
+      "name": "N-Dubz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N-Dubz/848266"
+    },
+    {
+      "name": "N-Euro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N-Euro/917261"
+    },
+    {
+      "name": "N-Gate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N-Gate/2597250"
+    },
+    {
+      "name": "N-Toon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N-Toon/416186"
+    },
+    {
+      "name": "N-Trance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N-Trance/168938"
+    },
+    {
+      "name": "N-Tyce",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N-Tyce/290471"
+    },
+    {
+      "name": "N.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N./309921"
+    },
+    {
+      "name": "N.A.P.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.A.P./835637"
+    },
+    {
+      "name": "N.A.S.A.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.A.S.A./1119332"
+    },
+    {
+      "name": "N.E.R.D.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.E.R.D./415988"
+    },
+    {
+      "name": "N.E.W.S.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.E.W.S./373720"
+    },
+    {
+      "name": "N.O.R.E.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.O.R.E./373164"
+    },
+    {
+      "name": "N.O.T.S. (Niggaz off the Street)",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.O.T.S.%20%28Niggaz%20off%20the%20Street%29/40563"
+    },
+    {
+      "name": "N.Resources",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.Resources/2620076"
+    },
+    {
+      "name": "N.V.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.V./205944"
+    },
+    {
+      "name": "N.W.A",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N.W.A/77"
+    },
+    {
+      "name": "N2Deep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N2Deep/26097"
+    },
+    {
+      "name": "N2U",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N2U/685281"
+    },
+    {
+      "name": "N4red",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N4red/694121"
+    },
+    {
+      "name": "Na Kama",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Na%20Kama/746514"
+    },
+    {
+      "name": "Nã Leo Pilimehana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%C3%A3%20Leo%20Pilimehana/205947"
+    },
+    {
+      "name": "NAAM Brigade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NAAM%20Brigade/531585"
+    },
+    {
+      "name": "Nabil Tatah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nabil%20Tatah/296520"
+    },
+    {
+      "name": "Nabil Totah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nabil%20Totah/11856"
+    },
+    {
+      "name": "Nação Zumbi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Na%C3%A7%C3%A3o%20Zumbi/454745"
+    },
+    {
+      "name": "Nach",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nach/789985"
+    },
+    {
+      "name": "Nach E. Jacobson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nach%20E.%20Jacobson/2420531"
+    },
+    {
+      "name": "Nacha Guevara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nacha%20Guevara/639521"
+    },
+    {
+      "name": "Nacha Pop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nacha%20Pop/508097"
+    },
+    {
+      "name": "Nacho Picasso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nacho%20Picasso/2527385"
+    },
+    {
+      "name": "Nada",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nada/476047"
+    },
+    {
+      "name": "Nada",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nada/1022886"
+    },
+    {
+      "name": "Nada Problem",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nada%20Problem/2300433"
+    },
+    {
+      "name": "Nada Surf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nada%20Surf/174814"
+    },
+    {
+      "name": "Nadanuf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadanuf/225421"
+    },
+    {
+      "name": "Nadia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadia/560433"
+    },
+    {
+      "name": "Nadia Ali",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadia%20Ali/787675"
+    },
+    {
+      "name": "Nadia M.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadia%20M./697413"
+    },
+    {
+      "name": "Nadia Sohaei",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadia%20Sohaei/1122286"
+    },
+    {
+      "name": "Nadine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadine/310073"
+    },
+    {
+      "name": "Nadine Renee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadine%20Renee/206355"
+    },
+    {
+      "name": "Nadirah Shakoor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadirah%20Shakoor/124029"
+    },
+    {
+      "name": "Nâdiya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%C3%A2diya/514117"
+    },
+    {
+      "name": "Nadja",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadja/741872"
+    },
+    {
+      "name": "Nadja Salerno-Sonnenberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadja%20Salerno-Sonnenberg/290912"
+    },
+    {
+      "name": "Nadjib Ababasa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nadjib%20Ababasa/366401"
+    },
+    {
+      "name": "Naer Mataron",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naer%20Mataron/562455"
+    },
+    {
+      "name": "Nagelfar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nagelfar/835645"
+    },
+    {
+      "name": "Nagisa Ni Te",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nagisa%20Ni%20Te/511027"
+    },
+    {
+      "name": "Naglfar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naglfar/310153"
+    },
+    {
+      "name": "Nagoya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nagoya/1128662"
+    },
+    {
+      "name": "Naguila Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naguila%20Ensemble/484112"
+    },
+    {
+      "name": "Naiad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naiad/562419"
+    },
+    {
+      "name": "Nailbomb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nailbomb/143208"
+    },
+    {
+      "name": "Nailpin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nailpin/875823"
+    },
+    {
+      "name": "Naim Amor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naim%20Amor/548425"
+    },
+    {
+      "name": "Naima",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naima/664677"
+    },
+    {
+      "name": "Naima Shamborguer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naima%20Shamborguer/949036"
+    },
+    {
+      "name": "Naimee Coleman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naimee%20Coleman/470520"
+    },
+    {
+      "name": "Naio Ssaion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naio%20Ssaion/757280"
+    },
+    {
+      "name": "Nais",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nais/169504"
+    },
+    {
+      "name": "Naive New Beaters",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naive%20New%20Beaters/1093178"
+    },
+    {
+      "name": "Naja Shiri",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naja%20Shiri/573252"
+    },
+    {
+      "name": "Najee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Najee/7206"
+    },
+    {
+      "name": "Najma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Najma/3368"
+    },
+    {
+      "name": "Najoua Belyzel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Najoua%20Belyzel/818975"
+    },
+    {
+      "name": "NajPonk",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NajPonk/642790"
+    },
+    {
+      "name": "Najwa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Najwa/821221"
+    },
+    {
+      "name": "Najwa Karam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Najwa%20Karam/440847"
+    },
+    {
+      "name": "Najwajean",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Najwajean/886505"
+    },
+    {
+      "name": "Naka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naka/28526"
+    },
+    {
+      "name": "Nakatomi Plaza",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nakatomi%20Plaza/551463"
+    },
+    {
+      "name": "Naked",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked/203300"
+    },
+    {
+      "name": "Naked Aggression",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Aggression/205950"
+    },
+    {
+      "name": "Naked Empire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Empire/1082180"
+    },
+    {
+      "name": "Naked Eyes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Eyes/4987"
+    },
+    {
+      "name": "Naked Highway",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Highway/693691"
+    },
+    {
+      "name": "Naked Jazz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Jazz/215655"
+    },
+    {
+      "name": "Naked Music NYC",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Music%20NYC/295111"
+    },
+    {
+      "name": "Naked Raygun",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naked%20Raygun/4989"
+    },
+    {
+      "name": "Nalin & Kane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nalin%20%26%20Kane/290473"
+    },
+    {
+      "name": "Nalini",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nalini/213858"
+    },
+    {
+      "name": "Namba Kyodai",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Namba%20Kyodai/874128"
+    },
+    {
+      "name": "Name Taken",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Name%20Taken/651440"
+    },
+    {
+      "name": "Named by Strangers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Named%20by%20Strangers/716840"
+    },
+    {
+      "name": "Namelessnumberheadman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Namelessnumberheadman/534828"
+    },
+    {
+      "name": "Namgyal Yeshi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Namgyal%20Yeshi/723903"
+    },
+    {
+      "name": "Nami Tamaki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nami%20Tamaki/652339"
+    },
+    {
+      "name": "Namie Amuro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Namie%20Amuro/228307"
+    },
+    {
+      "name": "Namnambulu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Namnambulu/647273"
+    },
+    {
+      "name": "Nan Bell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nan%20Bell/671148"
+    },
+    {
+      "name": "Nan O'Malley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nan%20O%27Malley/2420530"
+    },
+    {
+      "name": "Nan Quan Ma Ma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nan%20Quan%20Ma%20Ma/1092161"
+    },
+    {
+      "name": "Nana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nana/1155177"
+    },
+    {
+      "name": "Nana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nana/875887"
+    },
+    {
+      "name": "Nana Caymmi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nana%20Caymmi/3237"
+    },
+    {
+      "name": "Nana Katase",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nana%20Katase/784879"
+    },
+    {
+      "name": "Nana Kitade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nana%20Kitade/814704"
+    },
+    {
+      "name": "Nana Mouskouri",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nana%20Mouskouri/3134"
+    },
+    {
+      "name": "Nanci Griffith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanci%20Griffith/1638"
+    },
+    {
+      "name": "Nancie Banks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancie%20Banks/1760061"
+    },
+    {
+      "name": "Nancy Ajram",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Ajram/667008"
+    },
+    {
+      "name": "Nancy Ames",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Ames/24083"
+    },
+    {
+      "name": "Nancy Atlas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Atlas/431274"
+    },
+    {
+      "name": "Nancy Boy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Boy/169085"
+    },
+    {
+      "name": "Nancy Coletti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Coletti/1171184"
+    },
+    {
+      "name": "Nancy Dussault",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Dussault/287618"
+    },
+    {
+      "name": "Nancy Enslin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Enslin/212133"
+    },
+    {
+      "name": "Nancy Gilliland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Gilliland/949078"
+    },
+    {
+      "name": "Nancy Hamilton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Hamilton/83752"
+    },
+    {
+      "name": "Nancy Harrow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Harrow/6686"
+    },
+    {
+      "name": "Nancy Hays",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Hays/541522"
+    },
+    {
+      "name": "Nancy Holloway",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Holloway/212733"
+    },
+    {
+      "name": "Nancy Kelly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Kelly/6883"
+    },
+    {
+      "name": "Nancy King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20King/10959"
+    },
+    {
+      "name": "Nancy LaMott",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20LaMott/39955"
+    },
+    {
+      "name": "Nancy Malcomb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Malcomb/874769"
+    },
+    {
+      "name": "Nancy Marano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Marano/11112"
+    },
+    {
+      "name": "Nancy Martinez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Martinez/23028"
+    },
+    {
+      "name": "Nancy Monroe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Monroe/194673"
+    },
+    {
+      "name": "Nancy Morris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Morris/1137204"
+    },
+    {
+      "name": "Nancy Nelson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Nelson/552877"
+    },
+    {
+      "name": "Nancy Osborne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Osborne/827660"
+    },
+    {
+      "name": "Nancy Priddy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Priddy/543063"
+    },
+    {
+      "name": "Nancy Reed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Reed/543342"
+    },
+    {
+      "name": "Nancy Ruth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Ruth/1073843"
+    },
+    {
+      "name": "Nancy Shanx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Shanx/124102"
+    },
+    {
+      "name": "Nancy Sinatra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Sinatra/14258"
+    },
+    {
+      "name": "Nancy Stearns",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Stearns/949092"
+    },
+    {
+      "name": "Nancy Tabb Marcantel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Tabb%20Marcantel/417230"
+    },
+    {
+      "name": "Nancy Walker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Walker/615181"
+    },
+    {
+      "name": "Nancy Walker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Walker/23943"
+    },
+    {
+      "name": "Nancy Wilson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Wilson/3160"
+    },
+    {
+      "name": "Nancy Wilson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Wilson/210645"
+    },
+    {
+      "name": "Nancy Wright",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nancy%20Wright/139929"
+    },
+    {
+      "name": "Nando Lauria",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nando%20Lauria/96831"
+    },
+    {
+      "name": "Nando Reis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nando%20Reis/160303"
+    },
+    {
+      "name": "Nanette Malher",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanette%20Malher/407207"
+    },
+    {
+      "name": "Nanette Natal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanette%20Natal/19519"
+    },
+    {
+      "name": "Nanette Workman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanette%20Workman/139766"
+    },
+    {
+      "name": "Nanna",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanna/978027"
+    },
+    {
+      "name": "Nanni Byl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanni%20Byl/423652"
+    },
+    {
+      "name": "Nannie Porres",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nannie%20Porres/509235"
+    },
+    {
+      "name": "Nanook of the North",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nanook%20of%20the%20North/661023"
+    },
+    {
+      "name": "Nantucket",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nantucket/19515"
+    },
+    {
+      "name": "Nao",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nao/1749592"
+    },
+    {
+      "name": "Naohito Fujiki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naohito%20Fujiki/871872"
+    },
+    {
+      "name": "Naoko",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naoko/195631"
+    },
+    {
+      "name": "Naoko Terai",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naoko%20Terai/766022"
+    },
+    {
+      "name": "Naomi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naomi/1031437"
+    },
+    {
+      "name": "Naomi Rodriguez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naomi%20Rodriguez/880870"
+    },
+    {
+      "name": "Naomi Slotkin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naomi%20Slotkin/1129579"
+    },
+    {
+      "name": "Naoya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naoya/875914"
+    },
+    {
+      "name": "Nap Turner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nap%20Turner/481135"
+    },
+    {
+      "name": "Napalm Death",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Napalm%20Death/4990"
+    },
+    {
+      "name": "Napander",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Napander/2222218"
+    },
+    {
+      "name": "Napoleon XIV",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Napoleon%20XIV/108848"
+    },
+    {
+      "name": "Nappion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nappion/2469125"
+    },
+    {
+      "name": "Nappy Lamare",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nappy%20Lamare/96124"
+    },
+    {
+      "name": "Nappy Roots",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nappy%20Roots/470152"
+    },
+    {
+      "name": "Nara Leão",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nara%20Le%C3%A3o/3327"
+    },
+    {
+      "name": "Narada Michael Walden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Narada%20Michael%20Walden/105590"
+    },
+    {
+      "name": "Narcotic Ninjas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Narcotic%20Ninjas/2620073"
+    },
+    {
+      "name": "Narcotic Thrust",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Narcotic%20Thrust/531975"
+    },
+    {
+      "name": "Nard T.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nard%20T./1938541"
+    },
+    {
+      "name": "Narnia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Narnia/293757"
+    },
+    {
+      "name": "Narr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Narr/1141141"
+    },
+    {
+      "name": "Narvel Felts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Narvel%20Felts/26411"
+    },
+    {
+      "name": "Nas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nas/44732"
+    },
+    {
+      "name": "NASA",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NASA/13755"
+    },
+    {
+      "name": "Nash the Slash",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nash%20the%20Slash/19516"
+    },
+    {
+      "name": "Nashville Brass",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Brass/1907628"
+    },
+    {
+      "name": "Nashville Children's Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Children%27s%20Choir/1279649"
+    },
+    {
+      "name": "Nashville Harmonicas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Harmonicas/384526"
+    },
+    {
+      "name": "Nashville Mandolin Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Mandolin%20Ensemble/174972"
+    },
+    {
+      "name": "Nashville Mandolin Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Mandolin%20Trio/661395"
+    },
+    {
+      "name": "Nashville Pianos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Pianos/454025"
+    },
+    {
+      "name": "Nashville Prime Time",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Prime%20Time/1743301"
+    },
+    {
+      "name": "Nashville Pussy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Pussy/293192"
+    },
+    {
+      "name": "Nashville Sax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Sax/205960"
+    },
+    {
+      "name": "Nashville Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Singers/1906372"
+    },
+    {
+      "name": "Nashville Super Guitars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Super%20Guitars/201934"
+    },
+    {
+      "name": "Nashville Superpickers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20Superpickers/1742"
+    },
+    {
+      "name": "Nashville West",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%20West/40581"
+    },
+    {
+      "name": "Nashville's Finest Instrumentalists",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nashville%27s%20Finest%20Instrumentalists/535110"
+    },
+    {
+      "name": "Nassiri",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nassiri/442601"
+    },
+    {
+      "name": "Nastrond",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nastrond/835667"
+    },
+    {
+      "name": "Nasty Elves",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nasty%20Elves/2582343"
+    },
+    {
+      "name": "Nasty Nardo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nasty%20Nardo/375774"
+    },
+    {
+      "name": "Nasty Savage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nasty%20Savage/13757"
+    },
+    {
+      "name": "Nastyboy Klick",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nastyboy%20Klick/224410"
+    },
+    {
+      "name": "Nasum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nasum/294468"
+    },
+    {
+      "name": "Nat & Alex Wolff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20%26%20Alex%20Wolff/2484302"
+    },
+    {
+      "name": "Nat Adderley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Adderley/5982"
+    },
+    {
+      "name": "Nat Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Brown/431260"
+    },
+    {
+      "name": "Nat Burn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Burn/1054660"
+    },
+    {
+      "name": "Nat Cross",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Cross/329413"
+    },
+    {
+      "name": "Nat Dixon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Dixon/71327"
+    },
+    {
+      "name": "Nat Gonella",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Gonella/8622"
+    },
+    {
+      "name": "Nat King Cole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20King%20Cole/65542"
+    },
+    {
+      "name": "Nat King Cole Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20King%20Cole%20Trio/2135014"
+    },
+    {
+      "name": "Nat Pierce",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Pierce/7335"
+    },
+    {
+      "name": "Nat Shilkret",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Shilkret/124684"
+    },
+    {
+      "name": "Nat Simpkins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Simpkins/165135"
+    },
+    {
+      "name": "Nat Stuckey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Stuckey/192958"
+    },
+    {
+      "name": "Nat Su",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nat%20Su/419264"
+    },
+    {
+      "name": "Nataani",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nataani/949153"
+    },
+    {
+      "name": "Natacha Atlas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natacha%20Atlas/52909"
+    },
+    {
+      "name": "Natalia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia/529032"
+    },
+    {
+      "name": "Natalia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia/205962"
+    },
+    {
+      "name": "Natalia Clavier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20Clavier/787759"
+    },
+    {
+      "name": "Natalia Kills",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20Kills/2104116"
+    },
+    {
+      "name": "Natalia Kukulska",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20Kukulska/821043"
+    },
+    {
+      "name": "Natalia Lafourcade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20Lafourcade/555332"
+    },
+    {
+      "name": "Natalia M. King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20M.%20King/834329"
+    },
+    {
+      "name": "Natalia Oreiro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20Oreiro/373832"
+    },
+    {
+      "name": "Natalia Zukerman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalia%20Zukerman/689110"
+    },
+    {
+      "name": "Natalie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie/698340"
+    },
+    {
+      "name": "Natalie Bassingthwaighte",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Bassingthwaighte/822132"
+    },
+    {
+      "name": "Natalie Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Brown/293384"
+    },
+    {
+      "name": "Natalie Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Brown/454897"
+    },
+    {
+      "name": "Natalie Browne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Browne/289957"
+    },
+    {
+      "name": "Natalie Choquette",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Choquette/615260"
+    },
+    {
+      "name": "Natalie Cole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Cole/3938"
+    },
+    {
+      "name": "Natalie Douglas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Douglas/392848"
+    },
+    {
+      "name": "Natalie Duncan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Duncan/2584334"
+    },
+    {
+      "name": "Natalie Gauci",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Gauci/1018943"
+    },
+    {
+      "name": "Natalie Grant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Grant/419757"
+    },
+    {
+      "name": "Natalie Hayden Ray",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Hayden%20Ray/2255615"
+    },
+    {
+      "name": "Natalie Imbruglia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Imbruglia/291314"
+    },
+    {
+      "name": "Natalie MacMaster",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20MacMaster/145868"
+    },
+    {
+      "name": "Natalie Merchant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Merchant/105275"
+    },
+    {
+      "name": "Natalie Walker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Walker/827115"
+    },
+    {
+      "name": "Natalie Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalie%20Williams/347289"
+    },
+    {
+      "name": "Natalino Otto",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalino%20Otto/876593"
+    },
+    {
+      "name": "Natalise",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalise/553621"
+    },
+    {
+      "name": "Nataliya Romanskaya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nataliya%20Romanskaya/371263"
+    },
+    {
+      "name": "Nataly Aguilar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nataly%20Aguilar/1015632"
+    },
+    {
+      "name": "Natalya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natalya/716870"
+    },
+    {
+      "name": "Nataniël",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natani%C3%ABl/531823"
+    },
+    {
+      "name": "Natas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natas/40582"
+    },
+    {
+      "name": "Natasa Theodoridis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasa%20Theodoridis/2603591"
+    },
+    {
+      "name": "Natascha Hagen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natascha%20Hagen/216071"
+    },
+    {
+      "name": "Natascha King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natascha%20King/1189209"
+    },
+    {
+      "name": "Natasha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha/569122"
+    },
+    {
+      "name": "Natasha Bedingfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha%20Bedingfield/667957"
+    },
+    {
+      "name": "Natasha Marsh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha%20Marsh/868227"
+    },
+    {
+      "name": "Natasha Miller",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha%20Miller/555568"
+    },
+    {
+      "name": "Natasha St-Pier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha%20St-Pier/530905"
+    },
+    {
+      "name": "Natasha Thomas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha%20Thomas/704543"
+    },
+    {
+      "name": "NaTasha Yvette Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NaTasha%20Yvette%20Williams/735264"
+    },
+    {
+      "name": "Natasha's Ghost",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasha%27s%20Ghost/13759"
+    },
+    {
+      "name": "Natasja",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natasja/854997"
+    },
+    {
+      "name": "Natassa Theodoridou",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natassa%20Theodoridou/296521"
+    },
+    {
+      "name": "Nate & James",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20%26%20James/430363"
+    },
+    {
+      "name": "Nate Aweau",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20Aweau/210977"
+    },
+    {
+      "name": "Nate Birkey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20Birkey/398223"
+    },
+    {
+      "name": "Nate Dogg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20Dogg/200247"
+    },
+    {
+      "name": "Nate James",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20James/696631"
+    },
+    {
+      "name": "Nate Leath",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20Leath/463490"
+    },
+    {
+      "name": "Nate Najar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20Najar/533891"
+    },
+    {
+      "name": "Nate Sallie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nate%20Sallie/559872"
+    },
+    {
+      "name": "Natema",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natema/2639747"
+    },
+    {
+      "name": "Nathalie Cardone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathalie%20Cardone/434938"
+    },
+    {
+      "name": "Nathan & the Zydeco Cha Chas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20%26%20the%20Zydeco%20Cha%20Chas/34355"
+    },
+    {
+      "name": "Nathan Abshire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Abshire/709"
+    },
+    {
+      "name": "Nathan Alfaro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Alfaro/691945"
+    },
+    {
+      "name": "Nathan Aweau",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Aweau/998664"
+    },
+    {
+      "name": "Nathan Berg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Berg/6101"
+    },
+    {
+      "name": "Nathan Brian Wine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Brian%20Wine/442950"
+    },
+    {
+      "name": "Nathan Cohn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Cohn/1741481"
+    },
+    {
+      "name": "Nathan Coles",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Coles/362816"
+    },
+    {
+      "name": "Nathan Davis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Davis/8371"
+    },
+    {
+      "name": "Nathan Gunn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Gunn/375658"
+    },
+    {
+      "name": "Nathan Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Johnson/713491"
+    },
+    {
+      "name": "Nathan Kuruna",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Kuruna/1044783"
+    },
+    {
+      "name": "Nathan Madsen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Madsen/949229"
+    },
+    {
+      "name": "Nathan Martin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Martin/594618"
+    },
+    {
+      "name": "Nathan Michel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Michel/543142"
+    },
+    {
+      "name": "Nathan Morris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Morris/107577"
+    },
+    {
+      "name": "Nathan Pacheco",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Pacheco/1142351"
+    },
+    {
+      "name": "Nathan Reed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Reed/797797"
+    },
+    {
+      "name": "Nathan Rivers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Rivers/2628123"
+    },
+    {
+      "name": "Nathan Stanley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Stanley/849028"
+    },
+    {
+      "name": "Nathan Weinhold",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Weinhold/949252"
+    },
+    {
+      "name": "Nathan Wiley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathan%20Wiley/626364"
+    },
+    {
+      "name": "Nathaniel DJ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathaniel%20DJ/2587787"
+    },
+    {
+      "name": "Nathaniel Méchaly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathaniel%20M%C3%A9chaly/618431"
+    },
+    {
+      "name": "Nathaniel Smith Jazz Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathaniel%20Smith%20Jazz%20Project/2087469"
+    },
+    {
+      "name": "Nathaniel Street-West",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathaniel%20Street-West/640162"
+    },
+    {
+      "name": "Nathen Page",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathen%20Page/111953"
+    },
+    {
+      "name": "Nathifa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nathifa/1129602"
+    },
+    {
+      "name": "National Lampoon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Lampoon/210"
+    },
+    {
+      "name": "National Lutheran Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Lutheran%20Choir/551933"
+    },
+    {
+      "name": "National Philharmonic Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Philharmonic%20Orchestra/26785"
+    },
+    {
+      "name": "National Skyline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Skyline/423956"
+    },
+    {
+      "name": "National Symphony Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Symphony%20Orchestra/227342"
+    },
+    {
+      "name": "National Theatre Singers & Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Theatre%20Singers%20%26%20Orchestra/205964"
+    },
+    {
+      "name": "National Youth Jazz Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/National%20Youth%20Jazz%20Orchestra/182013"
+    },
+    {
+      "name": "Nationalteatern",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nationalteatern/510961"
+    },
+    {
+      "name": "Natiruts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natiruts/528690"
+    },
+    {
+      "name": "Native Deen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Native%20Deen/769474"
+    },
+    {
+      "name": "Native Nod",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Native%20Nod/205965"
+    },
+    {
+      "name": "Native Roots",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Native%20Roots/371340"
+    },
+    {
+      "name": "Native Son",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Native%20Son/1129837"
+    },
+    {
+      "name": "Nativsoul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nativsoul/2620071"
+    },
+    {
+      "name": "Nativus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nativus/822965"
+    },
+    {
+      "name": "Natlife",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natlife/1051079"
+    },
+    {
+      "name": "Natsuki Morikawa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natsuki%20Morikawa/1095187"
+    },
+    {
+      "name": "Natsumi Abe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natsumi%20Abe/868423"
+    },
+    {
+      "name": "Nattefrost",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nattefrost/647804"
+    },
+    {
+      "name": "Natty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natty/734093"
+    },
+    {
+      "name": "Natty Remo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natty%20Remo/718953"
+    },
+    {
+      "name": "Natura Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natura%20Project/2592351"
+    },
+    {
+      "name": "Natural",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural/513229"
+    },
+    {
+      "name": "Natural Born Chillers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Born%20Chillers/277935"
+    },
+    {
+      "name": "Natural Facts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Facts/1129610"
+    },
+    {
+      "name": "Natural Gas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Gas/19523"
+    },
+    {
+      "name": "Natural Living",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Living/2591299"
+    },
+    {
+      "name": "Natural Selection",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Selection/13764"
+    },
+    {
+      "name": "Natural Vibrations",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Vibrations/472630"
+    },
+    {
+      "name": "Natural Voice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Natural%20Voice/2682531"
+    },
+    {
+      "name": "Naturally 7",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naturally%207/431349"
+    },
+    {
+      "name": "Nature",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nature/351311"
+    },
+    {
+      "name": "Nature's Touch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nature%27s%20Touch/1908078"
+    },
+    {
+      "name": "NatureQuest",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NatureQuest/1938077"
+    },
+    {
+      "name": "Naughty by Nature",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naughty%20by%20Nature/78"
+    },
+    {
+      "name": "Naumachia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naumachia/835687"
+    },
+    {
+      "name": "Nause",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nause/2441097"
+    },
+    {
+      "name": "Nausea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nausea/13765"
+    },
+    {
+      "name": "Nautiluss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nautiluss/2625384"
+    },
+    {
+      "name": "Nave Dos Sonhos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nave%20Dos%20Sonhos/509262"
+    },
+    {
+      "name": "Naya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naya/1906022"
+    },
+    {
+      "name": "Nayo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nayo/736537"
+    },
+    {
+      "name": "Nayobe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nayobe/4994"
+    },
+    {
+      "name": "Naz Nomad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Naz%20Nomad/19614"
+    },
+    {
+      "name": "Nazarenes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nazarenes/735786"
+    },
+    {
+      "name": "Nazareth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nazareth/4995"
+    },
+    {
+      "name": "Nazir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nazir/529825"
+    },
+    {
+      "name": "NB Ridaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NB%20Ridaz/510411"
+    },
+    {
+      "name": "ND",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ND/716799"
+    },
+    {
+      "name": "NDE",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NDE/557517"
+    },
+    {
+      "name": "NDR Bigband",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NDR%20Bigband/526595"
+    },
+    {
+      "name": "Ne'la",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ne%27la/2334785"
+    },
+    {
+      "name": "Ne-Yo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ne-Yo/737022"
+    },
+    {
+      "name": "Neaera",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neaera/697624"
+    },
+    {
+      "name": "Neal & Leandra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20%26%20Leandra/141934"
+    },
+    {
+      "name": "Neal Casal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Casal/62986"
+    },
+    {
+      "name": "Neal Davis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Davis/27665"
+    },
+    {
+      "name": "Neal Ely",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Ely/38602"
+    },
+    {
+      "name": "Neal Haiduck",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Haiduck/366151"
+    },
+    {
+      "name": "Neal Hefti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Hefti/8729"
+    },
+    {
+      "name": "Neal Hefti & His Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Hefti%20%26%20His%20Orchestra/1688012"
+    },
+    {
+      "name": "Neal McCoy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20McCoy/1720"
+    },
+    {
+      "name": "Neal Morse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Morse/107705"
+    },
+    {
+      "name": "Neal Pattman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Pattman/34424"
+    },
+    {
+      "name": "Neal Schon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neal%20Schon/5367"
+    },
+    {
+      "name": "Neanderthals",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neanderthals/276553"
+    },
+    {
+      "name": "Near Miss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Near%20Miss/531587"
+    },
+    {
+      "name": "Nebelhexe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nebelhexe/662699"
+    },
+    {
+      "name": "Nebopad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nebopad/2694773"
+    },
+    {
+      "name": "Necro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necro/298142"
+    },
+    {
+      "name": "Necrodeath",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necrodeath/442718"
+    },
+    {
+      "name": "Necromantia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necromantia/289644"
+    },
+    {
+      "name": "Necronauts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necronauts/949339"
+    },
+    {
+      "name": "Necrophagia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necrophagia/13767"
+    },
+    {
+      "name": "Necrophagist",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necrophagist/609579"
+    },
+    {
+      "name": "Necrophobic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Necrophobic/45201"
+    },
+    {
+      "name": "Ned Boynton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Boynton/58672"
+    },
+    {
+      "name": "Ned Doheny",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Doheny/38446"
+    },
+    {
+      "name": "Ned Goold",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Goold/287958"
+    },
+    {
+      "name": "Ned Ka'apana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Ka%27apana/294283"
+    },
+    {
+      "name": "Ned Miller",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Miller/24586"
+    },
+    {
+      "name": "Ned Nash Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Nash%20Orchestra/179514"
+    },
+    {
+      "name": "Ned Rifken",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Rifken/949345"
+    },
+    {
+      "name": "Ned Spurlock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Spurlock/142282"
+    },
+    {
+      "name": "Ned Sublette",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%20Sublette/3062"
+    },
+    {
+      "name": "Ned's Atomic Dustbin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ned%27s%20Atomic%20Dustbin/13769"
+    },
+    {
+      "name": "Nedelle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nedelle/558933"
+    },
+    {
+      "name": "Nedra Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nedra%20Johnson/302814"
+    },
+    {
+      "name": "Need",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Need/1063325"
+    },
+    {
+      "name": "Needtobreathe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Needtobreathe/765594"
+    },
+    {
+      "name": "Neel Daniel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neel%20Daniel/664408"
+    },
+    {
+      "name": "Neel V",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neel%20V/1187925"
+    },
+    {
+      "name": "Nefarious",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nefarious/2593462"
+    },
+    {
+      "name": "Nefertiti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nefertiti/143211"
+    },
+    {
+      "name": "Neffa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neffa/510156"
+    },
+    {
+      "name": "Nega",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nega/2243543"
+    },
+    {
+      "name": "Negash Ali",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negash%20Ali/1039550"
+    },
+    {
+      "name": "Negativ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negativ/2399901"
+    },
+    {
+      "name": "Negative",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negative/835705"
+    },
+    {
+      "name": "Negative Approach",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negative%20Approach/23639"
+    },
+    {
+      "name": "Negative Flood Cycle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negative%20Flood%20Cycle/716922"
+    },
+    {
+      "name": "Negative Format",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negative%20Format/483359"
+    },
+    {
+      "name": "Negative FX",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negative%20FX/13770"
+    },
+    {
+      "name": "Negative Space",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negative%20Space/24648"
+    },
+    {
+      "name": "Negativland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negativland/4999"
+    },
+    {
+      "name": "Negramaro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negramaro/726215"
+    },
+    {
+      "name": "Negredo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negredo/875965"
+    },
+    {
+      "name": "Negrita",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negrita/213898"
+    },
+    {
+      "name": "Negrocan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negrocan/441349"
+    },
+    {
+      "name": "Negros",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negros/702671"
+    },
+    {
+      "name": "Negui",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Negui/1129619"
+    },
+    {
+      "name": "Nehemiah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nehemiah/277243"
+    },
+    {
+      "name": "Neil Andersson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Andersson/610086"
+    },
+    {
+      "name": "Neil Cacci",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Cacci/707443"
+    },
+    {
+      "name": "Neil Della Torre, Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Della%20Torre%2C%20Jr./423974"
+    },
+    {
+      "name": "Neil Diamond",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Diamond/4083"
+    },
+    {
+      "name": "Neil Finn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Finn/76135"
+    },
+    {
+      "name": "Neil Gaiman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Gaiman/821946"
+    },
+    {
+      "name": "Neil Halstead",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Halstead/171179"
+    },
+    {
+      "name": "Neil Henderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Henderson/187766"
+    },
+    {
+      "name": "Neil Hogan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Hogan/21768"
+    },
+    {
+      "name": "Neil Innes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Innes/18435"
+    },
+    {
+      "name": "Neil Janssen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Janssen/302921"
+    },
+    {
+      "name": "Neil Larsen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Larsen/96638"
+    },
+    {
+      "name": "Neil Merryweather",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Merryweather/25294"
+    },
+    {
+      "name": "Neil Michael Hagerty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Michael%20Hagerty/83295"
+    },
+    {
+      "name": "Neil Norman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Norman/13822"
+    },
+    {
+      "name": "Neil Perry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Perry/552366"
+    },
+    {
+      "name": "Neil Sedaka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Sedaka/3147"
+    },
+    {
+      "name": "Neil Speers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Speers/721010"
+    },
+    {
+      "name": "Neil Young",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Young/5896"
+    },
+    {
+      "name": "Neil Zaza",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neil%20Zaza/140813"
+    },
+    {
+      "name": "Nejo y Dalmata",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nejo%20y%20Dalmata/1008067"
+    },
+    {
+      "name": "Nek",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nek/213901"
+    },
+    {
+      "name": "Nekliff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nekliff/2586264"
+    },
+    {
+      "name": "Neko Case",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neko%20Case/215734"
+    },
+    {
+      "name": "Nekromantix",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nekromantix/451403"
+    },
+    {
+      "name": "Nektar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nektar/19532"
+    },
+    {
+      "name": "Nelda Alvarez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelda%20Alvarez/430419"
+    },
+    {
+      "name": "Neljänsuora",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelj%C3%A4nsuora/1084827"
+    },
+    {
+      "name": "Nell Bryden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nell%20Bryden/627955"
+    },
+    {
+      "name": "Nella Dodds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nella%20Dodds/514599"
+    },
+    {
+      "name": "Nellie Lutcher",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nellie%20Lutcher/23219"
+    },
+    {
+      "name": "Nellie McKay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nellie%20McKay/636229"
+    },
+    {
+      "name": "Nelly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelly/416191"
+    },
+    {
+      "name": "Nelly Furtado",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelly%20Furtado/451535"
+    },
+    {
+      "name": "Nels Cline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nels%20Cline/6295"
+    },
+    {
+      "name": "Nelsen Adelard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelsen%20Adelard/50525"
+    },
+    {
+      "name": "Nelson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson/3370"
+    },
+    {
+      "name": "Nelson Ângelo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20%C3%82ngelo/52031"
+    },
+    {
+      "name": "Nelson Cavaquinho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Cavaquinho/211511"
+    },
+    {
+      "name": "Nelson Eddy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Eddy/12854"
+    },
+    {
+      "name": "Nelson Flaco Padron",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Flaco%20Padron/111915"
+    },
+    {
+      "name": "Nelson Gill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Gill/480595"
+    },
+    {
+      "name": "Nelson Gonçalves",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Gon%C3%A7alves/32456"
+    },
+    {
+      "name": "Nelson Ned",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Ned/29323"
+    },
+    {
+      "name": "Nelson Rangell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Rangell/7382"
+    },
+    {
+      "name": "Nelson Riddle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Riddle/109187"
+    },
+    {
+      "name": "Nelson Super Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nelson%20Super%20Project/1086436"
+    },
+    {
+      "name": "Nemesis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nemesis/526248"
+    },
+    {
+      "name": "Nemesis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nemesis/13776"
+    },
+    {
+      "name": "Nemesis Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nemesis%20Quartet/213903"
+    },
+    {
+      "name": "Nemo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nemo/481890"
+    },
+    {
+      "name": "Nena",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nena/5005"
+    },
+    {
+      "name": "Nena Daconte",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nena%20Daconte/840808"
+    },
+    {
+      "name": "Nena Guzman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nena%20Guzman/2512329"
+    },
+    {
+      "name": "Nenad Bach",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nenad%20Bach/324026"
+    },
+    {
+      "name": "Nene Souragassi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nene%20Souragassi/289734"
+    },
+    {
+      "name": "Neneh Cherry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neneh%20Cherry/64109"
+    },
+    {
+      "name": "Ñengo Flow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/%C3%91engo%20Flow/749893"
+    },
+    {
+      "name": "Nenhum de Nos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nenhum%20de%20Nos/454605"
+    },
+    {
+      "name": "Neo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neo/999503"
+    },
+    {
+      "name": "Neo Mind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neo%20Mind/2609379"
+    },
+    {
+      "name": "Neocolours",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neocolours/440628"
+    },
+    {
+      "name": "Neology",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neology/716949"
+    },
+    {
+      "name": "Neon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon/19535"
+    },
+    {
+      "name": "Neon Blonde",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Blonde/729549"
+    },
+    {
+      "name": "Neon Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Brown/716951"
+    },
+    {
+      "name": "Neon Indian",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Indian/1169212"
+    },
+    {
+      "name": "Neon Nights",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Nights/918077"
+    },
+    {
+      "name": "Neon Rose",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Rose/19539"
+    },
+    {
+      "name": "Neon Swing X-Perience",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Swing%20X-Perience/949427"
+    },
+    {
+      "name": "Neon Trees",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neon%20Trees/2101324"
+    },
+    {
+      "name": "Neonica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neonica/2425665"
+    },
+    {
+      "name": "Neotone System",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neotone%20System/2620068"
+    },
+    {
+      "name": "Neotropic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neotropic/183175"
+    },
+    {
+      "name": "Nephew",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nephew/971491"
+    },
+    {
+      "name": "Neptunas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neptunas/201941"
+    },
+    {
+      "name": "Nerds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nerds/213905"
+    },
+    {
+      "name": "Nerf Herder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nerf%20Herder/201942"
+    },
+    {
+      "name": "Neri Per Caso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neri%20Per%20Caso/206155"
+    },
+    {
+      "name": "Nerina Pallot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nerina%20Pallot/528546"
+    },
+    {
+      "name": "Nerio's Dubwork",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nerio%27s%20Dubwork/401519"
+    },
+    {
+      "name": "Nerissa Nields",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nerissa%20Nields/339241"
+    },
+    {
+      "name": "Nero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nero/2429249"
+    },
+    {
+      "name": "Nero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nero/716956"
+    },
+    {
+      "name": "NERVO",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NERVO/2176571"
+    },
+    {
+      "name": "Nervous Norvus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nervous%20Norvus/211"
+    },
+    {
+      "name": "Nesian Mystik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nesian%20Mystik/743648"
+    },
+    {
+      "name": "Ness Bautista",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ness%20Bautista/739053"
+    },
+    {
+      "name": "Nessai",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nessai/2707070"
+    },
+    {
+      "name": "Nestor Torres",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nestor%20Torres/7702"
+    },
+    {
+      "name": "Netherbird",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Netherbird/1070611"
+    },
+    {
+      "name": "Netherworld",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Netherworld/558175"
+    },
+    {
+      "name": "Netik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Netik/1777684"
+    },
+    {
+      "name": "Netinho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Netinho/213909"
+    },
+    {
+      "name": "Nettai Tropical Jazz Big Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nettai%20Tropical%20Jazz%20Big%20Band/294470"
+    },
+    {
+      "name": "Network",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Network/19544"
+    },
+    {
+      "name": "Network Reps",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Network%20Reps/370017"
+    },
+    {
+      "name": "Netz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Netz/473750"
+    },
+    {
+      "name": "Netzwerk",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Netzwerk/40607"
+    },
+    {
+      "name": "Neue Böhmische Blasmusik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neue%20B%C3%B6hmische%20Blasmusik/1028949"
+    },
+    {
+      "name": "Neuraxis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neuraxis/657405"
+    },
+    {
+      "name": "Neuroactive",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neuroactive/384031"
+    },
+    {
+      "name": "NeuroKnights",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NeuroKnights/2626976"
+    },
+    {
+      "name": "Neuronspoiler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neuronspoiler/2346875"
+    },
+    {
+      "name": "Neurosis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neurosis/13779"
+    },
+    {
+      "name": "Neurosonic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neurosonic/848732"
+    },
+    {
+      "name": "Neurotic Outsiders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neurotic%20Outsiders/194723"
+    },
+    {
+      "name": "Neurotica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neurotica/290482"
+    },
+    {
+      "name": "Neuroticfish",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neuroticfish/515114"
+    },
+    {
+      "name": "Neurotics",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neurotics/143988"
+    },
+    {
+      "name": "Neury Luciano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neury%20Luciano/949462"
+    },
+    {
+      "name": "Neutral Milk Hotel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neutral%20Milk%20Hotel/200054"
+    },
+    {
+      "name": "Neva Dinova",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neva%20Dinova/534460"
+    },
+    {
+      "name": "Neva River Rockets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neva%20River%20Rockets/742242"
+    },
+    {
+      "name": "Neva Small",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neva%20Small/172720"
+    },
+    {
+      "name": "Nevada Slim",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevada%20Slim/190475"
+    },
+    {
+      "name": "Nevada Tan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevada%20Tan/915185"
+    },
+    {
+      "name": "Neve",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neve/297785"
+    },
+    {
+      "name": "Nevea Tears",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevea%20Tears/675171"
+    },
+    {
+      "name": "Never Heard of It",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Never%20Heard%20of%20It/531207"
+    },
+    {
+      "name": "Never Met a Dead Man",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Never%20Met%20a%20Dead%20Man/2270894"
+    },
+    {
+      "name": "Never Shout Never",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Never%20Shout%20Never/1097226"
+    },
+    {
+      "name": "Neverending White Lights",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neverending%20White%20Lights/745930"
+    },
+    {
+      "name": "Neverest",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neverest/2356096"
+    },
+    {
+      "name": "Neverland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neverland/525106"
+    },
+    {
+      "name": "Neverland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neverland/835731"
+    },
+    {
+      "name": "Nevermore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevermore/13783"
+    },
+    {
+      "name": "Neversay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neversay/716974"
+    },
+    {
+      "name": "Nevertheless",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevertheless/827578"
+    },
+    {
+      "name": "Neville Bassey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neville%20Bassey/706172"
+    },
+    {
+      "name": "Neville Brothers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neville%20Brothers/5010"
+    },
+    {
+      "name": "Neville Marcano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neville%20Marcano/156959"
+    },
+    {
+      "name": "Neville Peter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Neville%20Peter/561766"
+    },
+    {
+      "name": "Nevio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevio/889650"
+    },
+    {
+      "name": "Nevoa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nevoa/677144"
+    },
+    {
+      "name": "New American Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20American%20Orchestra/40614"
+    },
+    {
+      "name": "New Atlantic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Atlantic/40615"
+    },
+    {
+      "name": "New Birth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Birth/5012"
+    },
+    {
+      "name": "New Black Eagle Jazz Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Black%20Eagle%20Jazz%20Band/11290"
+    },
+    {
+      "name": "New Blood Revival",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Blood%20Revival/890842"
+    },
+    {
+      "name": "New Bomb Turks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Bomb%20Turks/144746"
+    },
+    {
+      "name": "New Boyz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Boyz/1162033"
+    },
+    {
+      "name": "New Buffalo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Buffalo/737525"
+    },
+    {
+      "name": "New Colony Six",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Colony%20Six/19551"
+    },
+    {
+      "name": "New Cool Collective",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Cool%20Collective/224413"
+    },
+    {
+      "name": "New Coon Creek Girls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Coon%20Creek%20Girls/2090"
+    },
+    {
+      "name": "New Deal Rhythm Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Deal%20Rhythm%20Band/142164"
+    },
+    {
+      "name": "New Dimensions",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Dimensions/24655"
+    },
+    {
+      "name": "New Direction",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Direction/365536"
+    },
+    {
+      "name": "New Eden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Eden/362046"
+    },
+    {
+      "name": "New Edition",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Edition/5014"
+    },
+    {
+      "name": "New Element",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Element/365910"
+    },
+    {
+      "name": "New End Original",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20End%20Original/507523"
+    },
+    {
+      "name": "New England",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20England/19552"
+    },
+    {
+      "name": "New England Conservatory Jazz Repertory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20England%20Conservatory%20Jazz%20Repertory/572095"
+    },
+    {
+      "name": "New England Conservatory Ragtime Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20England%20Conservatory%20Ragtime%20Ensemble/11291"
+    },
+    {
+      "name": "New England Jazz Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20England%20Jazz%20Ensemble/213915"
+    },
+    {
+      "name": "New Fast Automatic Daffodils",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Fast%20Automatic%20Daffodils/13787"
+    },
+    {
+      "name": "New Flesh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Flesh/278920"
+    },
+    {
+      "name": "New Found Glory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Found%20Glory/384007"
+    },
+    {
+      "name": "New Four Freshmen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Four%20Freshmen/45203"
+    },
+    {
+      "name": "New G",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20G/1623648"
+    },
+    {
+      "name": "New Grange",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Grange/375564"
+    },
+    {
+      "name": "New Grass Revival",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Grass%20Revival/668"
+    },
+    {
+      "name": "New Guitar Summit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Guitar%20Summit/681552"
+    },
+    {
+      "name": "New Hawaiian Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Hawaiian%20Band/13788"
+    },
+    {
+      "name": "New Hawn Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Hawn%20Band/1630946"
+    },
+    {
+      "name": "New Heights",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Heights/949499"
+    },
+    {
+      "name": "New Holidays",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Holidays/568229"
+    },
+    {
+      "name": "New Hope Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Hope%20Choir/864461"
+    },
+    {
+      "name": "New Idea Society",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Idea%20Society/553601"
+    },
+    {
+      "name": "New Japan Philharmonic Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Japan%20Philharmonic%20Orchestra/758267"
+    },
+    {
+      "name": "New Jazz Art Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Jazz%20Art%20Ensemble/11293"
+    },
+    {
+      "name": "New Jerusalem",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Jerusalem/463733"
+    },
+    {
+      "name": "New Kids on the Block",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Kids%20on%20the%20Block/5015"
+    },
+    {
+      "name": "New Latin Quarter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Latin%20Quarter/2170143"
+    },
+    {
+      "name": "New Life",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Life/620285"
+    },
+    {
+      "name": "New Life Worship",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Life%20Worship/887808"
+    },
+    {
+      "name": "New Line Brass Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Line%20Brass%20Band/423770"
+    },
+    {
+      "name": "New London Fire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20London%20Fire/820566"
+    },
+    {
+      "name": "New MacDonald's Farm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20MacDonald%27s%20Farm/842458"
+    },
+    {
+      "name": "New Medicine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Medicine/2223331"
+    },
+    {
+      "name": "New Model Army",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Model%20Army/5016"
+    },
+    {
+      "name": "New Monkees",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Monkees/23988"
+    },
+    {
+      "name": "New Musik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Musik/19556"
+    },
+    {
+      "name": "New Navy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Navy/2496841"
+    },
+    {
+      "name": "New Order",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Order/5017"
+    },
+    {
+      "name": "New Orleans All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20All%20Stars/7222"
+    },
+    {
+      "name": "New Orleans All-Star Stompers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20All-Star%20Stompers/371284"
+    },
+    {
+      "name": "New Orleans Blues Serenaders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Blues%20Serenaders/213918"
+    },
+    {
+      "name": "New Orleans Brass",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Brass/213919"
+    },
+    {
+      "name": "New Orleans C.A.C. Jazz Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20C.A.C.%20Jazz%20Orchestra/200619"
+    },
+    {
+      "name": "New Orleans Jazz Babies",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Jazz%20Babies/513242"
+    },
+    {
+      "name": "New Orleans Jazz Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Jazz%20Band/442460"
+    },
+    {
+      "name": "New Orleans Jazz Vipers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Jazz%20Vipers/685671"
+    },
+    {
+      "name": "New Orleans Rhythm Kings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Rhythm%20Kings/11304"
+    },
+    {
+      "name": "New Orleans Saxophone Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Saxophone%20Ensemble/473286"
+    },
+    {
+      "name": "New Orleans Serenaders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Serenaders/635550"
+    },
+    {
+      "name": "New Orleans Statesmen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Orleans%20Statesmen/213921"
+    },
+    {
+      "name": "New Politics ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Politics%20/2124023"
+    },
+    {
+      "name": "New Power Generation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Power%20Generation/144430"
+    },
+    {
+      "name": "New Race",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Race/19559"
+    },
+    {
+      "name": "New Ridaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Ridaz/781811"
+    },
+    {
+      "name": "New Riders of the Purple Sage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Riders%20of%20the%20Purple%20Sage/5018"
+    },
+    {
+      "name": "New Romance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Romance/2123035"
+    },
+    {
+      "name": "New Skin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Skin/771161"
+    },
+    {
+      "name": "New Society of Anarchists",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Society%20of%20Anarchists/553511"
+    },
+    {
+      "name": "New Son Rising",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Son%20Rising/704573"
+    },
+    {
+      "name": "New Spirit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Spirit/27952"
+    },
+    {
+      "name": "New Stanton Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Stanton%20Band/213925"
+    },
+    {
+      "name": "New Stories",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Stories/194676"
+    },
+    {
+      "name": "New Symphonic Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Symphonic%20Orchestra/724493"
+    },
+    {
+      "name": "New Trolls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Trolls/174889"
+    },
+    {
+      "name": "New Variety Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Variety%20Band/34366"
+    },
+    {
+      "name": "New Vaudeville Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Vaudeville%20Band/24664"
+    },
+    {
+      "name": "New Winds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Winds/11310"
+    },
+    {
+      "name": "New World Jazz Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20World%20Jazz%20Project/1035282"
+    },
+    {
+      "name": "New World Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20World%20Orchestra/507837"
+    },
+    {
+      "name": "New Years Day",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Years%20Day/865101"
+    },
+    {
+      "name": "New York City",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20City/19561"
+    },
+    {
+      "name": "New York City Fire Department",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20City%20Fire%20Department/527185"
+    },
+    {
+      "name": "New York City Gay Men's Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20City%20Gay%20Men%27s%20Chorus/26791"
+    },
+    {
+      "name": "New York Dolls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Dolls/5019"
+    },
+    {
+      "name": "New York Electric Piano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Electric%20Piano/703931"
+    },
+    {
+      "name": "New York Ensemble for Early Music",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Ensemble%20for%20Early%20Music/200573"
+    },
+    {
+      "name": "New York Harlem Gospel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Harlem%20Gospel/876020"
+    },
+    {
+      "name": "New York Jazz Assembly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Jazz%20Assembly/376143"
+    },
+    {
+      "name": "New York Jazz Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Jazz%20Quartet/7224"
+    },
+    {
+      "name": "New York Jimmy & the Jive Five",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Jimmy%20%26%20the%20Jive%20Five/355300"
+    },
+    {
+      "name": "New York Latin Jazz Allstars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Latin%20Jazz%20Allstars/1929213"
+    },
+    {
+      "name": "New York Noise",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Noise/1650385"
+    },
+    {
+      "name": "New York Pops",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Pops/40629"
+    },
+    {
+      "name": "New York Renaissance Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Renaissance%20Band/1730776"
+    },
+    {
+      "name": "New York Rock and Soul Revue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Rock%20and%20Soul%20Revue/783170"
+    },
+    {
+      "name": "New York Ska Jazz Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Ska%20Jazz%20Ensemble/203013"
+    },
+    {
+      "name": "New York Standards Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Standards%20Quartet/2363317"
+    },
+    {
+      "name": "New York Symphony Children's Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Symphony%20Children%27s%20Chorus/1368772"
+    },
+    {
+      "name": "New York Symphony Orchestra & Chorale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Symphony%20Orchestra%20%26%20Chorale/31000"
+    },
+    {
+      "name": "New York Theatre Orchestra & Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Theatre%20Orchestra%20%26%20Chorus/320804"
+    },
+    {
+      "name": "New York Treble Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Treble%20Singers/200562"
+    },
+    {
+      "name": "New York Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Trio/517436"
+    },
+    {
+      "name": "New York Trumpet Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Trumpet%20Ensemble/40631"
+    },
+    {
+      "name": "New York Vocal Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Vocal%20Ensemble/109435"
+    },
+    {
+      "name": "New York Voices",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20York%20Voices/7226"
+    },
+    {
+      "name": "New Young Pony Club",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New%20Young%20Pony%20Club/775197"
+    },
+    {
+      "name": "New-Soul-Lution",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/New-Soul-Lution/1019355"
+    },
+    {
+      "name": "Newark Anonymous Clik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newark%20Anonymous%20Clik/372368"
+    },
+    {
+      "name": "Newbreed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newbreed/1129657"
+    },
+    {
+      "name": "Newcleus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newcleus/19565"
+    },
+    {
+      "name": "Newell Oler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newell%20Oler/555175"
+    },
+    {
+      "name": "Newman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newman/2631836"
+    },
+    {
+      "name": "Newpoli",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newpoli/1050086"
+    },
+    {
+      "name": "Newport Jazz All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newport%20Jazz%20All%20Stars/529462"
+    },
+    {
+      "name": "Newport Jazz Festival All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newport%20Jazz%20Festival%20All%20Stars/7230"
+    },
+    {
+      "name": "Newports",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newports/643410"
+    },
+    {
+      "name": "News at Eleven",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/News%20at%20Eleven/441762"
+    },
+    {
+      "name": "Newsboys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newsboys/34368"
+    },
+    {
+      "name": "NewSong",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NewSong/32133"
+    },
+    {
+      "name": "Newsworthy Music",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newsworthy%20Music/949555"
+    },
+    {
+      "name": "Newton Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newton%20Boys/291262"
+    },
+    {
+      "name": "Newton Faulkner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newton%20Faulkner/842102"
+    },
+    {
+      "name": "Newton Wayland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newton%20Wayland/11939"
+    },
+    {
+      "name": "Newtown Neurotics",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newtown%20Neurotics/19568"
+    },
+    {
+      "name": "Newworldson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Newworldson/1018660"
+    },
+    {
+      "name": "Next",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Next/225344"
+    },
+    {
+      "name": "Next Exit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Next%20Exit/380563"
+    },
+    {
+      "name": "Next in Line",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Next%20in%20Line/1047433"
+    },
+    {
+      "name": "Next Left",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Next%20Left/441844"
+    },
+    {
+      "name": "Next Level",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Next%20Level/290486"
+    },
+    {
+      "name": "Next To Me",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Next%20To%20Me/2677261"
+    },
+    {
+      "name": "Nexus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nexus/703607"
+    },
+    {
+      "name": "Nexxus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nexxus/440623"
+    },
+    {
+      "name": "Ney Matogrosso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ney%20Matogrosso/11145"
+    },
+    {
+      "name": "Nguyên Lê",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nguy%C3%AAn%20L%C3%AA/178646"
+    },
+    {
+      "name": "Nhojj",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nhojj/673867"
+    },
+    {
+      "name": "Nia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nia/392748"
+    },
+    {
+      "name": "Nia Peeples",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nia%20Peeples/5122"
+    },
+    {
+      "name": "Nia Quintet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nia%20Quintet/754446"
+    },
+    {
+      "name": "Niacin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niacin/200355"
+    },
+    {
+      "name": "Niagara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niagara/560044"
+    },
+    {
+      "name": "Niagara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niagara/436201"
+    },
+    {
+      "name": "Niagara Rhythm Section",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niagara%20Rhythm%20Section/1115254"
+    },
+    {
+      "name": "Niall Byrne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niall%20Byrne/831479"
+    },
+    {
+      "name": "Niall Toner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niall%20Toner/696819"
+    },
+    {
+      "name": "Niamh Parsons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niamh%20Parsons/34417"
+    },
+    {
+      "name": "Niblick Henbane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niblick%20Henbane/470290"
+    },
+    {
+      "name": "Nibs Van der Spuy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nibs%20Van%20der%20Spuy/857097"
+    },
+    {
+      "name": "Nic Armstrong",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nic%20Armstrong/651438"
+    },
+    {
+      "name": "Nic Fanciulli",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nic%20Fanciulli/681230"
+    },
+    {
+      "name": "Nic Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nic%20Jones/810"
+    },
+    {
+      "name": "Nica Jerry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nica%20Jerry/1115517"
+    },
+    {
+      "name": "Nicci Gilbert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicci%20Gilbert/469922"
+    },
+    {
+      "name": "Niccolò Fabi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niccol%C3%B2%20Fabi/320485"
+    },
+    {
+      "name": "Nice & Smooth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nice%20%26%20Smooth/15133"
+    },
+    {
+      "name": "Nice Jazz Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nice%20Jazz%20Trio/696146"
+    },
+    {
+      "name": "Nice Little Penguins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nice%20Little%20Penguins/294992"
+    },
+    {
+      "name": "Niceto Festin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niceto%20Festin/949592"
+    },
+    {
+      "name": "Nichelle Nichols",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nichelle%20Nichols/143224"
+    },
+    {
+      "name": "Nicho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicho/535394"
+    },
+    {
+      "name": "Nicho Hinojosa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicho%20Hinojosa/375043"
+    },
+    {
+      "name": "Nicholas Hoffman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Hoffman/463825"
+    },
+    {
+      "name": "Nicholas Hooper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Hooper/387228"
+    },
+    {
+      "name": "Nicholas Jonas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Jonas/680284"
+    },
+    {
+      "name": "Nicholas Markos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Markos/289074"
+    },
+    {
+      "name": "Nicholas Payton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Payton/113010"
+    },
+    {
+      "name": "Nicholas Peter Fettis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Peter%20Fettis/1129689"
+    },
+    {
+      "name": "Nicholas Pike",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Pike/114523"
+    },
+    {
+      "name": "Nicholas Tremulis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Tremulis/14544"
+    },
+    {
+      "name": "Nicholas Vitale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%20Vitale/699910"
+    },
+    {
+      "name": "Nicholas, Glover & Wray",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicholas%2C%20Glover%20%26%20Wray/717033"
+    },
+    {
+      "name": "Nichole Nordeman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nichole%20Nordeman/320417"
+    },
+    {
+      "name": "Nici",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nici/2602582"
+    },
+    {
+      "name": "Nick & the Backbone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20%26%20the%20Backbone/1035085"
+    },
+    {
+      "name": "Nick Baker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Baker/460658"
+    },
+    {
+      "name": "Nick Binkley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Binkley/423355"
+    },
+    {
+      "name": "Nick Brignola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Brignola/6173"
+    },
+    {
+      "name": "Nick Cannon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Cannon/555190"
+    },
+    {
+      "name": "Nick Carter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Carter/295354"
+    },
+    {
+      "name": "Nick Castillo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Castillo/1009618"
+    },
+    {
+      "name": "Nick Cave",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Cave/3854"
+    },
+    {
+      "name": "Nick Cave / Warren Ellis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Cave%20%2F%20Warren%20Ellis/1230583"
+    },
+    {
+      "name": "Nick Chung",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Chung/1075532"
+    },
+    {
+      "name": "Nick Colionne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Colionne/204577"
+    },
+    {
+      "name": "Nick Curran",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Curran/426370"
+    },
+    {
+      "name": "Nick D'Egidio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20D%27Egidio/480910"
+    },
+    {
+      "name": "Nick DeCaro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20DeCaro/69357"
+    },
+    {
+      "name": "Nick Drake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Drake/1963"
+    },
+    {
+      "name": "Nick Evans Mowery",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Evans%20Mowery/716655"
+    },
+    {
+      "name": "Nick Fiorucci",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Fiorucci/241996"
+    },
+    {
+      "name": "Nick Gilder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Gilder/17858"
+    },
+    {
+      "name": "Nick Gravenites",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Gravenites/17991"
+    },
+    {
+      "name": "Nick Hempton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Hempton/1136577"
+    },
+    {
+      "name": "Nick Heyward",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Heyward/4480"
+    },
+    {
+      "name": "Nick Holder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Holder/277740"
+    },
+    {
+      "name": "Nick Höppner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20H%C3%B6ppner/1103859"
+    },
+    {
+      "name": "Nick Hornby",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Hornby/858006"
+    },
+    {
+      "name": "Nick Ingman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Ingman/89231"
+    },
+    {
+      "name": "Nick Jonas & the Administration",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Jonas%20%26%20the%20Administration/2097797"
+    },
+    {
+      "name": "Nick Kamen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Kamen/22946"
+    },
+    {
+      "name": "Nick Kepics",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Kepics/535348"
+    },
+    {
+      "name": "Nick Lachey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Lachey/351437"
+    },
+    {
+      "name": "Nick Lowe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Lowe/99712"
+    },
+    {
+      "name": "Nick Lucas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Lucas/23274"
+    },
+    {
+      "name": "Nick Manson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Manson/101559"
+    },
+    {
+      "name": "Nick Marino",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Marino/949642"
+    },
+    {
+      "name": "Nick Mason",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Mason/19210"
+    },
+    {
+      "name": "Nick Minoro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Minoro/2620009"
+    },
+    {
+      "name": "Nick Moore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Moore/158091"
+    },
+    {
+      "name": "Nick Page",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Page/111954"
+    },
+    {
+      "name": "Nick Pheomotion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Pheomotion/2483636"
+    },
+    {
+      "name": "Nick Rolfe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Rolfe/352465"
+    },
+    {
+      "name": "Nick Ross",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Ross/1093852"
+    },
+    {
+      "name": "Nick Scotti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Scotti/41448"
+    },
+    {
+      "name": "Nick Skitz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Skitz/290678"
+    },
+    {
+      "name": "Nick Stanley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Stanley/1129707"
+    },
+    {
+      "name": "Nick Stefanacci Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Stefanacci%20Band/2273710"
+    },
+    {
+      "name": "Nick Straker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Straker/515224"
+    },
+    {
+      "name": "Nick Sweepah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Sweepah/837818"
+    },
+    {
+      "name": "Nick Thayer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Thayer/782393"
+    },
+    {
+      "name": "Nick the Nightfly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20the%20Nightfly/778051"
+    },
+    {
+      "name": "Nick Thompson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Thompson/423436"
+    },
+    {
+      "name": "Nick Todd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Todd/193365"
+    },
+    {
+      "name": "Nick Tonze",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Tonze/2643030"
+    },
+    {
+      "name": "Nick Tosches",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Tosches/286167"
+    },
+    {
+      "name": "Nick Urata",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Urata/615103"
+    },
+    {
+      "name": "Nick Warren",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Warren/224669"
+    },
+    {
+      "name": "Nick Waterhouse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Waterhouse/2464023"
+    },
+    {
+      "name": "Nick Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nick%20Williams/286552"
+    },
+    {
+      "name": "Nickel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nickel/401841"
+    },
+    {
+      "name": "Nickel Creek",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nickel%20Creek/419652"
+    },
+    {
+      "name": "Nickelback",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nickelback/410589"
+    },
+    {
+      "name": "Nickelodeon Nostalgia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nickelodeon%20Nostalgia/23002"
+    },
+    {
+      "name": "Nicki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicki/294993"
+    },
+    {
+      "name": "Nicki Denner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicki%20Denner/949670"
+    },
+    {
+      "name": "Nicki French",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicki%20French/168546"
+    },
+    {
+      "name": "Nicki Minaj",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicki%20Minaj/1049866"
+    },
+    {
+      "name": "Nicki Parrott",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicki%20Parrott/399957"
+    },
+    {
+      "name": "Nicki Sheen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicki%20Sheen/2580016"
+    },
+    {
+      "name": "Nicklebag",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicklebag/206004"
+    },
+    {
+      "name": "Nickodemus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nickodemus/542258"
+    },
+    {
+      "name": "Nickpeace",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nickpeace/1035844"
+    },
+    {
+      "name": "Nicky Crayson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Crayson/521026"
+    },
+    {
+      "name": "Nicky DePaola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20DePaola/533094"
+    },
+    {
+      "name": "Nicky Grown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Grown/2603068"
+    },
+    {
+      "name": "Nicky Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Harris/84618"
+    },
+    {
+      "name": "Nicky Jam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Jam/465021"
+    },
+    {
+      "name": "Nicky the Jazz Cat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20the%20Jazz%20Cat/755696"
+    },
+    {
+      "name": "Nicky Thomas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Thomas/21011"
+    },
+    {
+      "name": "Nicky Wire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Wire/139158"
+    },
+    {
+      "name": "Nicky Z",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicky%20Z/989779"
+    },
+    {
+      "name": "Niclas Knudsen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niclas%20Knudsen/251359"
+    },
+    {
+      "name": "Nico",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico/5027"
+    },
+    {
+      "name": "Nico",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico/717047"
+    },
+    {
+      "name": "Nico Demonte",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Demonte/695004"
+    },
+    {
+      "name": "Nico Fidenco",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Fidenco/212254"
+    },
+    {
+      "name": "Nico Lahs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Lahs/2259673"
+    },
+    {
+      "name": "Nico Parisi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Parisi/466531"
+    },
+    {
+      "name": "Nico Stai",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Stai/949689"
+    },
+    {
+      "name": "Nico Strides",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Strides/2622856"
+    },
+    {
+      "name": "Nico Vega",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nico%20Vega/788803"
+    },
+    {
+      "name": "Nicol Sponberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicol%20Sponberg/162216"
+    },
+    {
+      "name": "Nicola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola/717050"
+    },
+    {
+      "name": "Nicola Conte",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola%20Conte/455886"
+    },
+    {
+      "name": "Nicola Di Bari",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola%20Di%20Bari/29081"
+    },
+    {
+      "name": "Nicola Galeri",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola%20Galeri/871979"
+    },
+    {
+      "name": "Nicola Hitchcock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola%20Hitchcock/475675"
+    },
+    {
+      "name": "Nicola Piovani",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola%20Piovani/114674"
+    },
+    {
+      "name": "Nicola Roberts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicola%20Roberts/863233"
+    },
+    {
+      "name": "Nicolai Dunger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolai%20Dunger/510685"
+    },
+    {
+      "name": "Nicolas de Angelis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolas%20de%20Angelis/210579"
+    },
+    {
+      "name": "Nicolas Dimitriadis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolas%20Dimitriadis/703602"
+    },
+    {
+      "name": "Nicolás Domínguez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicol%C3%A1s%20Dom%C3%ADnguez/2137965"
+    },
+    {
+      "name": "Nicolas Hodges",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolas%20Hodges/601962"
+    },
+    {
+      "name": "Nicolas Matar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolas%20Matar/507693"
+    },
+    {
+      "name": "Nicolas Montier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolas%20Montier/671054"
+    },
+    {
+      "name": "Nicolas Saboly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolas%20Saboly/315022"
+    },
+    {
+      "name": "Nicolay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolay/732729"
+    },
+    {
+      "name": "Nicole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole/365342"
+    },
+    {
+      "name": "Nicole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole/559178"
+    },
+    {
+      "name": "Nicole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole/5028"
+    },
+    {
+      "name": "Nicole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole/350667"
+    },
+    {
+      "name": "Nicole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole/380639"
+    },
+    {
+      "name": "Nicole \"Faithful\" Franklin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20%22Faithful%22%20Franklin/1171253"
+    },
+    {
+      "name": "Nicole Atkins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Atkins/746224"
+    },
+    {
+      "name": "Nicole C. Mullen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20C.%20Mullen/108204"
+    },
+    {
+      "name": "Nicole Dillenberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Dillenberg/396564"
+    },
+    {
+      "name": "Nicole Henry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Henry/387177"
+    },
+    {
+      "name": "Nicole Herzog",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Herzog/1118226"
+    },
+    {
+      "name": "Nicole Lvoff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Lvoff/2263545"
+    },
+    {
+      "name": "Nicole Nehama Auerbach",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Nehama%20Auerbach/705841"
+    },
+    {
+      "name": "Nicole Pasternak",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Pasternak/207348"
+    },
+    {
+      "name": "Nicole Scherzinger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Scherzinger/485251"
+    },
+    {
+      "name": "Nicole Willis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Willis/138501"
+    },
+    {
+      "name": "Nicole Wray",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Wray/367271"
+    },
+    {
+      "name": "Nicole Yarling",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Yarling/431740"
+    },
+    {
+      "name": "Nicole Zuraitis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicole%20Zuraitis/1082000"
+    },
+    {
+      "name": "Nicolete Courante",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolete%20Courante/211710"
+    },
+    {
+      "name": "Nicoletta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicoletta/555865"
+    },
+    {
+      "name": "Nicolette",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolette/109773"
+    },
+    {
+      "name": "Nicolette Larson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicolette%20Larson/18807"
+    },
+    {
+      "name": "Niconé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicon%C3%A9/1611245"
+    },
+    {
+      "name": "Nicotine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nicotine/407038"
+    },
+    {
+      "name": "Nidji",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nidji/918036"
+    },
+    {
+      "name": "Niebiesko-Czarni",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niebiesko-Czarni/922735"
+    },
+    {
+      "name": "Niels Frevert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels%20Frevert/774525"
+    },
+    {
+      "name": "Niels Jorgen Steen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels%20Jorgen%20Steen/162548"
+    },
+    {
+      "name": "Niels Lan Doky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels%20Lan%20Doky/71518"
+    },
+    {
+      "name": "Niels Neergaard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels%20Neergaard/109115"
+    },
+    {
+      "name": "Niels Tausk",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels%20Tausk/1013757"
+    },
+    {
+      "name": "Niels Van Gogh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels%20Van%20Gogh/466542"
+    },
+    {
+      "name": "Niels-Henning Ørsted Pedersen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niels-Henning%20%C3%98rsted%20Pedersen/85979"
+    },
+    {
+      "name": "Nigel Clark",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Clark/64786"
+    },
+    {
+      "name": "Nigel Hayes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Hayes/535197"
+    },
+    {
+      "name": "Nigel Hitchcock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Hitchcock/86985"
+    },
+    {
+      "name": "Nigel Kennedy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Kennedy/10944"
+    },
+    {
+      "name": "Nigel Mack",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Mack/508897"
+    },
+    {
+      "name": "Nigel Ogden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Ogden/555570"
+    },
+    {
+      "name": "Nigel Olsson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Olsson/111228"
+    },
+    {
+      "name": "Nigel Richards",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Richards/311667"
+    },
+    {
+      "name": "Nigel Waddington",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigel%20Waddington/838452"
+    },
+    {
+      "name": "Nigga",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigga/1023852"
+    },
+    {
+      "name": "Night",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night/19576"
+    },
+    {
+      "name": "Night Ark",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20Ark/2711"
+    },
+    {
+      "name": "Night Breed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20Breed/514360"
+    },
+    {
+      "name": "Night Conquers Day",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20Conquers%20Day/370752"
+    },
+    {
+      "name": "Night in Gales",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20in%20Gales/210551"
+    },
+    {
+      "name": "Night On Earth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20On%20Earth/213942"
+    },
+    {
+      "name": "Night Owls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20Owls/1960747"
+    },
+    {
+      "name": "Night Ranger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20Ranger/5029"
+    },
+    {
+      "name": "Night Society",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Night%20Society/402103"
+    },
+    {
+      "name": "Nightbyrd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightbyrd/680508"
+    },
+    {
+      "name": "Nightfall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightfall/577634"
+    },
+    {
+      "name": "Nighthawks at the Diner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nighthawks%20at%20the%20Diner/350605"
+    },
+    {
+      "name": "Nightingale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightingale/404326"
+    },
+    {
+      "name": "Nightingale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightingale/2712"
+    },
+    {
+      "name": "Nightloverz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightloverz/2424458"
+    },
+    {
+      "name": "Nightmare",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightmare/876055"
+    },
+    {
+      "name": "Nightmare",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightmare/19582"
+    },
+    {
+      "name": "Nightmare of You",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightmare%20of%20You/739062"
+    },
+    {
+      "name": "Nightmares on Wax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightmares%20on%20Wax/182441"
+    },
+    {
+      "name": "Nightrage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightrage/562377"
+    },
+    {
+      "name": "Nights Like These",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nights%20Like%20These/799688"
+    },
+    {
+      "name": "Nightwing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightwing/19584"
+    },
+    {
+      "name": "Nightwish",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nightwish/373181"
+    },
+    {
+      "name": "Nigo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nigo/442172"
+    },
+    {
+      "name": "Nihilist",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nihilist/458066"
+    },
+    {
+      "name": "Niji Densetsu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niji%20Densetsu/672396"
+    },
+    {
+      "name": "Nik Bärtsch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20B%C3%A4rtsch/772551"
+    },
+    {
+      "name": "Nik Feral",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20Feral/1184583"
+    },
+    {
+      "name": "Nik Kershaw",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20Kershaw/4668"
+    },
+    {
+      "name": "Nik Nikolov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20Nikolov/2147767"
+    },
+    {
+      "name": "Nik P.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20P./918921"
+    },
+    {
+      "name": "Nik Payton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20Payton/1044846"
+    },
+    {
+      "name": "Nik Turner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik%20Turner/133255"
+    },
+    {
+      "name": "Nik-Tash-Ta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nik-Tash-Ta/276980"
+    },
+    {
+      "name": "Nika Rejto",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nika%20Rejto/117857"
+    },
+    {
+      "name": "Niki and the Dove",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niki%20and%20the%20Dove/2394953"
+    },
+    {
+      "name": "Niki Aukema",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niki%20Aukema/37156"
+    },
+    {
+      "name": "Niki Haris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niki%20Haris/84293"
+    },
+    {
+      "name": "Niki King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niki%20King/834330"
+    },
+    {
+      "name": "Nikita Houselover",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikita%20Houselover/2503093"
+    },
+    {
+      "name": "Nikita Marasey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikita%20Marasey/2587998"
+    },
+    {
+      "name": "Nikita Shutov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikita%20Shutov/2694642"
+    },
+    {
+      "name": "Nikita Smychok",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikita%20Smychok/2698661"
+    },
+    {
+      "name": "Nikita Ukoloff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikita%20Ukoloff/2416322"
+    },
+    {
+      "name": "Nikitas Dallaris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikitas%20Dallaris/2212372"
+    },
+    {
+      "name": "Nikka Costa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikka%20Costa/480799"
+    },
+    {
+      "name": "Nikki Banks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Banks/706072"
+    },
+    {
+      "name": "Nikki Clan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Clan/1029414"
+    },
+    {
+      "name": "Nikki Cleary",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Cleary/568594"
+    },
+    {
+      "name": "Nikki D",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20D/68205"
+    },
+    {
+      "name": "Nikki Hassman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Hassman/153612"
+    },
+    {
+      "name": "Nikki Hornsby",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Hornsby/32428"
+    },
+    {
+      "name": "Nikki Kerkhof",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Kerkhof/1186598"
+    },
+    {
+      "name": "Nikki Leonti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Leonti/320407"
+    },
+    {
+      "name": "Nikki Loney",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Loney/1110038"
+    },
+    {
+      "name": "Nikki Sudden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Sudden/14413"
+    },
+    {
+      "name": "Nikki Yanofsky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikki%20Yanofsky/920958"
+    },
+    {
+      "name": "Nikkole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikkole/472537"
+    },
+    {
+      "name": "Nikoh E.S.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikoh%20E.S./913903"
+    },
+    {
+      "name": "Nikola Gala",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikola%20Gala/909299"
+    },
+    {
+      "name": "Nikola Sarcevic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikola%20Sarcevic/422248"
+    },
+    {
+      "name": "Nikola Vujicic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikola%20Vujicic/2431389"
+    },
+    {
+      "name": "Nikolai Stolz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolai%20Stolz/2587997"
+    },
+    {
+      "name": "Nikolaj Gromin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolaj%20Gromin/39183"
+    },
+    {
+      "name": "Nikolaj Steen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolaj%20Steen/13799"
+    },
+    {
+      "name": "Nikolay Baskov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolay%20Baskov/680274"
+    },
+    {
+      "name": "Nikolay Buskov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolay%20Buskov/442178"
+    },
+    {
+      "name": "Nikolay Makarov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolay%20Makarov/2667141"
+    },
+    {
+      "name": "Nikolo Kotzev",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikolo%20Kotzev/480992"
+    },
+    {
+      "name": "Nikoretti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikoretti/2643029"
+    },
+    {
+      "name": "Nikos Grapsas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nikos%20Grapsas/212525"
+    },
+    {
+      "name": "Nil Karaibrahimgil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nil%20Karaibrahimgil/853564"
+    },
+    {
+      "name": "Nil Lara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nil%20Lara/174862"
+    },
+    {
+      "name": "Nile",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nile/293761"
+    },
+    {
+      "name": "Nile Rodgers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nile%20Rodgers/20238"
+    },
+    {
+      "name": "Nilla Pizzi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nilla%20Pizzi/365879"
+    },
+    {
+      "name": "Nilo Calvany",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nilo%20Calvany/208269"
+    },
+    {
+      "name": "Nils",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nils/1817161"
+    },
+    {
+      "name": "Nils Landgren",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nils%20Landgren/96286"
+    },
+    {
+      "name": "Nils Lofgren",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nils%20Lofgren/4776"
+    },
+    {
+      "name": "Nils Wogram",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nils%20Wogram/165280"
+    },
+    {
+      "name": "Nils Wülker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nils%20W%C3%BClker/996854"
+    },
+    {
+      "name": "Nilson Matta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nilson%20Matta/102847"
+    },
+    {
+      "name": "Nim Vind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nim%20Vind/704010"
+    },
+    {
+      "name": "Nina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina/890846"
+    },
+    {
+      "name": "Nina & Frederik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20%26%20Frederik/24675"
+    },
+    {
+      "name": "Nina Divorcé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Divorc%C3%A9/2340827"
+    },
+    {
+      "name": "Nina Ferro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Ferro/949796"
+    },
+    {
+      "name": "Nina Gerber",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Gerber/79608"
+    },
+    {
+      "name": "Nina Gordon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Gordon/177461"
+    },
+    {
+      "name": "Nina Hagen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Hagen/4424"
+    },
+    {
+      "name": "Nina Hynes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Hynes/430459"
+    },
+    {
+      "name": "Nina Nastasia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Nastasia/464161"
+    },
+    {
+      "name": "Niña Pastori",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ni%C3%B1a%20Pastori/320446"
+    },
+    {
+      "name": "Nina Persson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Persson/433146"
+    },
+    {
+      "name": "Nina Postolovskaya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Postolovskaya/142328"
+    },
+    {
+      "name": "Nina Sheldon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Sheldon/1134409"
+    },
+    {
+      "name": "Nina Simone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Simone/3149"
+    },
+    {
+      "name": "Nina Sky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Sky/654763"
+    },
+    {
+      "name": "Nina Vidal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Vidal/745663"
+    },
+    {
+      "name": "Nina Zilli",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nina%20Zilli/1178124"
+    },
+    {
+      "name": "Nine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine/526614"
+    },
+    {
+      "name": "Nine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine/141707"
+    },
+    {
+      "name": "Nine Below Zero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Below%20Zero/19586"
+    },
+    {
+      "name": "Nine Black Alps",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Black%20Alps/725470"
+    },
+    {
+      "name": "Nine Days",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Days/430965"
+    },
+    {
+      "name": "Nine Gates",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Gates/2627096"
+    },
+    {
+      "name": "Nine Horses",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Horses/743881"
+    },
+    {
+      "name": "Nine Inch Elvis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Inch%20Elvis/442293"
+    },
+    {
+      "name": "Nine Inch Nails",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Inch%20Nails/5033"
+    },
+    {
+      "name": "Nine Lashes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Lashes/2473654"
+    },
+    {
+      "name": "Nine Pound Hammer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Pound%20Hammer/143992"
+    },
+    {
+      "name": "Nine Seven",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine%20Seven/717083"
+    },
+    {
+      "name": "Nine20",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nine20/519564"
+    },
+    {
+      "name": "Ninel Conde",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ninel%20Conde/583036"
+    },
+    {
+      "name": "Nineteen Forty-Five",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nineteen%20Forty-Five/480712"
+    },
+    {
+      "name": "Nineteen Wheels",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nineteen%20Wheels/201355"
+    },
+    {
+      "name": "Ninety Pound Wuss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ninety%20Pound%20Wuss/206013"
+    },
+    {
+      "name": "Niney the Observer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niney%20the%20Observer/109909"
+    },
+    {
+      "name": "Ning Baizura",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ning%20Baizura/1077681"
+    },
+    {
+      "name": "Nini Rosso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nini%20Rosso/120486"
+    },
+    {
+      "name": "Ninja High School",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ninja%20High%20School/743898"
+    },
+    {
+      "name": "Ninjaman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ninjaman/109913"
+    },
+    {
+      "name": "Ninnghizhidda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ninnghizhidda/618426"
+    },
+    {
+      "name": "Nino",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino/1143841"
+    },
+    {
+      "name": "Nino",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino/109918"
+    },
+    {
+      "name": "Nino Angelo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Angelo/1096597"
+    },
+    {
+      "name": "Nino Anthony",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Anthony/1098483"
+    },
+    {
+      "name": "Nino Bravo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Bravo/28995"
+    },
+    {
+      "name": "Nino Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Brown/473661"
+    },
+    {
+      "name": "Nino D'Angelo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20D%27Angelo/329678"
+    },
+    {
+      "name": "Nino de Angelo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20de%20Angelo/704501"
+    },
+    {
+      "name": "Niño Josele",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ni%C3%B1o%20Josele/213946"
+    },
+    {
+      "name": "Nino Mammina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Mammina/520279"
+    },
+    {
+      "name": "Nino Moschella",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Moschella/697554"
+    },
+    {
+      "name": "Nino Rossano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Rossano/143374"
+    },
+    {
+      "name": "Nino Rossi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Rossi/214538"
+    },
+    {
+      "name": "Nino Rota",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Rota/1360"
+    },
+    {
+      "name": "Nino Tempo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Tempo/25819"
+    },
+    {
+      "name": "Nino Valsany",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nino%20Valsany/879800"
+    },
+    {
+      "name": "Ninos Cantores",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ninos%20Cantores/201950"
+    },
+    {
+      "name": "Nippersink Rogues",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nippersink%20Rogues/949821"
+    },
+    {
+      "name": "Nirgilis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nirgilis/876080"
+    },
+    {
+      "name": "Nirvana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nirvana/143230"
+    },
+    {
+      "name": "Nirvana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nirvana/5034"
+    },
+    {
+      "name": "Nishat Khan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nishat%20Khan/28622"
+    },
+    {
+      "name": "Nisse Hellberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nisse%20Hellberg/492313"
+    },
+    {
+      "name": "Nita Whitaker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nita%20Whitaker/512204"
+    },
+    {
+      "name": "Nitefall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitefall/2604933"
+    },
+    {
+      "name": "Nitin Sawhney",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitin%20Sawhney/122326"
+    },
+    {
+      "name": "Nito Mestre",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nito%20Mestre/201902"
+    },
+    {
+      "name": "Nitrid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitrid/2587995"
+    },
+    {
+      "name": "Nitro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitro/13804"
+    },
+    {
+      "name": "Nitro Praise",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitro%20Praise/213948"
+    },
+    {
+      "name": "Nitrus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitrus/1175429"
+    },
+    {
+      "name": "Nits",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nits/19597"
+    },
+    {
+      "name": "Nitty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitty/699960"
+    },
+    {
+      "name": "Nitty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitty/430473"
+    },
+    {
+      "name": "Nitty Gritty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitty%20Gritty/245384"
+    },
+    {
+      "name": "Nitzer Ebb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nitzer%20Ebb/13805"
+    },
+    {
+      "name": "Niva",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niva/1174992"
+    },
+    {
+      "name": "Nivea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nivea/465428"
+    },
+    {
+      "name": "Nixon Nation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nixon%20Nation/717103"
+    },
+    {
+      "name": "Niyaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niyaz/697789"
+    },
+    {
+      "name": "Niyireth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Niyireth/1112262"
+    },
+    {
+      "name": "Nizlopi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nizlopi/769018"
+    },
+    {
+      "name": "Nizza Thobi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nizza%20Thobi/842756"
+    },
+    {
+      "name": "NJ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NJ/1688852"
+    },
+    {
+      "name": "NLT",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NLT/868215"
+    },
+    {
+      "name": "Nneka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nneka/290491"
+    },
+    {
+      "name": "Nnenna Freelon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nnenna%20Freelon/10597"
+    },
+    {
+      "name": "No Address",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Address/697761"
+    },
+    {
+      "name": "No Age",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Age/903677"
+    },
+    {
+      "name": "No Angels",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Angels/484526"
+    },
+    {
+      "name": "No Authority",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Authority/276369"
+    },
+    {
+      "name": "No Blues",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Blues/835819"
+    },
+    {
+      "name": "No Choice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Choice/666594"
+    },
+    {
+      "name": "No Doubt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Doubt/23015"
+    },
+    {
+      "name": "No Empathy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Empathy/13806"
+    },
+    {
+      "name": "No for an Answer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20for%20an%20Answer/13808"
+    },
+    {
+      "name": "No Fuego",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Fuego/1129782"
+    },
+    {
+      "name": "No Fun at All",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Fun%20at%20All/206019"
+    },
+    {
+      "name": "No Good",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Good/369991"
+    },
+    {
+      "name": "No Greater Sky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Greater%20Sky/949871"
+    },
+    {
+      "name": "No I.D.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20I.D./215886"
+    },
+    {
+      "name": "No Innocent Victim",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Innocent%20Victim/365830"
+    },
+    {
+      "name": "No Justice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Justice/756368"
+    },
+    {
+      "name": "No Knife",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Knife/174748"
+    },
+    {
+      "name": "No Limits",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Limits/815419"
+    },
+    {
+      "name": "No Limitz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Limitz/798132"
+    },
+    {
+      "name": "No Mercy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Mercy/5037"
+    },
+    {
+      "name": "No Motiv",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Motiv/365318"
+    },
+    {
+      "name": "No One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20One/482219"
+    },
+    {
+      "name": "No Pretense",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Pretense/2400095"
+    },
+    {
+      "name": "No Question",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Question/374006"
+    },
+    {
+      "name": "No Redeeming Social Value",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Redeeming%20Social%20Value/370302"
+    },
+    {
+      "name": "No Reduce",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Reduce/2620637"
+    },
+    {
+      "name": "No Remorse No Retreat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Remorse%20No%20Retreat/1061805"
+    },
+    {
+      "name": "No Return",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Return/530349"
+    },
+    {
+      "name": "No Secrets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Secrets/525039"
+    },
+    {
+      "name": "No Speed Limit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Speed%20Limit/787501"
+    },
+    {
+      "name": "No Sports",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Sports/479358"
+    },
+    {
+      "name": "No Strings Attached",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Strings%20Attached/669"
+    },
+    {
+      "name": "No Trigger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Trigger/762940"
+    },
+    {
+      "name": "No Use for a Name",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Use%20for%20a%20Name/13812"
+    },
+    {
+      "name": "No Warning",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Warning/512472"
+    },
+    {
+      "name": "No Y",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%20Y/1867124"
+    },
+    {
+      "name": "No-Man",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No-Man/225160"
+    },
+    {
+      "name": "No-No Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No-No%20Boys/725113"
+    },
+    {
+      "name": "No-Shadow Kick",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No-Shadow%20Kick/518008"
+    },
+    {
+      "name": "No. 2",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No.%202/407112"
+    },
+    {
+      "name": "No.38k",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No.38k/2620005"
+    },
+    {
+      "name": "Noa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noa/109999"
+    },
+    {
+      "name": "Noah and the Whale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noah%20and%20the%20Whale/1034114"
+    },
+    {
+      "name": "Noah Peterson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noah%20Peterson/543333"
+    },
+    {
+      "name": "Noah Wotherspoon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noah%20Wotherspoon/525185"
+    },
+    {
+      "name": "Noah Zacharin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noah%20Zacharin/916883"
+    },
+    {
+      "name": "Noah23",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noah23/561412"
+    },
+    {
+      "name": "Noam Chomsky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noam%20Chomsky/169863"
+    },
+    {
+      "name": "Noble Gas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noble%20Gas/642783"
+    },
+    {
+      "name": "Noblesse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noblesse/949937"
+    },
+    {
+      "name": "Nobody's Angel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nobody%27s%20Angel/393164"
+    },
+    {
+      "name": "Nobodys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nobodys/142165"
+    },
+    {
+      "name": "Nobuo Uematsu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nobuo%20Uematsu/483059"
+    },
+    {
+      "name": "Nocera",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nocera/26799"
+    },
+    {
+      "name": "Noches De Amor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noches%20De%20Amor/34161"
+    },
+    {
+      "name": "Nocturnal Rites",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nocturnal%20Rites/293716"
+    },
+    {
+      "name": "Nocturne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nocturne/373834"
+    },
+    {
+      "name": "Nocturnus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nocturnus/13813"
+    },
+    {
+      "name": "Nocwaka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nocwaka/2598526"
+    },
+    {
+      "name": "Node",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Node/2170019"
+    },
+    {
+      "name": "Nodek",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nodek/2707220"
+    },
+    {
+      "name": "Nodes of Ranvier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nodes%20of%20Ranvier/530925"
+    },
+    {
+      "name": "Nodesha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nodesha/592842"
+    },
+    {
+      "name": "Noe Venable",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noe%20Venable/419648"
+    },
+    {
+      "name": "Noel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel/5038"
+    },
+    {
+      "name": "Noël Akchoté",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%C3%ABl%20Akchot%C3%A9/312159"
+    },
+    {
+      "name": "Noel Boggs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Boggs/24132"
+    },
+    {
+      "name": "Noël Coward",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%C3%ABl%20Coward/12615"
+    },
+    {
+      "name": "Noel Freidline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Freidline/526350"
+    },
+    {
+      "name": "Noel Freidline Quintet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Freidline%20Quintet/546091"
+    },
+    {
+      "name": "Noel Gallagher",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Gallagher/145345"
+    },
+    {
+      "name": "Noel Gay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Gay/38999"
+    },
+    {
+      "name": "Noel Gourdin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Gourdin/883475"
+    },
+    {
+      "name": "Noel Harrison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Harrison/24418"
+    },
+    {
+      "name": "Noel Lester",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Lester/482947"
+    },
+    {
+      "name": "Noel Lorica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Lorica/740458"
+    },
+    {
+      "name": "Noel McLoughlin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20McLoughlin/33509"
+    },
+    {
+      "name": "Noel Paul Stookey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Paul%20Stookey/129030"
+    },
+    {
+      "name": "Noel Pointer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Pointer/11438"
+    },
+    {
+      "name": "Noel Redding",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Redding/20117"
+    },
+    {
+      "name": "Noel Sanger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Sanger/227752"
+    },
+    {
+      "name": "Noel Schajris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Schajris/550060"
+    },
+    {
+      "name": "Noel Scott",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Scott/797214"
+    },
+    {
+      "name": "Noel Torres",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noel%20Torres/2299319"
+    },
+    {
+      "name": "Noelia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noelia/365484"
+    },
+    {
+      "name": "Noelle Hampton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noelle%20Hampton/949967"
+    },
+    {
+      "name": "Noémi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/No%C3%A9mi/551959"
+    },
+    {
+      "name": "NOFX",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NOFX/13807"
+    },
+    {
+      "name": "Noggin Toboggan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noggin%20Toboggan/425583"
+    },
+    {
+      "name": "Noir Désir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noir%20D%C3%A9sir/169173"
+    },
+    {
+      "name": "Noir Du'soleil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noir%20Du%27soleil/1123008"
+    },
+    {
+      "name": "Noise Addict",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noise%20Addict/201952"
+    },
+    {
+      "name": "Noise for Pretend",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noise%20for%20Pretend/514020"
+    },
+    {
+      "name": "Noise Ratchet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noise%20Ratchet/515664"
+    },
+    {
+      "name": "Noise Therapy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noise%20Therapy/278877"
+    },
+    {
+      "name": "Noisecontrollers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noisecontrollers/1554403"
+    },
+    {
+      "name": "Noiseworks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noiseworks/5039"
+    },
+    {
+      "name": "Noisia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noisia/804880"
+    },
+    {
+      "name": "Noisy Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noisy%20Boys/511422"
+    },
+    {
+      "name": "Nojunsundo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nojunsundo/717144"
+    },
+    {
+      "name": "Nokie Edwards",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nokie%20Edwards/17251"
+    },
+    {
+      "name": "Nokturnal Mortum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nokturnal%20Mortum/370405"
+    },
+    {
+      "name": "Nola Bogle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nola%20Bogle/678274"
+    },
+    {
+      "name": "Nolan Bruce Allen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nolan%20Bruce%20Allen/558489"
+    },
+    {
+      "name": "Nolwenn Leroy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nolwenn%20Leroy/561523"
+    },
+    {
+      "name": "Nomad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nomad/851920"
+    },
+    {
+      "name": "Nomad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nomad/13818"
+    },
+    {
+      "name": "Nomad Collectiv",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nomad%20Collectiv/1162982"
+    },
+    {
+      "name": "Nomb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nomb/1114919"
+    },
+    {
+      "name": "Nomeansno",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nomeansno/5040"
+    },
+    {
+      "name": "Nomi Yah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nomi%20Yah/723870"
+    },
+    {
+      "name": "Nominal State",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nominal%20State/717150"
+    },
+    {
+      "name": "Non Sequitur",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Non%20Sequitur/1275992"
+    },
+    {
+      "name": "Non-Divine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Non-Divine/886789"
+    },
+    {
+      "name": "Non-Phixion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Non-Phixion/1871110"
+    },
+    {
+      "name": "Non-Prophets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Non-Prophets/407168"
+    },
+    {
+      "name": "Nona Hendryx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nona%20Hendryx/13178"
+    },
+    {
+      "name": "Nonchalant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonchalant/173935"
+    },
+    {
+      "name": "None More Black",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/None%20More%20Black/559625"
+    },
+    {
+      "name": "Nonex",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonex/380400"
+    },
+    {
+      "name": "Nonexist",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonexist/529827"
+    },
+    {
+      "name": "Nonfiktion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonfiktion/213968"
+    },
+    {
+      "name": "Nono Soderberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nono%20Soderberg/556285"
+    },
+    {
+      "name": "Nonononet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonononet/717158"
+    },
+    {
+      "name": "Nonoy Zuniga",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonoy%20Zuniga/511677"
+    },
+    {
+      "name": "Nonpalidece",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonpalidece/678280"
+    },
+    {
+      "name": "Nonpoint",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nonpoint/371153"
+    },
+    {
+      "name": "Nood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nood/835853"
+    },
+    {
+      "name": "Noodle Muffin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noodle%20Muffin/373191"
+    },
+    {
+      "name": "Noods",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noods/2696955"
+    },
+    {
+      "name": "Noogie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noogie/419912"
+    },
+    {
+      "name": "Nooney",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nooney/423893"
+    },
+    {
+      "name": "Noordkaap",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noordkaap/1027813"
+    },
+    {
+      "name": "Noovoodoo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noovoodoo/213970"
+    },
+    {
+      "name": "Nopal Beat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nopal%20Beat/542298"
+    },
+    {
+      "name": "Noparanoia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noparanoia/2698662"
+    },
+    {
+      "name": "Nopsajalka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nopsajalka/529581"
+    },
+    {
+      "name": "Nora",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nora/142167"
+    },
+    {
+      "name": "Nora Brockstedt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nora%20Brockstedt/1028261"
+    },
+    {
+      "name": "Nora York",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nora%20York/165921"
+    },
+    {
+      "name": "Norah Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norah%20Jones/510210"
+    },
+    {
+      "name": "Noraj Cue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noraj%20Cue/1189225"
+    },
+    {
+      "name": "Noraniza Idris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noraniza%20Idris/854339"
+    },
+    {
+      "name": "Norbert Reiff & Seine Musikanten",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norbert%20Reiff%20%26%20Seine%20Musikanten/2699611"
+    },
+    {
+      "name": "Nordisle Bois",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nordisle%20Bois/26210"
+    },
+    {
+      "name": "Nordländer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nordl%C3%A4nder/994963"
+    },
+    {
+      "name": "Nordman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nordman/398891"
+    },
+    {
+      "name": "Nordring",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nordring/1175585"
+    },
+    {
+      "name": "Nordvision",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nordvision/2611636"
+    },
+    {
+      "name": "Norfolk & Western",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norfolk%20%26%20Western/475167"
+    },
+    {
+      "name": "Norfolk Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norfolk%20Singers/384208"
+    },
+    {
+      "name": "Noriega",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noriega/678488"
+    },
+    {
+      "name": "Norio Maeda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norio%20Maeda/195576"
+    },
+    {
+      "name": "Norm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norm/557249"
+    },
+    {
+      "name": "Norm Kubrin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norm%20Kubrin/862480"
+    },
+    {
+      "name": "Norm Skola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norm%20Skola/441808"
+    },
+    {
+      "name": "Norma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma/1178940"
+    },
+    {
+      "name": "Norma Eliza",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Eliza/201610"
+    },
+    {
+      "name": "Norma Giusti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Giusti/2672189"
+    },
+    {
+      "name": "Norma Jean",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Jean/24679"
+    },
+    {
+      "name": "Norma Jean",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Jean/535027"
+    },
+    {
+      "name": "Norma Lewis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Lewis/98258"
+    },
+    {
+      "name": "Norma Tanega",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Tanega/20919"
+    },
+    {
+      "name": "Norma Waterson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Waterson/181589"
+    },
+    {
+      "name": "Norma Winstone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Winstone/7847"
+    },
+    {
+      "name": "Norma Zenteno",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norma%20Zenteno/302896"
+    },
+    {
+      "name": "Normamona",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Normamona/876176"
+    },
+    {
+      "name": "Norman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman/555368"
+    },
+    {
+      "name": "Norman Blake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Blake/599"
+    },
+    {
+      "name": "Norman Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Brown/10228"
+    },
+    {
+      "name": "Norman Connors",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Connors/66055"
+    },
+    {
+      "name": "Norman Cook",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Cook/66202"
+    },
+    {
+      "name": "Norman Feels",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Feels/38741"
+    },
+    {
+      "name": "Norman Foote",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Foote/27319"
+    },
+    {
+      "name": "Norman Granz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Granz/59009"
+    },
+    {
+      "name": "Norman Greenbaum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Greenbaum/18016"
+    },
+    {
+      "name": "Norman Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Harris/84623"
+    },
+    {
+      "name": "Norman Hutchins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Hutchins/34042"
+    },
+    {
+      "name": "Norman Jay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Jay/199998"
+    },
+    {
+      "name": "Norman Lee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Lee/950051"
+    },
+    {
+      "name": "Norman Luboff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Luboff/23948"
+    },
+    {
+      "name": "Norman Petty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Petty/24716"
+    },
+    {
+      "name": "Norman Saleet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Saleet/144509"
+    },
+    {
+      "name": "Norman Simmons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Simmons/7550"
+    },
+    {
+      "name": "Norman Thatcher",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Thatcher/282577"
+    },
+    {
+      "name": "Norman Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Williams/11976"
+    },
+    {
+      "name": "Norman Wisdom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norman%20Wisdom/164659"
+    },
+    {
+      "name": "Normand Guilbeault",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Normand%20Guilbeault/194646"
+    },
+    {
+      "name": "Normie Rowe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Normie%20Rowe/425567"
+    },
+    {
+      "name": "Noro Morales",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noro%20Morales/3362"
+    },
+    {
+      "name": "Norrbotten Big Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norrbotten%20Big%20Band/320610"
+    },
+    {
+      "name": "Norrie Cox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norrie%20Cox/289750"
+    },
+    {
+      "name": "Norrie Paramor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norrie%20Paramor/21735"
+    },
+    {
+      "name": "Norris Turney",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norris%20Turney/36800"
+    },
+    {
+      "name": "Nortena",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nortena/206031"
+    },
+    {
+      "name": "Norteños de Ojinaga",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norte%C3%B1os%20de%20Ojinaga/203099"
+    },
+    {
+      "name": "North Carolina Jazz Repertory Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Carolina%20Jazz%20Repertory%20Orchestra/814278"
+    },
+    {
+      "name": "North La Brea All Star Conquistadors",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20La%20Brea%20All%20Star%20Conquistadors/740467"
+    },
+    {
+      "name": "North Mississippi Allstars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Mississippi%20Allstars/429302"
+    },
+    {
+      "name": "North Sea Gas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Sea%20Gas/206032"
+    },
+    {
+      "name": "North Side Kings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Side%20Kings/477332"
+    },
+    {
+      "name": "North Star Artists",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Star%20Artists/639526"
+    },
+    {
+      "name": "North Star Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Star%20Band/23628"
+    },
+    {
+      "name": "North Star Jazz Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Star%20Jazz%20Ensemble/213975"
+    },
+    {
+      "name": "North Star Musicians",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North%20Star%20Musicians/483209"
+    },
+    {
+      "name": "North-Northwest",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/North-Northwest/950071"
+    },
+    {
+      "name": "Norther",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norther/560150"
+    },
+    {
+      "name": "Northern Aire Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Aire%20Singers/557098"
+    },
+    {
+      "name": "Northern Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Chorus/484810"
+    },
+    {
+      "name": "Northern Lights",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Lights/2094"
+    },
+    {
+      "name": "Northern Lights Children's Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Lights%20Children%27s%20Choir/1870011"
+    },
+    {
+      "name": "Northern Lights Symphony Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Lights%20Symphony%20Orchestra/1372872"
+    },
+    {
+      "name": "Northern Lite",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Lite/835865"
+    },
+    {
+      "name": "Northern Picture Library",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Picture%20Library/195056"
+    },
+    {
+      "name": "Northern Pikes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20Pikes/13824"
+    },
+    {
+      "name": "Northern State",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northern%20State/543409"
+    },
+    {
+      "name": "Northside",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northside/13825"
+    },
+    {
+      "name": "NorthSound",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NorthSound/1869801"
+    },
+    {
+      "name": "Northstar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northstar/544743"
+    },
+    {
+      "name": "Northstar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northstar/577012"
+    },
+    {
+      "name": "Northstar Worship",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northstar%20Worship/1117931"
+    },
+    {
+      "name": "Northwest Youngins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Northwest%20Youngins/371737"
+    },
+    {
+      "name": "Norwich Cathedral Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norwich%20Cathedral%20Choir/761066"
+    },
+    {
+      "name": "Norwood Poindexter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Norwood%20Poindexter/1129814"
+    },
+    {
+      "name": "Nosferatu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nosferatu/374011"
+    },
+    {
+      "name": "Nospheratum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nospheratum/2619679"
+    },
+    {
+      "name": "Nossa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nossa/2188555"
+    },
+    {
+      "name": "Nossa Alma Canta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nossa%20Alma%20Canta/909008"
+    },
+    {
+      "name": "Nostalgia 77",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nostalgia%2077/695330"
+    },
+    {
+      "name": "Nostradameus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nostradameus/394402"
+    },
+    {
+      "name": "Not Breathing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Not%20Breathing/200363"
+    },
+    {
+      "name": "Not by Choice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Not%20by%20Choice/747163"
+    },
+    {
+      "name": "Not Drowning, Waving",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Not%20Drowning%2C%20Waving/13829"
+    },
+    {
+      "name": "Not Okay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Not%20Okay/2424399"
+    },
+    {
+      "name": "Not One Light Red",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Not%20One%20Light%20Red/556028"
+    },
+    {
+      "name": "Nota",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nota/2257055"
+    },
+    {
+      "name": "Notch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Notch/625414"
+    },
+    {
+      "name": "Nothin' Fancy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nothin%27%20Fancy/530350"
+    },
+    {
+      "name": "Nothingface",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nothingface/202852"
+    },
+    {
+      "name": "Notorious Enemy Gang",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Notorious%20Enemy%20Gang/1002315"
+    },
+    {
+      "name": "Notre Dame",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Notre%20Dame/484072"
+    },
+    {
+      "name": "Notre Dame Marching Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Notre%20Dame%20Marching%20Band/546859"
+    },
+    {
+      "name": "Notti Brasco",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Notti%20Brasco/1082001"
+    },
+    {
+      "name": "Noubarian",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noubarian/950117"
+    },
+    {
+      "name": "Noumena",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noumena/738527"
+    },
+    {
+      "name": "Nour Eddine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nour%20Eddine/472148"
+    },
+    {
+      "name": "Nourallah Brothers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nourallah%20Brothers/475178"
+    },
+    {
+      "name": "Nouria",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nouria/366774"
+    },
+    {
+      "name": "Nous Non Plus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nous%20Non%20Plus/748135"
+    },
+    {
+      "name": "Nouveaux",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nouveaux/201959"
+    },
+    {
+      "name": "Nouvelle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nouvelle/482263"
+    },
+    {
+      "name": "Nouvelle Vague",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nouvelle%20Vague/628494"
+    },
+    {
+      "name": "Nova",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nova/950122"
+    },
+    {
+      "name": "Nova Mob",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nova%20Mob/5043"
+    },
+    {
+      "name": "Nova Rex",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nova%20Rex/365523"
+    },
+    {
+      "name": "Nova Saxophone Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nova%20Saxophone%20Quartet/482424"
+    },
+    {
+      "name": "Nova Social",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nova%20Social/440963"
+    },
+    {
+      "name": "Nova Y Jory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nova%20Y%20Jory/2374605"
+    },
+    {
+      "name": "Novastar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novastar/821207"
+    },
+    {
+      "name": "NovaZanz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NovaZanz/1063699"
+    },
+    {
+      "name": "Novembers Doom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novembers%20Doom/413384"
+    },
+    {
+      "name": "Novembre",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novembre/671255"
+    },
+    {
+      "name": "Novembro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novembro/2568889"
+    },
+    {
+      "name": "Novi Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novi%20Singers/375638"
+    },
+    {
+      "name": "Novi Split",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novi%20Split/647784"
+    },
+    {
+      "name": "Novi Zelenáci",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novi%20Zelen%C3%A1ci/320957"
+    },
+    {
+      "name": "Novocento",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novocento/368157"
+    },
+    {
+      "name": "Novus Rex",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Novus%20Rex/2233824"
+    },
+    {
+      "name": "Now It's Overhead",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Now%20It%27s%20Overhead/509929"
+    },
+    {
+      "name": "Now, Now",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Now%2C%20Now/2316274"
+    },
+    {
+      "name": "Now, Now Every Children",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Now%2C%20Now%20Every%20Children/1033654"
+    },
+    {
+      "name": "Nox Aurea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nox%20Aurea/2167707"
+    },
+    {
+      "name": "Noxiv",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Noxiv/2628562"
+    },
+    {
+      "name": "Nôze",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%C3%B4ze/659623"
+    },
+    {
+      "name": "Nozmo King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nozmo%20King/423728"
+    },
+    {
+      "name": "NRBQ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NRBQ/5044"
+    },
+    {
+      "name": "NS Rockwell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NS%20Rockwell/1129839"
+    },
+    {
+      "name": "NS2",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NS2/1613203"
+    },
+    {
+      "name": "NU",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NU/513410"
+    },
+    {
+      "name": "Nu Boy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20Boy/1078982"
+    },
+    {
+      "name": "Nu Cliche",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20Cliche/510063"
+    },
+    {
+      "name": "Nu Flavor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20Flavor/202380"
+    },
+    {
+      "name": "Nu Niles",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20Niles/454199"
+    },
+    {
+      "name": "Nu Shooz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20Shooz/5045"
+    },
+    {
+      "name": "Nu Soul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20Soul/554492"
+    },
+    {
+      "name": "Nu World",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu%20World/143238"
+    },
+    {
+      "name": "Nu-Motion Klique",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nu-Motion%20Klique/717218"
+    },
+    {
+      "name": "Nuba X",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuba%20X/950171"
+    },
+    {
+      "name": "Nubox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nubox/994981"
+    },
+    {
+      "name": "Nuclear Assault",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuclear%20Assault/5046"
+    },
+    {
+      "name": "Nuclear Blast All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuclear%20Blast%20All%20Stars/918746"
+    },
+    {
+      "name": "Nuclear Rabbit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuclear%20Rabbit/278815"
+    },
+    {
+      "name": "Nuclear Valdez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuclear%20Valdez/13833"
+    },
+    {
+      "name": "Nude",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nude/471385"
+    },
+    {
+      "name": "Nude",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nude/730335"
+    },
+    {
+      "name": "NuEssence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NuEssence/2588330"
+    },
+    {
+      "name": "Nueva Manteca",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nueva%20Manteca/40687"
+    },
+    {
+      "name": "Nueva Trova Cubana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nueva%20Trova%20Cubana/747840"
+    },
+    {
+      "name": "Nuevas Voces",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuevas%20Voces/370957"
+    },
+    {
+      "name": "Nuevo Manteca",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuevo%20Manteca/554461"
+    },
+    {
+      "name": "Nuevo Mester Cantar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuevo%20Mester%20Cantar/684429"
+    },
+    {
+      "name": "Nuevo Mester De Juglaria",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuevo%20Mester%20De%20Juglaria/683248"
+    },
+    {
+      "name": "Nujabes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nujabes/876222"
+    },
+    {
+      "name": "Null Device",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Null%20Device/562366"
+    },
+    {
+      "name": "Nullset",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nullset/482309"
+    },
+    {
+      "name": "Numall Fix",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Numall%20Fix/2711288"
+    },
+    {
+      "name": "Numb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Numb/13835"
+    },
+    {
+      "name": "Number 9",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Number%209/2563322"
+    },
+    {
+      "name": "Number Nine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Number%20Nine/371154"
+    },
+    {
+      "name": "Number One Fan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Number%20One%20Fan/669995"
+    },
+    {
+      "name": "Number One Gun",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Number%20One%20Gun/570921"
+    },
+    {
+      "name": "Numbers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Numbers/401843"
+    },
+    {
+      "name": "Nunca Antes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nunca%20Antes/1129852"
+    },
+    {
+      "name": "Nuncio \"Toots\" Mondello",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuncio%20%22Toots%22%20Mondello/106798"
+    },
+    {
+      "name": "Nuno Bettencourt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuno%20Bettencourt/56447"
+    },
+    {
+      "name": "Nuno Rivera",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuno%20Rivera/2648245"
+    },
+    {
+      "name": "Nunslaughter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nunslaughter/816495"
+    },
+    {
+      "name": "Nuova Compagnia Di Canto Popolare",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuova%20Compagnia%20Di%20Canto%20Popolare/294998"
+    },
+    {
+      "name": "Nural",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nural/731517"
+    },
+    {
+      "name": "Nureal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nureal/2583025"
+    },
+    {
+      "name": "Nüremberg Symphony Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%C3%BCremberg%20Symphony%20Orchestra/474245"
+    },
+    {
+      "name": "Nuria Fergo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuria%20Fergo/533798"
+    },
+    {
+      "name": "Nuria Tomas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuria%20Tomas/468666"
+    },
+    {
+      "name": "Nurse with Wound",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nurse%20with%20Wound/19634"
+    },
+    {
+      "name": "Nûs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/N%C3%BBs/213991"
+    },
+    {
+      "name": "Nusound",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nusound/310254"
+    },
+    {
+      "name": "Nuspirit Helsinki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuspirit%20Helsinki/527827"
+    },
+    {
+      "name": "Nusrat Fateh Ali Khan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nusrat%20Fateh%20Ali%20Khan/3314"
+    },
+    {
+      "name": "Nutrajet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nutrajet/643618"
+    },
+    {
+      "name": "Nuts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuts/423358"
+    },
+    {
+      "name": "Nuttea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuttea/472834"
+    },
+    {
+      "name": "Nuttin' But Stringz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuttin%27%20But%20Stringz/827268"
+    },
+    {
+      "name": "Nuwaubian Hotep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuwaubian%20Hotep/717237"
+    },
+    {
+      "name": "Nuwine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuwine/294471"
+    },
+    {
+      "name": "Nuyorican Soul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nuyorican%20Soul/200056"
+    },
+    {
+      "name": "NVG",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NVG/1792906"
+    },
+    {
+      "name": "NWH",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NWH/45200"
+    },
+    {
+      "name": "NX Zero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NX%20Zero/738536"
+    },
+    {
+      "name": "NX-Trance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NX-Trance/2620061"
+    },
+    {
+      "name": "NY Beat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NY%20Beat/276973"
+    },
+    {
+      "name": "NY Loose",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NY%20Loose/194932"
+    },
+    {
+      "name": "NY Louie & Friends",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NY%20Louie%20%26%20Friends/633407"
+    },
+    {
+      "name": "NYC Blues Devils",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NYC%20Blues%20Devils/856971"
+    },
+    {
+      "name": "Nydia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nydia/425740"
+    },
+    {
+      "name": "Nylon Beat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nylon%20Beat/988013"
+    },
+    {
+      "name": "Nymphs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nymphs/13842"
+    },
+    {
+      "name": "NYNDK",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/NYNDK/681032"
+    },
+    {
+      "name": "Nysa Shenay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Nysa%20Shenay/466264"
+    }
+  ]
+}

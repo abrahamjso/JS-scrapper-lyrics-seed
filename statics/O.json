@@ -1,0 +1,2945 @@
+{
+  "letra": "O",
+  "artistas": [
+    {
+      "name": "O A M Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%20A%20M%20Trio/512644"
+    },
+    {
+      "name": "O Rappa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%20Rappa/447218"
+    },
+    {
+      "name": "O'2L",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%272L/559391"
+    },
+    {
+      "name": "O'Bryan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Bryan/24043"
+    },
+    {
+      "name": "O'Chi Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Chi%20Brown/23036"
+    },
+    {
+      "name": "O'Donel Levy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Donel%20Levy/98131"
+    },
+    {
+      "name": "O'Hara's Playboys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Hara%27s%20Playboys/142174"
+    },
+    {
+      "name": "O'Ryan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Ryan/668965"
+    },
+    {
+      "name": "O'Town Boyz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Town%20Boyz/290528"
+    },
+    {
+      "name": "O'Yaba",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O%27Yaba/34387"
+    },
+    {
+      "name": "O-Bat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O-Bat/2726002"
+    },
+    {
+      "name": "O-Jay.Com",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O-Jay.Com/1012374"
+    },
+    {
+      "name": "O-Solo/Rockwilder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O-Solo%2FRockwilder/745419"
+    },
+    {
+      "name": "O-Tones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O-Tones/429823"
+    },
+    {
+      "name": "O-Town",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O-Town/459668"
+    },
+    {
+      "name": "O.A.R.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.A.R./440822"
+    },
+    {
+      "name": "O.B. Buchana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.B.%20Buchana/371813"
+    },
+    {
+      "name": "O.B.G. 'Z",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.B.G.%20%27Z/384679"
+    },
+    {
+      "name": "O.C.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.C./45208"
+    },
+    {
+      "name": "O.C. Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.C.%20Smith/26984"
+    },
+    {
+      "name": "O.F.T.B.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.F.T.B./23475"
+    },
+    {
+      "name": "O.G. Ron C.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.G.%20Ron%20C./594622"
+    },
+    {
+      "name": "O.G. Spanish Fly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.G.%20Spanish%20Fly/513640"
+    },
+    {
+      "name": "O.G. Style",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.G.%20Style/27037"
+    },
+    {
+      "name": "O.S.I.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.S.I./554965"
+    },
+    {
+      "name": "O.S.T.R.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.S.T.R./922739"
+    },
+    {
+      "name": "O.V. Wright",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.V.%20Wright/5878"
+    },
+    {
+      "name": "O.Z.O.N.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/O.Z.O.N./2674718"
+    },
+    {
+      "name": "OAG",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OAG/876259"
+    },
+    {
+      "name": "Oakcee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oakcee/1146144"
+    },
+    {
+      "name": "Oaktown Jazz Workshop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oaktown%20Jazz%20Workshop/555965"
+    },
+    {
+      "name": "Oasis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oasis/44888"
+    },
+    {
+      "name": "Oasis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oasis/532473"
+    },
+    {
+      "name": "Oasis Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oasis%20Band/1129862"
+    },
+    {
+      "name": "Oaxtree",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oaxtree/717284"
+    },
+    {
+      "name": "Obadiah Parker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obadiah%20Parker/1089433"
+    },
+    {
+      "name": "Obanyoko",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obanyoko/1129864"
+    },
+    {
+      "name": "Oberallgäu Musikanten",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oberallg%C3%A4u%20Musikanten/2442397"
+    },
+    {
+      "name": "Oberhofer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oberhofer/2274446"
+    },
+    {
+      "name": "Obert Davis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obert%20Davis/696299"
+    },
+    {
+      "name": "Obie Bermúdez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obie%20Berm%C3%BAdez/337726"
+    },
+    {
+      "name": "Obie Leff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obie%20Leff/950283"
+    },
+    {
+      "name": "Obie Trice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obie%20Trice/544920"
+    },
+    {
+      "name": "Obie Wordlaw",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obie%20Wordlaw/1040777"
+    },
+    {
+      "name": "Obituary",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obituary/13844"
+    },
+    {
+      "name": "Obiwon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obiwon/950286"
+    },
+    {
+      "name": "Object Permanence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Object%20Permanence/2269629"
+    },
+    {
+      "name": "OBK",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OBK/209667"
+    },
+    {
+      "name": "Oblit-R8",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oblit-R8/835934"
+    },
+    {
+      "name": "Oblivians",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oblivians/201965"
+    },
+    {
+      "name": "Oblivion Dust",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oblivion%20Dust/876266"
+    },
+    {
+      "name": "Obo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obo/110850"
+    },
+    {
+      "name": "Obsc(y)re",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obsc%28y%29re/393266"
+    },
+    {
+      "name": "Obscure",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obscure/365506"
+    },
+    {
+      "name": "Obsesja",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obsesja/440619"
+    },
+    {
+      "name": "Obsession",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obsession/300278"
+    },
+    {
+      "name": "Obtained Enslavement",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Obtained%20Enslavement/433723"
+    },
+    {
+      "name": "Obús",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ob%C3%BAs/424432"
+    },
+    {
+      "name": "OC & AG",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OC%20%26%20AG/2061561"
+    },
+    {
+      "name": "Ocean",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ocean/25313"
+    },
+    {
+      "name": "Ocean Colour Scene",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ocean%20Colour%20Scene/23039"
+    },
+    {
+      "name": "Oceana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oceana/2348363"
+    },
+    {
+      "name": "Oceana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oceana/1005449"
+    },
+    {
+      "name": "Oceanlab",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oceanlab/530352"
+    },
+    {
+      "name": "Oceanship",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oceanship/1117746"
+    },
+    {
+      "name": "Oceansize",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oceansize/651419"
+    },
+    {
+      "name": "Ocho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ocho/203503"
+    },
+    {
+      "name": "Oct 'Z",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oct%20%27Z/477831"
+    },
+    {
+      "name": "Octane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octane/467850"
+    },
+    {
+      "name": "Octave One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octave%20One/182901"
+    },
+    {
+      "name": "Octavia Harp Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octavia%20Harp%20Ensemble/1040778"
+    },
+    {
+      "name": "Octavia Sperati",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octavia%20Sperati/704005"
+    },
+    {
+      "name": "October",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/October/671734"
+    },
+    {
+      "name": "October 20",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/October%2020/2591298"
+    },
+    {
+      "name": "October 31",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/October%2031/430139"
+    },
+    {
+      "name": "October Fall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/October%20Fall/760404"
+    },
+    {
+      "name": "October Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/October%20Project/143244"
+    },
+    {
+      "name": "October Tide",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/October%20Tide/395830"
+    },
+    {
+      "name": "Octobop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octobop/717300"
+    },
+    {
+      "name": "Octopus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octopus/392852"
+    },
+    {
+      "name": "Octurn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Octurn/551724"
+    },
+    {
+      "name": "Od Muzique",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Od%20Muzique/2319896"
+    },
+    {
+      "name": "Odd Antonsen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Antonsen/210892"
+    },
+    {
+      "name": "Odd Future",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Future/2377263"
+    },
+    {
+      "name": "Odd Man Out",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Man%20Out/392877"
+    },
+    {
+      "name": "Odd Nordstoga",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Nordstoga/684402"
+    },
+    {
+      "name": "Odd Nosdam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Nosdam/542287"
+    },
+    {
+      "name": "Odd Numbers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Numbers/206055"
+    },
+    {
+      "name": "Odd Persons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Persons/561305"
+    },
+    {
+      "name": "Odd Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Project/665169"
+    },
+    {
+      "name": "Odd Squad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odd%20Squad/201969"
+    },
+    {
+      "name": "Oddband",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oddband/2125888"
+    },
+    {
+      "name": "Oddisee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oddisee/824060"
+    },
+    {
+      "name": "Oddjob",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oddjob/844592"
+    },
+    {
+      "name": "Oddjobs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oddjobs/443141"
+    },
+    {
+      "name": "Odds Against Tomorrow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odds%20Against%20Tomorrow/717305"
+    },
+    {
+      "name": "Ode To Abbey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ode%20To%20Abbey/440762"
+    },
+    {
+      "name": "Odean Pope",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odean%20Pope/11352"
+    },
+    {
+      "name": "Odell Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odell%20Brown/10229"
+    },
+    {
+      "name": "Odell Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odell%20Harris/855231"
+    },
+    {
+      "name": "Odes Of Ecstasy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odes%20Of%20Ecstasy/371713"
+    },
+    {
+      "name": "Odessa Christian Faith Center",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odessa%20Christian%20Faith%20Center/1188639"
+    },
+    {
+      "name": "Odessa Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odessa%20Harris/560813"
+    },
+    {
+      "name": "Odetta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odetta/483"
+    },
+    {
+      "name": "Odette Lara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odette%20Lara/525562"
+    },
+    {
+      "name": "Odette Quesada",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odette%20Quesada/447230"
+    },
+    {
+      "name": "Odies Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odies%20Williams/1074953"
+    },
+    {
+      "name": "ODM",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ODM/190616"
+    },
+    {
+      "name": "Odyssea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odyssea/835958"
+    },
+    {
+      "name": "Odyssey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Odyssey/5060"
+    },
+    {
+      "name": "Oedipus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oedipus/110928"
+    },
+    {
+      "name": "Of a Child",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20a%20Child/950343"
+    },
+    {
+      "name": "Of Mice & Men",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20Mice%20%26%20Men/2079790"
+    },
+    {
+      "name": "Of Monsters and Men",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20Monsters%20and%20Men/2552313"
+    },
+    {
+      "name": "Of Montreal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20Montreal/215890"
+    },
+    {
+      "name": "Of the Son",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20the%20Son/717314"
+    },
+    {
+      "name": "Of the Wand & the Moon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20the%20Wand%20%26%20the%20Moon/442518"
+    },
+    {
+      "name": "Of Verona",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Of%20Verona/2698459"
+    },
+    {
+      "name": "Ofer Assaf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ofer%20Assaf/1085454"
+    },
+    {
+      "name": "OFF",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OFF/45209"
+    },
+    {
+      "name": "Off Broadway",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Off%20Broadway/19662"
+    },
+    {
+      "name": "Off By One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Off%20By%20One/533321"
+    },
+    {
+      "name": "Off Our Rocker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Off%20Our%20Rocker/950349"
+    },
+    {
+      "name": "Off the Record",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Off%20the%20Record/419933"
+    },
+    {
+      "name": "OFF!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OFF%21/2252842"
+    },
+    {
+      "name": "Offenbach",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Offenbach/168463"
+    },
+    {
+      "name": "Offer Nissim",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Offer%20Nissim/694328"
+    },
+    {
+      "name": "Office",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Office/787397"
+    },
+    {
+      "name": "Officer Negative",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Officer%20Negative/295113"
+    },
+    {
+      "name": "Official Family",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Official%20Family/2100726"
+    },
+    {
+      "name": "Offramp",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Offramp/717322"
+    },
+    {
+      "name": "Offwhyte",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Offwhyte/690088"
+    },
+    {
+      "name": "Oficina G3",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oficina%20G3/876297"
+    },
+    {
+      "name": "Ofra Harnoy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ofra%20Harnoy/13144"
+    },
+    {
+      "name": "Ofra Haza",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ofra%20Haza/3296"
+    },
+    {
+      "name": "Ogie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ogie/1085272"
+    },
+    {
+      "name": "Oh Land",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oh%20Land/2266155"
+    },
+    {
+      "name": "Oh No",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oh%20No/544647"
+    },
+    {
+      "name": "Oh Susanna",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oh%20Susanna/278907"
+    },
+    {
+      "name": "Oh Susannah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oh%20Susannah/484425"
+    },
+    {
+      "name": "Oh, Sleeper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oh%2C%20Sleeper/849241"
+    },
+    {
+      "name": "Ohemaa Mercy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ohemaa%20Mercy/1161403"
+    },
+    {
+      "name": "Oheneba PK",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oheneba%20PK/1069986"
+    },
+    {
+      "name": "OhGr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OhGr/468150"
+    },
+    {
+      "name": "Ohio Express",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ohio%20Express/13851"
+    },
+    {
+      "name": "Ohmega Watts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ohmega%20Watts/647033"
+    },
+    {
+      "name": "OHN",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OHN/660379"
+    },
+    {
+      "name": "Oi Polloi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oi%20Polloi/531180"
+    },
+    {
+      "name": "Oi Va Voi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oi%20Va%20Voi/639529"
+    },
+    {
+      "name": "Oingo Boingo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oingo%20Boingo/5063"
+    },
+    {
+      "name": "OJ da Juiceman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OJ%20da%20Juiceman/1059918"
+    },
+    {
+      "name": "Ojai Valley Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ojai%20Valley%20Boys/1044919"
+    },
+    {
+      "name": "Ojos de Brujo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ojos%20de%20Brujo/635343"
+    },
+    {
+      "name": "OK Go",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OK%20Go/483558"
+    },
+    {
+      "name": "OK-MA",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OK-MA/757262"
+    },
+    {
+      "name": "Okahira Kenji",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Okahira%20Kenji/1057135"
+    },
+    {
+      "name": "Okkervil River",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Okkervil%20River/373196"
+    },
+    {
+      "name": "Okko",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Okko/19667"
+    },
+    {
+      "name": "Oksana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oksana/742504"
+    },
+    {
+      "name": "Oksana Herasymenko",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oksana%20Herasymenko/1044921"
+    },
+    {
+      "name": "Oktay Kan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oktay%20Kan/2527955"
+    },
+    {
+      "name": "Okten",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Okten/2582334"
+    },
+    {
+      "name": "Oktoberfestband Die Kirchdorfer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oktoberfestband%20Die%20Kirchdorfer/2668180"
+    },
+    {
+      "name": "Okus Dolphin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Okus%20Dolphin/1078198"
+    },
+    {
+      "name": "Ol Skool",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ol%20Skool/225309"
+    },
+    {
+      "name": "Ol' Dirty Bastard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ol%27%20Dirty%20Bastard/142390"
+    },
+    {
+      "name": "Ola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ola/604936"
+    },
+    {
+      "name": "Ola Åkerman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ola%20%C3%85kerman/359835"
+    },
+    {
+      "name": "Ola Kvernberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ola%20Kvernberg/456429"
+    },
+    {
+      "name": "Olaf Henning",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olaf%20Henning/742056"
+    },
+    {
+      "name": "Olaf Rupp",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olaf%20Rupp/416645"
+    },
+    {
+      "name": "Olav Mol",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olav%20Mol/1031868"
+    },
+    {
+      "name": "Olavi Virta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olavi%20Virta/866809"
+    },
+    {
+      "name": "Old",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old/13855"
+    },
+    {
+      "name": "Old & In the Way",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20%26%20In%20the%20Way/671"
+    },
+    {
+      "name": "Old 97's",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%2097%27s/169513"
+    },
+    {
+      "name": "Old and New Dreams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20and%20New%20Dreams/40713"
+    },
+    {
+      "name": "Old Blind Dogs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Blind%20Dogs/214024"
+    },
+    {
+      "name": "Old Canes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Canes/659871"
+    },
+    {
+      "name": "Old Chicago Blues Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Chicago%20Blues%20Band/370959"
+    },
+    {
+      "name": "Old Crow Medicine Show",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Crow%20Medicine%20Show/633068"
+    },
+    {
+      "name": "Old Dead Tree",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Dead%20Tree/557625"
+    },
+    {
+      "name": "Old Friends",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Friends/741017"
+    },
+    {
+      "name": "Old Guard of Portela",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Guard%20of%20Portela/312021"
+    },
+    {
+      "name": "Old Jawbone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Jawbone/1137777"
+    },
+    {
+      "name": "Old Man Gloom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Man%20Gloom/442776"
+    },
+    {
+      "name": "Old Man's Child",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20Man%27s%20Child/202382"
+    },
+    {
+      "name": "Old News",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20News/2245631"
+    },
+    {
+      "name": "Old School Freight Train",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20School%20Freight%20Train/527918"
+    },
+    {
+      "name": "Old School Players",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Old%20School%20Players/173311"
+    },
+    {
+      "name": "Oldie Börse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oldie%20B%C3%B6rse/1056662"
+    },
+    {
+      "name": "Oldominion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oldominion/528378"
+    },
+    {
+      "name": "Ole \"Fessor\" Lindgreen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ole%20%22Fessor%22%20Lindgreen/224383"
+    },
+    {
+      "name": "Ole Biege",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ole%20Biege/2426423"
+    },
+    {
+      "name": "Olé Olé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ol%C3%A9%20Ol%C3%A9/29332"
+    },
+    {
+      "name": "Ole Rasmussen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ole%20Rasmussen/413290"
+    },
+    {
+      "name": "Ole-E",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ole-E/484276"
+    },
+    {
+      "name": "Oleander",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oleander/224420"
+    },
+    {
+      "name": "Oleg Lundstrem",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oleg%20Lundstrem/99896"
+    },
+    {
+      "name": "Olegario",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olegario/2588327"
+    },
+    {
+      "name": "Olej",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olej/2582326"
+    },
+    {
+      "name": "Oleta Adams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oleta%20Adams/3504"
+    },
+    {
+      "name": "Oletha Carter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oletha%20Carter/1129910"
+    },
+    {
+      "name": "Olga Guillot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olga%20Guillot/30627"
+    },
+    {
+      "name": "Olga Konkova",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olga%20Konkova/406841"
+    },
+    {
+      "name": "Olga Tañón",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olga%20Ta%C3%B1%C3%B3n/34649"
+    },
+    {
+      "name": "Oli. P",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oli.%20P/475697"
+    },
+    {
+      "name": "Olimpo Cardenas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olimpo%20Cardenas/29014"
+    },
+    {
+      "name": "Olive",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olive/203506"
+    },
+    {
+      "name": "Oliver",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver/25314"
+    },
+    {
+      "name": "Oliver A. Branch, III",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20A.%20Branch%2C%20III/707029"
+    },
+    {
+      "name": "Oliver Cheatham",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Cheatham/185157"
+    },
+    {
+      "name": "Oliver E.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20E./2119526"
+    },
+    {
+      "name": "Oliver Gannon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Gannon/1865392"
+    },
+    {
+      "name": "Oliver Garcia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Garcia/619266"
+    },
+    {
+      "name": "Oliver Hart",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Hart/553531"
+    },
+    {
+      "name": "Oliver Huntemann",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Huntemann/619496"
+    },
+    {
+      "name": "Oliver Jackson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Jackson/8832"
+    },
+    {
+      "name": "Oliver Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Jones/6849"
+    },
+    {
+      "name": "Oliver Koletzki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Koletzki/814206"
+    },
+    {
+      "name": "Oliver Lake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Lake/6934"
+    },
+    {
+      "name": "Oliver Lockwood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Lockwood/2582323"
+    },
+    {
+      "name": "Oliver Moldan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Moldan/363698"
+    },
+    {
+      "name": "Oliver Morgan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Morgan/213785"
+    },
+    {
+      "name": "Oliver Nelson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Nelson/7220"
+    },
+    {
+      "name": "Oliver Onions",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%20Onions/111290"
+    },
+    {
+      "name": "Oliver/Dawson Saxon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oliver%2FDawson%20Saxon/555012"
+    },
+    {
+      "name": "Olivia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia/863036"
+    },
+    {
+      "name": "Olivia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia/462912"
+    },
+    {
+      "name": "Olivia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia/2657440"
+    },
+    {
+      "name": "Olivia Broadfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20Broadfield/1059919"
+    },
+    {
+      "name": "Olivia Newton-John",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20Newton-John/5023"
+    },
+    {
+      "name": "Olivia Ong",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20Ong/1068876"
+    },
+    {
+      "name": "Olivia Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20Project/1747661"
+    },
+    {
+      "name": "Olivia Ruiz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20Ruiz/758904"
+    },
+    {
+      "name": "Olivia Smiley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20Smiley/950459"
+    },
+    {
+      "name": "Olivia the Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivia%20the%20Band/688201"
+    },
+    {
+      "name": "Olivier Hutman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivier%20Hutman/88931"
+    },
+    {
+      "name": "Olivier Libaux",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olivier%20Libaux/654146"
+    },
+    {
+      "name": "Ollabelle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ollabelle/641845"
+    },
+    {
+      "name": "Olli Banjo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olli%20Banjo/788728"
+    },
+    {
+      "name": "Ollie Db",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ollie%20Db/2582321"
+    },
+    {
+      "name": "Ollie Ox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ollie%20Ox/2570859"
+    },
+    {
+      "name": "Olly Murs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olly%20Murs/2221069"
+    },
+    {
+      "name": "Olodum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olodum/29526"
+    },
+    {
+      "name": "Oloye Ifa Karade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oloye%20Ifa%20Karade/950467"
+    },
+    {
+      "name": "Olsen Brothers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olsen%20Brothers/704750"
+    },
+    {
+      "name": "Olu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olu/371431"
+    },
+    {
+      "name": "Olya Fryz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olya%20Fryz/950474"
+    },
+    {
+      "name": "Olympia Serenaders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olympia%20Serenaders/561369"
+    },
+    {
+      "name": "Olympic Hopefuls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olympic%20Hopefuls/688352"
+    },
+    {
+      "name": "Olympos Mons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Olympos%20Mons/683835"
+    },
+    {
+      "name": "Omar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omar/30830"
+    },
+    {
+      "name": "Omar & the Howlers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omar%20%26%20the%20Howlers/5067"
+    },
+    {
+      "name": "Omar Esau",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omar%20Esau/757330"
+    },
+    {
+      "name": "Omar Perry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omar%20Perry/546937"
+    },
+    {
+      "name": "Omar Rodriguez-Lopez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omar%20Rodriguez-Lopez/568619"
+    },
+    {
+      "name": "Omara Portuondo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omara%20Portuondo/43139"
+    },
+    {
+      "name": "Omarion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omarion/528354"
+    },
+    {
+      "name": "Omauha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omauha/2628549"
+    },
+    {
+      "name": "Omblivnju 1027",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omblivnju%201027/1134828"
+    },
+    {
+      "name": "OMC",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OMC/200677"
+    },
+    {
+      "name": "Omé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Om%C3%A9/1098739"
+    },
+    {
+      "name": "Omega",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omega/805719"
+    },
+    {
+      "name": "Omega 6",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omega%206/2597184"
+    },
+    {
+      "name": "Omega One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omega%20One/380568"
+    },
+    {
+      "name": "Omega Vibes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omega%20Vibes/521855"
+    },
+    {
+      "name": "Omeil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omeil/643290"
+    },
+    {
+      "name": "Omen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omen/40724"
+    },
+    {
+      "name": "Omer Simeon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omer%20Simeon/125319"
+    },
+    {
+      "name": "Omnium Gatherum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omnium%20Gatherum/560943"
+    },
+    {
+      "name": "Omogo Reloaded",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omogo%20Reloaded/2394234"
+    },
+    {
+      "name": "OMR",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OMR/717377"
+    },
+    {
+      "name": "Omri Cohen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Omri%20Cohen/2628122"
+    },
+    {
+      "name": "Ömür Göksel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/%C3%96m%C3%BCr%20G%C3%B6ksel/979358"
+    },
+    {
+      "name": "OMW",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OMW/978137"
+    },
+    {
+      "name": "On",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On/420028"
+    },
+    {
+      "name": "On 3",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%203/655803"
+    },
+    {
+      "name": "On Broken Wings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20Broken%20Wings/560957"
+    },
+    {
+      "name": "On Cue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20Cue/1863965"
+    },
+    {
+      "name": "On Fire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20Fire/662041"
+    },
+    {
+      "name": "On Ice E",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20Ice%20E/658264"
+    },
+    {
+      "name": "On the Frontline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20the%20Frontline/195059"
+    },
+    {
+      "name": "On the Last Day",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20the%20Last%20Day/822712"
+    },
+    {
+      "name": "On the Might of Princes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20the%20Might%20of%20Princes/577818"
+    },
+    {
+      "name": "On Thorns I Lay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%20Thorns%20I%20Lay/406827"
+    },
+    {
+      "name": "On!Air!Library!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/On%21Air%21Library%21/619634"
+    },
+    {
+      "name": "Onazis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onazis/2620432"
+    },
+    {
+      "name": "Once Blue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Once%20Blue/169273"
+    },
+    {
+      "name": "Ondrej Havelka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ondrej%20Havelka/289421"
+    },
+    {
+      "name": "One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One/1037577"
+    },
+    {
+      "name": "One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One/423645"
+    },
+    {
+      "name": "One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One/950527"
+    },
+    {
+      "name": "One 2 Many",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%202%20Many/22916"
+    },
+    {
+      "name": "One A-Chord",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20A-Chord/382351"
+    },
+    {
+      "name": "One Bad Pig",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Bad%20Pig/2359"
+    },
+    {
+      "name": "One Block Radius",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Block%20Radius/733646"
+    },
+    {
+      "name": "One Day as a Lion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Day%20as%20a%20Lion/1073322"
+    },
+    {
+      "name": "One Dead Three Wounded",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Dead%20Three%20Wounded/703437"
+    },
+    {
+      "name": "One Direction",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Direction/2469644"
+    },
+    {
+      "name": "One Dollar Short",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Dollar%20Short/507990"
+    },
+    {
+      "name": "One Dove",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Dove/111280"
+    },
+    {
+      "name": "One Drop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Drop/826219"
+    },
+    {
+      "name": "One eskimO",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20eskimO/886000"
+    },
+    {
+      "name": "One Flew South",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Flew%20South/881968"
+    },
+    {
+      "name": "One for All",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20for%20All/294578"
+    },
+    {
+      "name": "One Gud Cide",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Gud%20Cide/206073"
+    },
+    {
+      "name": "One Hit Wonder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Hit%20Wonder/142083"
+    },
+    {
+      "name": "One Hit Wonders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Hit%20Wonders/734785"
+    },
+    {
+      "name": "One Inch Punch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Inch%20Punch/203507"
+    },
+    {
+      "name": "One Jay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Jay/1180322"
+    },
+    {
+      "name": "One King Down",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20King%20Down/202792"
+    },
+    {
+      "name": "One Last Thing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Last%20Thing/508763"
+    },
+    {
+      "name": "One Leg Up",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Leg%20Up/843421"
+    },
+    {
+      "name": "One Less Reason",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Less%20Reason/950555"
+    },
+    {
+      "name": "One Line Drawing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Line%20Drawing/468414"
+    },
+    {
+      "name": "One Man Army",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Man%20Army/320721"
+    },
+    {
+      "name": "One Man Army and the Undead Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Man%20Army%20and%20the%20Undead%20Quartet/795619"
+    },
+    {
+      "name": "One Minute Silence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Minute%20Silence/395885"
+    },
+    {
+      "name": "One More Time",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20More%20Time/913595"
+    },
+    {
+      "name": "One Nation Crew",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Nation%20Crew/410424"
+    },
+    {
+      "name": "One Nation Under",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Nation%20Under/529837"
+    },
+    {
+      "name": "One Night Only",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Night%20Only/974650"
+    },
+    {
+      "name": "One O'Clock Lab Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20O%27Clock%20Lab%20Band/40732"
+    },
+    {
+      "name": "One Plus 1",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Plus%201/1170150"
+    },
+    {
+      "name": "One Rock State",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Rock%20State/2453171"
+    },
+    {
+      "name": "One Self",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Self/700041"
+    },
+    {
+      "name": "One Shot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Shot/447121"
+    },
+    {
+      "name": "One Six Conspiracy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Six%20Conspiracy/604833"
+    },
+    {
+      "name": "One Step Away",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Step%20Away/1139517"
+    },
+    {
+      "name": "One Step Beyond",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Step%20Beyond/214045"
+    },
+    {
+      "name": "One Time Down",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Time%20Down/311665"
+    },
+    {
+      "name": "One Ton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Ton/554735"
+    },
+    {
+      "name": "One True Thing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20True%20Thing/687216"
+    },
+    {
+      "name": "One True Voice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20True%20Voice/807912"
+    },
+    {
+      "name": "One Under",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Under/972542"
+    },
+    {
+      "name": "One Voice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Voice/111283"
+    },
+    {
+      "name": "One Way",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Way/23987"
+    },
+    {
+      "name": "One Way Letter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Way%20Letter/700059"
+    },
+    {
+      "name": "One Way Ride",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Way%20Ride/437449"
+    },
+    {
+      "name": "One Way System",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20Way%20System/200503"
+    },
+    {
+      "name": "One World",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One%20World/509438"
+    },
+    {
+      "name": "One-T",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/One-T/542389"
+    },
+    {
+      "name": "Oneiroid Psychosis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oneiroid%20Psychosis/467521"
+    },
+    {
+      "name": "Onelinedrawing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onelinedrawing/380388"
+    },
+    {
+      "name": "Oneman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oneman/1552287"
+    },
+    {
+      "name": "OneManArmy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OneManArmy/698258"
+    },
+    {
+      "name": "Oneness of Juju",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oneness%20of%20Juju/190691"
+    },
+    {
+      "name": "OneRepublic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OneRepublic/770910"
+    },
+    {
+      "name": "Oneroid Psychosis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oneroid%20Psychosis/183182"
+    },
+    {
+      "name": "Ones & Zeros",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ones%20%26%20Zeros/466238"
+    },
+    {
+      "name": "Onesidezero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onesidezero/484300"
+    },
+    {
+      "name": "Oneuponedown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oneuponedown/950600"
+    },
+    {
+      "name": "Oneway System",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oneway%20System/647814"
+    },
+    {
+      "name": "Onie Wheeler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onie%20Wheeler/14710"
+    },
+    {
+      "name": "Only Child",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Only%20Child/457582"
+    },
+    {
+      "name": "Only Crime",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Only%20Crime/666307"
+    },
+    {
+      "name": "Only Living Witness",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Only%20Living%20Witness/165814"
+    },
+    {
+      "name": "Only Son",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Only%20Son/839178"
+    },
+    {
+      "name": "Onmyo-Za",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onmyo-Za/876443"
+    },
+    {
+      "name": "Onslaught",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onslaught/13864"
+    },
+    {
+      "name": "Onus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onus/464051"
+    },
+    {
+      "name": "Onward",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onward/468230"
+    },
+    {
+      "name": "Onyx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onyx/40738"
+    },
+    {
+      "name": "Onzy Matthews",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Onzy%20Matthews/11146"
+    },
+    {
+      "name": "Ooberman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ooberman/430547"
+    },
+    {
+      "name": "Ookla the Mok",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ookla%20the%20Mok/881331"
+    },
+    {
+      "name": "Ooklah the Moc",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ooklah%20the%20Moc/664752"
+    },
+    {
+      "name": "Oomp Camp",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oomp%20Camp/469542"
+    },
+    {
+      "name": "Oomph!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oomph%21/40739"
+    },
+    {
+      "name": "OP",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OP/1667026"
+    },
+    {
+      "name": "OP8",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OP8/200705"
+    },
+    {
+      "name": "Opalo y Negros",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opalo%20y%20Negros/747843"
+    },
+    {
+      "name": "Open Cage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Open%20Cage/717439"
+    },
+    {
+      "name": "Open Eye Universe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Open%20Eye%20Universe/717440"
+    },
+    {
+      "name": "Open Hand",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Open%20Hand/553368"
+    },
+    {
+      "name": "Open Mic Karaoke",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Open%20Mic%20Karaoke/1897443"
+    },
+    {
+      "name": "Open Range",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Open%20Range/2629002"
+    },
+    {
+      "name": "Open Road",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Open%20Road/517554"
+    },
+    {
+      "name": "Opera IX",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opera%20IX/440710"
+    },
+    {
+      "name": "Opera Trance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opera%20Trance/457846"
+    },
+    {
+      "name": "Operacion Triunfo Iii",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Operacion%20Triunfo%20Iii/1839953"
+    },
+    {
+      "name": "Operatica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Operatica/521411"
+    },
+    {
+      "name": "Operation Ivy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Operation%20Ivy/13865"
+    },
+    {
+      "name": "Operation Overboard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Operation%20Overboard/2589536"
+    },
+    {
+      "name": "Operator",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Operator/892906"
+    },
+    {
+      "name": "Operayion Big Shots",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Operayion%20Big%20Shots/290522"
+    },
+    {
+      "name": "Opeth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opeth/214051"
+    },
+    {
+      "name": "Ophélie Winter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oph%C3%A9lie%20Winter/366261"
+    },
+    {
+      "name": "Opiate for the Masses",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opiate%20for%20the%20Masses/700460"
+    },
+    {
+      "name": "Opihi Pickers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opihi%20Pickers/741656"
+    },
+    {
+      "name": "Opil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opil/2726065"
+    },
+    {
+      "name": "Opium Jukebox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opium%20Jukebox/451423"
+    },
+    {
+      "name": "OPM",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OPM/440571"
+    },
+    {
+      "name": "Oppera",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oppera/673873"
+    },
+    {
+      "name": "Opposite Day",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opposite%20Day/717448"
+    },
+    {
+      "name": "Oppressor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oppressor/143256"
+    },
+    {
+      "name": "Opthalamia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opthalamia/224844"
+    },
+    {
+      "name": "Optiganally Yours",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Optiganally%20Yours/225671"
+    },
+    {
+      "name": "Optimo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Optimo/659746"
+    },
+    {
+      "name": "Óptimo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/%C3%93ptimo/981031"
+    },
+    {
+      "name": "Optimum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Optimum/2235633"
+    },
+    {
+      "name": "Optimystic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Optimystic/201978"
+    },
+    {
+      "name": "Opus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opus/556232"
+    },
+    {
+      "name": "Opus 3 Jazz Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opus%203%20Jazz%20Trio/1132940"
+    },
+    {
+      "name": "Opus III",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Opus%20III/26818"
+    },
+    {
+      "name": "Or",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Or/1074009"
+    },
+    {
+      "name": "Ora",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ora/747704"
+    },
+    {
+      "name": "Oran \"Juice\" Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oran%20%22Juice%22%20Jones/4635"
+    },
+    {
+      "name": "Orange",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange/292608"
+    },
+    {
+      "name": "Orange",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange/424434"
+    },
+    {
+      "name": "Orange 9mm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%209mm/141916"
+    },
+    {
+      "name": "Orange and Lemons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20and%20Lemons/1023573"
+    },
+    {
+      "name": "Orange Bicycle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Bicycle/507497"
+    },
+    {
+      "name": "Orange Blue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Blue/665761"
+    },
+    {
+      "name": "Orange Goblin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Goblin/276559"
+    },
+    {
+      "name": "Orange Island",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Island/530542"
+    },
+    {
+      "name": "Orange Juice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Juice/19691"
+    },
+    {
+      "name": "Orange Morning",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Morning/1129960"
+    },
+    {
+      "name": "Orange Muse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Muse/693555"
+    },
+    {
+      "name": "Orange Range",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orange%20Range/683755"
+    },
+    {
+      "name": "Oranj Symphonette",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oranj%20Symphonette/195061"
+    },
+    {
+      "name": "Oratory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oratory/447118"
+    },
+    {
+      "name": "Orba Squara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orba%20Squara/1074110"
+    },
+    {
+      "name": "Orbit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orbit/111350"
+    },
+    {
+      "name": "Orbital",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orbital/23077"
+    },
+    {
+      "name": "Orbiter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orbiter/437014"
+    },
+    {
+      "name": "Orchester Ambros Seelos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchester%20Ambros%20Seelos/798142"
+    },
+    {
+      "name": "Orchester Flughafen Zürich",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchester%20Flughafen%20Z%C3%BCrich/2678490"
+    },
+    {
+      "name": "Orchester Franz'l.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchester%20Franz%27l./950676"
+    },
+    {
+      "name": "Orchester Gert Wilden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchester%20Gert%20Wilden/2168355"
+    },
+    {
+      "name": "Orchester Hohnerklang",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchester%20Hohnerklang/2193253"
+    },
+    {
+      "name": "Orchestra 7",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestra%207/34398"
+    },
+    {
+      "name": "Orchestra Del Sole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestra%20Del%20Sole/2245943"
+    },
+    {
+      "name": "Orchestra Manhattan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestra%20Manhattan/22103"
+    },
+    {
+      "name": "Orchestra Regina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestra%20Regina/2039846"
+    },
+    {
+      "name": "Orchestra Tabajara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestra%20Tabajara/520582"
+    },
+    {
+      "name": "Orchestra Tropical Brasil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestra%20Tropical%20Brasil/209684"
+    },
+    {
+      "name": "Orchestral Manoeuvres in the Dark",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestral%20Manoeuvres%20in%20the%20Dark/110800"
+    },
+    {
+      "name": "Orchestre Symphonique de Québec",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchestre%20Symphonique%20de%20Qu%C3%A9bec/1387155"
+    },
+    {
+      "name": "Orchid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orchid/454997"
+    },
+    {
+      "name": "Order of Ennead",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Order%20of%20Ennead/1087085"
+    },
+    {
+      "name": "Order of Nine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Order%20of%20Nine/701343"
+    },
+    {
+      "name": "Ordinary Peoples",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ordinary%20Peoples/555959"
+    },
+    {
+      "name": "Orelsan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orelsan/1138292"
+    },
+    {
+      "name": "Oren Lavie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oren%20Lavie/862685"
+    },
+    {
+      "name": "Orenda Fink",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orenda%20Fink/461659"
+    },
+    {
+      "name": "Oreo Blue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oreo%20Blue/950697"
+    },
+    {
+      "name": "Organ & Chimes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Organ%20%26%20Chimes/535398"
+    },
+    {
+      "name": "Organ Radio 12",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Organ%20Radio%2012/440829"
+    },
+    {
+      "name": "Organ X",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Organ%20X/670064"
+    },
+    {
+      "name": "Organic Patch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Organic%20Patch/2694630"
+    },
+    {
+      "name": "Organized Konfusion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Organized%20Konfusion/15138"
+    },
+    {
+      "name": "Orgeltanz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orgeltanz/2071805"
+    },
+    {
+      "name": "Orgy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orgy/311513"
+    },
+    {
+      "name": "Ori Dagan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ori%20Dagan/2236521"
+    },
+    {
+      "name": "Orianthi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orianthi/920259"
+    },
+    {
+      "name": "Orient Pearl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orient%20Pearl/383988"
+    },
+    {
+      "name": "Oriental Echo Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oriental%20Echo%20Ensemble/30462"
+    },
+    {
+      "name": "Origa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Origa/337670"
+    },
+    {
+      "name": "Origin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Origin/13871"
+    },
+    {
+      "name": "Origin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Origin/435516"
+    },
+    {
+      "name": "Original Banda el Limón de Salvador Lizárraga",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Banda%20el%20Lim%C3%B3n%20de%20Salvador%20Liz%C3%A1rraga/680259"
+    },
+    {
+      "name": "Original British Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20British%20Cast/1892764"
+    },
+    {
+      "name": "Original Broadway Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Broadway%20Cast/1858629"
+    },
+    {
+      "name": "Original Broadway Casts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Broadway%20Casts/1858118"
+    },
+    {
+      "name": "Original Camellia Jazz Band of New Orleans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Camellia%20Jazz%20Band%20of%20New%20Orleans/214067"
+    },
+    {
+      "name": "Original Caste",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Caste/168465"
+    },
+    {
+      "name": "Original Casts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Casts/1858080"
+    },
+    {
+      "name": "Original Dixieland Jazz Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Dixieland%20Jazz%20Band/11366"
+    },
+    {
+      "name": "Original Flavor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Flavor/23602"
+    },
+    {
+      "name": "Original Grandmaster Dog",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Grandmaster%20Dog/950720"
+    },
+    {
+      "name": "Original Indiana Five",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Indiana%20Five/372344"
+    },
+    {
+      "name": "Original Latin All-Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Latin%20All-Stars/225324"
+    },
+    {
+      "name": "Original London Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20London%20Cast/1674046"
+    },
+    {
+      "name": "Original London Casts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20London%20Casts/1862702"
+    },
+    {
+      "name": "Original Mirrors",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Mirrors/19696"
+    },
+    {
+      "name": "Original Naabtal Duo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Naabtal%20Duo/295003"
+    },
+    {
+      "name": "Original National Theater Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20National%20Theater%20Cast/1862896"
+    },
+    {
+      "name": "Original Off-Broadway Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Off-Broadway%20Cast/1862581"
+    },
+    {
+      "name": "Original One",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20One/717474"
+    },
+    {
+      "name": "Original Piano Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Piano%20Trio/23994"
+    },
+    {
+      "name": "Original Pin Stripe Brass Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Pin%20Stripe%20Brass%20Band/194682"
+    },
+    {
+      "name": "Original Prague Syncopated Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Prague%20Syncopated%20Orchestra/312060"
+    },
+    {
+      "name": "Original PxMxWx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20PxMxWx/320686"
+    },
+    {
+      "name": "Original Soho Skiffle Group",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Soho%20Skiffle%20Group/485204"
+    },
+    {
+      "name": "Original Sountrack",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Sountrack/1609382"
+    },
+    {
+      "name": "Original Spanish Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Spanish%20Cast/1860923"
+    },
+    {
+      "name": "Original Trinidad Steel Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Original%20Trinidad%20Steel%20Band/528735"
+    },
+    {
+      "name": "Originals",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Originals/744688"
+    },
+    {
+      "name": "Originoo Gunn Clappaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Originoo%20Gunn%20Clappaz/194870"
+    },
+    {
+      "name": "Orion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orion/434307"
+    },
+    {
+      "name": "Orion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orion/19697"
+    },
+    {
+      "name": "Orion Riders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orion%20Riders/642968"
+    },
+    {
+      "name": "Orion the Hunter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orion%20the%20Hunter/19698"
+    },
+    {
+      "name": "Orishas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orishas/447141"
+    },
+    {
+      "name": "Orits Williki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orits%20Williki/2408443"
+    },
+    {
+      "name": "Orixa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orixa/203849"
+    },
+    {
+      "name": "Orko Eloheim",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orko%20Eloheim/2426461"
+    },
+    {
+      "name": "Órla Fallon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/%C3%93rla%20Fallon/443454"
+    },
+    {
+      "name": "Orlando",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando/203322"
+    },
+    {
+      "name": "Orlando Gibbons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Gibbons/1860496"
+    },
+    {
+      "name": "Orlando Jimenez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Jimenez/226854"
+    },
+    {
+      "name": "Orlando Julius",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Julius/28472"
+    },
+    {
+      "name": "Orlando Julius Ekemonde",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Julius%20Ekemonde/73612"
+    },
+    {
+      "name": "Orlando Marin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Marin/43434"
+    },
+    {
+      "name": "Orlando Philharmonic Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Philharmonic%20Orchestra/200529"
+    },
+    {
+      "name": "Orlando Pops Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Pops%20Orchestra/202730"
+    },
+    {
+      "name": "Orlando Silva",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orlando%20Silva/180777"
+    },
+    {
+      "name": "Orleans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orleans/5077"
+    },
+    {
+      "name": "Orleya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orleya/701023"
+    },
+    {
+      "name": "Ormly Gumfudgin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ormly%20Gumfudgin/950741"
+    },
+    {
+      "name": "Ormonde",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ormonde/2652134"
+    },
+    {
+      "name": "Orna",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orna/554935"
+    },
+    {
+      "name": "Ornatos Violeta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ornatos%20Violeta/698001"
+    },
+    {
+      "name": "Ornella Vanoni",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ornella%20Vanoni/141957"
+    },
+    {
+      "name": "Ornette",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ornette/2508315"
+    },
+    {
+      "name": "Ornette Coleman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ornette%20Coleman/65603"
+    },
+    {
+      "name": "Oro Solido",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oro%20Solido/203239"
+    },
+    {
+      "name": "Orphanage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orphanage/199594"
+    },
+    {
+      "name": "Orphaned Land",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orphaned%20Land/647563"
+    },
+    {
+      "name": "Orphee Sissi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orphee%20Sissi/368012"
+    },
+    {
+      "name": "Orphei Drängar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orphei%20Dr%C3%A4ngar/703918"
+    },
+    {
+      "name": "Orphéon Célesta",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orph%C3%A9on%20C%C3%A9lesta/1119091"
+    },
+    {
+      "name": "Orpheus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orpheus/19702"
+    },
+    {
+      "name": "Orquesta América",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Am%C3%A9rica/40760"
+    },
+    {
+      "name": "Orquesta Aragón",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Arag%C3%B3n/29335"
+    },
+    {
+      "name": "Orquesta Cuerdas Latinas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Cuerdas%20Latinas/225293"
+    },
+    {
+      "name": "Orquesta de la Luz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20de%20la%20Luz/29337"
+    },
+    {
+      "name": "Orquesta del Desierto",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20del%20Desierto/530356"
+    },
+    {
+      "name": "Orquesta del Tango de Buenos Aires",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20del%20Tango%20de%20Buenos%20Aires/433900"
+    },
+    {
+      "name": "Orquesta Inmensidad",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Inmensidad/207662"
+    },
+    {
+      "name": "Orquesta La Solucion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20La%20Solucion/44993"
+    },
+    {
+      "name": "Orquesta Mondragon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Mondragon/584405"
+    },
+    {
+      "name": "Orquesta Noche Sabrosa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Noche%20Sabrosa/207503"
+    },
+    {
+      "name": "Orquesta Riverside",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Riverside/207414"
+    },
+    {
+      "name": "Orquesta Romantica De La Habana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Romantica%20De%20La%20Habana/1858780"
+    },
+    {
+      "name": "Orquesta Romantica del Casino de Hawana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Romantica%20del%20Casino%20de%20Hawana/321097"
+    },
+    {
+      "name": "Orquesta Sabor Tropical",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Sabor%20Tropical/209717"
+    },
+    {
+      "name": "Orquesta Salsa Gorda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Salsa%20Gorda/742956"
+    },
+    {
+      "name": "Orquesta Sinfonica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Sinfonica/277247"
+    },
+    {
+      "name": "Orquesta Sonora de Havana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Sonora%20de%20Havana/365512"
+    },
+    {
+      "name": "Orquesta Tabaco y Ron",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Tabaco%20y%20Ron/612078"
+    },
+    {
+      "name": "Orquesta Tabajara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Tabajara/682257"
+    },
+    {
+      "name": "Orquesta Típica Víctor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20T%C3%ADpica%20V%C3%ADctor/214076"
+    },
+    {
+      "name": "Orquesta Tropical Do Caribe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquesta%20Tropical%20Do%20Caribe/322442"
+    },
+    {
+      "name": "Orquestra Mahatma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquestra%20Mahatma/425487"
+    },
+    {
+      "name": "Orquestra Tabajara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orquestra%20Tabajara/521514"
+    },
+    {
+      "name": "Orrall & Wright",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orrall%20%26%20Wright/201988"
+    },
+    {
+      "name": "Orrin Evans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orrin%20Evans/214080"
+    },
+    {
+      "name": "Orrin Hatch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orrin%20Hatch/612365"
+    },
+    {
+      "name": "Orrin Star",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orrin%20Star/27013"
+    },
+    {
+      "name": "Orrin Tucker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orrin%20Tucker/193514"
+    },
+    {
+      "name": "Orson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orson/2551922"
+    },
+    {
+      "name": "Orson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orson/812770"
+    },
+    {
+      "name": "Orsted Pedersen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orsted%20Pedersen/2387788"
+    },
+    {
+      "name": "Orthodox Issachar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orthodox%20Issachar/950765"
+    },
+    {
+      "name": "Orup",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orup/13874"
+    },
+    {
+      "name": "Orville Couch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Orville%20Couch/185508"
+    },
+    {
+      "name": "Oryx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oryx/836068"
+    },
+    {
+      "name": "Os Cariocas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%20Cariocas/37756"
+    },
+    {
+      "name": "Os Gatos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%20Gatos/409249"
+    },
+    {
+      "name": "Os Mutantes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%20Mutantes/312117"
+    },
+    {
+      "name": "Os Optimistas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%20Optimistas/725384"
+    },
+    {
+      "name": "Os Paralamas do Sucesso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%20Paralamas%20do%20Sucesso/34413"
+    },
+    {
+      "name": "Os Ritmistas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%20Ritmistas/917589"
+    },
+    {
+      "name": "Osada Vida",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osada%20Vida/1022638"
+    },
+    {
+      "name": "Osaka Popstar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osaka%20Popstar/784936"
+    },
+    {
+      "name": "Osamu Kitajima",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osamu%20Kitajima/2644"
+    },
+    {
+      "name": "Osaro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osaro/2263177"
+    },
+    {
+      "name": "Osborn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osborn/655683"
+    },
+    {
+      "name": "Osborne & Giles",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osborne%20%26%20Giles/23480"
+    },
+    {
+      "name": "Osborne Brothers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osborne%20Brothers/672"
+    },
+    {
+      "name": "Oscar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar/2160194"
+    },
+    {
+      "name": "Oscar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar/19706"
+    },
+    {
+      "name": "Oscar \"Papa\" Celestin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20%22Papa%22%20Celestin/12113"
+    },
+    {
+      "name": "Oscar Alemán",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Alem%C3%A1n/207311"
+    },
+    {
+      "name": "Oscar Andrade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Andrade/294039"
+    },
+    {
+      "name": "Oscar Benito",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Benito/37362"
+    },
+    {
+      "name": "Oscar Benton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Benton/30248"
+    },
+    {
+      "name": "Oscar Brown, Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Brown%2C%20Jr./26240"
+    },
+    {
+      "name": "Oscar Castro-Neves",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Castro-Neves/63198"
+    },
+    {
+      "name": "Oscar Chávez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Ch%C3%A1vez/64014"
+    },
+    {
+      "name": "Oscar D'León",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20D%27Le%C3%B3n/29061"
+    },
+    {
+      "name": "Oscar de la Hoya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20de%20la%20Hoya/446824"
+    },
+    {
+      "name": "Oscar G.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20G./40777"
+    },
+    {
+      "name": "Oscar Joy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Joy/2580640"
+    },
+    {
+      "name": "Oscar Klein",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Klein/18701"
+    },
+    {
+      "name": "Oscar McLollie & His Honey Jumpers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20McLollie%20%26%20His%20Honey%20Jumpers/19269"
+    },
+    {
+      "name": "Oscar Moore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Moore/9233"
+    },
+    {
+      "name": "Oscar P",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20P/1627438"
+    },
+    {
+      "name": "Oscar Peterson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Peterson/7322"
+    },
+    {
+      "name": "Oscar Peterson Big 4",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Peterson%20Big%204/1590772"
+    },
+    {
+      "name": "Oscar Pettiford",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Pettiford/7326"
+    },
+    {
+      "name": "Oscar Rabin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Rabin/296505"
+    },
+    {
+      "name": "Oscar Toney, Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Toney%2C%20Jr./25393"
+    },
+    {
+      "name": "Oscar Wolfe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscar%20Wolfe/207104"
+    },
+    {
+      "name": "Oscillators",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oscillators/419709"
+    },
+    {
+      "name": "Osé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Os%C3%A9/828963"
+    },
+    {
+      "name": "Osi Lewin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osi%20Lewin/594616"
+    },
+    {
+      "name": "Osibisa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osibisa/3380"
+    },
+    {
+      "name": "Osictone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osictone/1127480"
+    },
+    {
+      "name": "Osker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osker/398487"
+    },
+    {
+      "name": "Osmo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osmo/2209576"
+    },
+    {
+      "name": "Osmo's Cosmos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osmo%27s%20Cosmos/1068225"
+    },
+    {
+      "name": "Ossian",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ossian/1007202"
+    },
+    {
+      "name": "Ossie Scott",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ossie%20Scott/214672"
+    },
+    {
+      "name": "Osso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osso/1030299"
+    },
+    {
+      "name": "Östi und Propper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/%C3%96sti%20und%20Propper/2644102"
+    },
+    {
+      "name": "Osunlade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osunlade/459140"
+    },
+    {
+      "name": "Osvaldo Fresedo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osvaldo%20Fresedo/334055"
+    },
+    {
+      "name": "Osvaldo Pugliese",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osvaldo%20Pugliese/207378"
+    },
+    {
+      "name": "Oswaldo Montenegro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oswaldo%20Montenegro/485366"
+    },
+    {
+      "name": "Osylver Beat Man",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osylver%20Beat%20Man/2501262"
+    },
+    {
+      "name": "Osylver Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osylver%20Project/2521016"
+    },
+    {
+      "name": "Osymyso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osymyso/362761"
+    },
+    {
+      "name": "Osyrus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Osyrus/742380"
+    },
+    {
+      "name": "Otavio Augusto/Gabriel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otavio%20Augusto%2FGabriel/680524"
+    },
+    {
+      "name": "Oteino",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oteino/950795"
+    },
+    {
+      "name": "Otep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otep/484044"
+    },
+    {
+      "name": "Othello Molineaux",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Othello%20Molineaux/106728"
+    },
+    {
+      "name": "Other Lives",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Other%20Lives/1083212"
+    },
+    {
+      "name": "Other Men",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Other%20Men/866623"
+    },
+    {
+      "name": "Otherside",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otherside/950801"
+    },
+    {
+      "name": "Otherwise",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otherwise/836085"
+    },
+    {
+      "name": "Otimusic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otimusic/950804"
+    },
+    {
+      "name": "Otis Blackwell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Blackwell/30250"
+    },
+    {
+      "name": "Otis Clay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Clay/3915"
+    },
+    {
+      "name": "Otis Day",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Day/1639185"
+    },
+    {
+      "name": "Otis Grand",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Grand/33976"
+    },
+    {
+      "name": "Otis Jackson, Sr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Jackson%2C%20Sr./89802"
+    },
+    {
+      "name": "Otis Lisby",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Lisby/1119203"
+    },
+    {
+      "name": "Otis Redding",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Redding/5246"
+    },
+    {
+      "name": "Otis Rush",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Rush/120868"
+    },
+    {
+      "name": "Otis Spann",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Spann/127190"
+    },
+    {
+      "name": "Otis Stokes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Stokes/128927"
+    },
+    {
+      "name": "Otis Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Taylor/130732"
+    },
+    {
+      "name": "Otis Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otis%20Williams/14732"
+    },
+    {
+      "name": "Otomo Yoshihide",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otomo%20Yoshihide/215600"
+    },
+    {
+      "name": "Ottawans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ottawans/169758"
+    },
+    {
+      "name": "Ottenhiem Potboiler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ottenhiem%20Potboiler/214293"
+    },
+    {
+      "name": "Ottmar Liebert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ottmar%20Liebert/2661"
+    },
+    {
+      "name": "Otto",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otto/384450"
+    },
+    {
+      "name": "Otto Knows",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otto%20Knows/2457254"
+    },
+    {
+      "name": "Otto Von Schirach",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otto%20Von%20Schirach/480789"
+    },
+    {
+      "name": "Otto Weiss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otto%20Weiss/136972"
+    },
+    {
+      "name": "Otto Wernherr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otto%20Wernherr/2350432"
+    },
+    {
+      "name": "Otto's Daughter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otto%27s%20Daughter/479320"
+    },
+    {
+      "name": "Otyg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Otyg/978182"
+    },
+    {
+      "name": "Ou Est le Swimming Pool",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ou%20Est%20le%20Swimming%20Pool/2080164"
+    },
+    {
+      "name": "Ougenweide",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ougenweide/19714"
+    },
+    {
+      "name": "Ouija",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ouija/364732"
+    },
+    {
+      "name": "Our Father's Children",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Our%20Father%27s%20Children/1129996"
+    },
+    {
+      "name": "Our Heart's Hero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Our%20Heart%27s%20Hero/883935"
+    },
+    {
+      "name": "Our Lady Peace",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Our%20Lady%20Peace/169679"
+    },
+    {
+      "name": "Our Last Night",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Our%20Last%20Night/1021614"
+    },
+    {
+      "name": "Our Mothers Daughters",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Our%20Mothers%20Daughters/480014"
+    },
+    {
+      "name": "Our Plastic Dream",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Our%20Plastic%20Dream/643689"
+    },
+    {
+      "name": "Ours",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ours/480794"
+    },
+    {
+      "name": "Ousmane Kouyate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ousmane%20Kouyate/28525"
+    },
+    {
+      "name": "Out Hud",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20Hud/542082"
+    },
+    {
+      "name": "Out of Eden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20of%20Eden/143267"
+    },
+    {
+      "name": "Out of Office",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20of%20Office/984203"
+    },
+    {
+      "name": "Out of Phase",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20of%20Phase/467326"
+    },
+    {
+      "name": "Out of the Grey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20of%20the%20Grey/40786"
+    },
+    {
+      "name": "Out of Your Mouth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20of%20Your%20Mouth/747184"
+    },
+    {
+      "name": "Out to Win",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Out%20to%20Win/529841"
+    },
+    {
+      "name": "Outasight",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outasight/876603"
+    },
+    {
+      "name": "Outbreak",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outbreak/276134"
+    },
+    {
+      "name": "Outer Lords",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outer%20Lords/370475"
+    },
+    {
+      "name": "Outer Signal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outer%20Signal/1054288"
+    },
+    {
+      "name": "OutKast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OutKast/111701"
+    },
+    {
+      "name": "Outlandish",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outlandish/560557"
+    },
+    {
+      "name": "Outlaw Blood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outlaw%20Blood/13877"
+    },
+    {
+      "name": "Outlawz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outlawz/351986"
+    },
+    {
+      "name": "Outlets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outlets/24067"
+    },
+    {
+      "name": "Outline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outline/482409"
+    },
+    {
+      "name": "Outrageous Cherry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outrageous%20Cherry/144163"
+    },
+    {
+      "name": "Outsidaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outsidaz/404284"
+    },
+    {
+      "name": "Outsiderz 4 Life",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outsiderz%204%20Life/441419"
+    },
+    {
+      "name": "Outsmarting Simon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outsmarting%20Simon/568591"
+    },
+    {
+      "name": "Outspoken",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outspoken/215899"
+    },
+    {
+      "name": "Outta Control",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Outta%20Control/168604"
+    },
+    {
+      "name": "OV 7",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OV%207/437164"
+    },
+    {
+      "name": "Oval Opus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oval%20Opus/577714"
+    },
+    {
+      "name": "Ove Lind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ove%20Lind/360070"
+    },
+    {
+      "name": "Over It",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Over%20It/510542"
+    },
+    {
+      "name": "Over My Dead Body",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Over%20My%20Dead%20Body/467345"
+    },
+    {
+      "name": "Over the Edge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Over%20the%20Edge/664628"
+    },
+    {
+      "name": "Over the Rhine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Over%20the%20Rhine/26822"
+    },
+    {
+      "name": "Overcast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overcast/215900"
+    },
+    {
+      "name": "Overcome",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overcome/203212"
+    },
+    {
+      "name": "Overdream",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overdream/1008167"
+    },
+    {
+      "name": "Overdrive",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overdrive/190737"
+    },
+    {
+      "name": "Overdriver",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overdriver/300280"
+    },
+    {
+      "name": "Overflow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overflow/671408"
+    },
+    {
+      "name": "Overkill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overkill/5086"
+    },
+    {
+      "name": "Overload",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overload/206096"
+    },
+    {
+      "name": "Overproof Soundsystem",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overproof%20Soundsystem/527853"
+    },
+    {
+      "name": "Overseer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overseer/298046"
+    },
+    {
+      "name": "OvertMind Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/OvertMind%20Project/2626993"
+    },
+    {
+      "name": "Overtures",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overtures/225220"
+    },
+    {
+      "name": "Overtwenty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Overtwenty/1186622"
+    },
+    {
+      "name": "Ovi M",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ovi%20M/2416400"
+    },
+    {
+      "name": "Ovid Alexis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ovid%20Alexis/424200"
+    },
+    {
+      "name": "Owe Thörnqvist",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owe%20Th%C3%B6rnqvist/1120089"
+    },
+    {
+      "name": "Owen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owen/512479"
+    },
+    {
+      "name": "Owen Baxter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owen%20Baxter/423855"
+    },
+    {
+      "name": "Owen Burdick",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owen%20Burdick/1284387"
+    },
+    {
+      "name": "Owen Gray",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owen%20Gray/81759"
+    },
+    {
+      "name": "Owen Hart",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owen%20Hart/693079"
+    },
+    {
+      "name": "Owl City",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owl%20City/1050183"
+    },
+    {
+      "name": "Owl Morrison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owl%20Morrison/606841"
+    },
+    {
+      "name": "Owsley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Owsley/179714"
+    },
+    {
+      "name": "Ox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ox/509392"
+    },
+    {
+      "name": "Oxford Circle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oxford%20Circle/279111"
+    },
+    {
+      "name": "Oxid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oxid/2198671"
+    },
+    {
+      "name": "Oxide & Neutrino",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oxide%20%26%20Neutrino/507997"
+    },
+    {
+      "name": "Oxo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oxo/19726"
+    },
+    {
+      "name": "Oxymoron",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oxymoron/225247"
+    },
+    {
+      "name": "Oysterband",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oysterband/5087"
+    },
+    {
+      "name": "Oysterhead",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oysterhead/440903"
+    },
+    {
+      "name": "Oz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Oz/111816"
+    },
+    {
+      "name": "Ozark Henry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozark%20Henry/665882"
+    },
+    {
+      "name": "Ozark Mountain Daredevils",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozark%20Mountain%20Daredevils/5088"
+    },
+    {
+      "name": "Ozay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozay/214099"
+    },
+    {
+      "name": "Özdemir Erdogan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/%C3%96zdemir%20Erdogan/1016632"
+    },
+    {
+      "name": "Ozgur Uzar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozgur%20Uzar/2424626"
+    },
+    {
+      "name": "Ozma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozma/484811"
+    },
+    {
+      "name": "Ozo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozo/2510758"
+    },
+    {
+      "name": "Ozo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozo/1740509"
+    },
+    {
+      "name": "Ozomatli",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozomatli/296498"
+    },
+    {
+      "name": "Ozzie Kotani",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozzie%20Kotani/142366"
+    },
+    {
+      "name": "Ozzie Nelson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozzie%20Nelson/11282"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ozzy%20Osbourne/5079"
+    }
+  ]
+}

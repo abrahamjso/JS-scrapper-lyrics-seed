@@ -1,0 +1,4205 @@
+{
+  "letra": "W",
+  "artistas": [
+    {
+      "name": "W-Ali",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W-Ali/1015640"
+    },
+    {
+      "name": "W-inds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W-inds/663050"
+    },
+    {
+      "name": "W. Dire Wolff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.%20Dire%20Wolff/2124414"
+    },
+    {
+      "name": "W. Ellington Felton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.%20Ellington%20Felton/696435"
+    },
+    {
+      "name": "W. Lee O'Daniel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.%20Lee%20O%27Daniel/158812"
+    },
+    {
+      "name": "W. R. Fenner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.%20R.%20Fenner/1185004"
+    },
+    {
+      "name": "W.A.S.P.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.A.S.P./135221"
+    },
+    {
+      "name": "W.C. Clark",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.C.%20Clark/64824"
+    },
+    {
+      "name": "W.C. Handy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.C.%20Handy/10723"
+    },
+    {
+      "name": "W.G.C.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/W.G.C./1979764"
+    },
+    {
+      "name": "Wa Wa Nee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wa%20Wa%20Nee/14661"
+    },
+    {
+      "name": "Wackers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wackers/21293"
+    },
+    {
+      "name": "Waco Jesus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waco%20Jesus/838450"
+    },
+    {
+      "name": "Waddie Mitchell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waddie%20Mitchell/32166"
+    },
+    {
+      "name": "Wade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade/2617610"
+    },
+    {
+      "name": "Wade Bowen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20Bowen/326461"
+    },
+    {
+      "name": "Wade Cambern",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20Cambern/531943"
+    },
+    {
+      "name": "Wade Curtiss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20Curtiss/278425"
+    },
+    {
+      "name": "Wade Hayes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20Hayes/141661"
+    },
+    {
+      "name": "Wade Legge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20Legge/9011"
+    },
+    {
+      "name": "Wade O. Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20O.%20Brown/707240"
+    },
+    {
+      "name": "Wade Witherspoon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wade%20Witherspoon/723690"
+    },
+    {
+      "name": "Wadsworth Mansion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wadsworth%20Mansion/101551"
+    },
+    {
+      "name": "Wag",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wag/723118"
+    },
+    {
+      "name": "Waggett Declan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waggett%20Declan/352678"
+    },
+    {
+      "name": "Wagner Tiso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wagner%20Tiso/11843"
+    },
+    {
+      "name": "Wagon Christ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wagon%20Christ/144118"
+    },
+    {
+      "name": "Wah!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wah%21/21296"
+    },
+    {
+      "name": "Wah-Wah Watson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wah-Wah%20Watson/136450"
+    },
+    {
+      "name": "Waikiki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waikiki/528523"
+    },
+    {
+      "name": "Waikiki Minstrels",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waikiki%20Minstrels/215471"
+    },
+    {
+      "name": "Waitek",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waitek/2429862"
+    },
+    {
+      "name": "Waka Flocka Flame",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waka%20Flocka%20Flame/2061153"
+    },
+    {
+      "name": "Wakefield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wakefield/559525"
+    },
+    {
+      "name": "Wakey!Wakey!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wakey%21Wakey%21/2077944"
+    },
+    {
+      "name": "Waking Ashland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waking%20Ashland/701253"
+    },
+    {
+      "name": "Waking the Cadaver",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waking%20the%20Cadaver/1021792"
+    },
+    {
+      "name": "Waldeck",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waldeck/370840"
+    },
+    {
+      "name": "Waldemar Matuška",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waldemar%20Matu%C5%A1ka/988046"
+    },
+    {
+      "name": "Waldir Silva",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waldir%20Silva/687050"
+    },
+    {
+      "name": "Wale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wale/1014023"
+    },
+    {
+      "name": "Wale Olajide",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wale%20Olajide/717347"
+    },
+    {
+      "name": "Walflower Complextion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walflower%20Complextion/434698"
+    },
+    {
+      "name": "Walfredo de los Reyes Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walfredo%20de%20los%20Reyes%20Jr./731541"
+    },
+    {
+      "name": "Walk Off the Earth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walk%20Off%20the%20Earth/1559099"
+    },
+    {
+      "name": "Walk on Fire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walk%20on%20Fire/21821"
+    },
+    {
+      "name": "Walk the Moon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walk%20the%20Moon/27144"
+    },
+    {
+      "name": "Walker & Kays",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walker%20%26%20Kays/968913"
+    },
+    {
+      "name": "Walker Ikard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walker%20Ikard/968915"
+    },
+    {
+      "name": "Walker John",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walker%20John/1175996"
+    },
+    {
+      "name": "Walker Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walker%20Williams/743549"
+    },
+    {
+      "name": "Walker's Run",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walker%27s%20Run/467495"
+    },
+    {
+      "name": "Walking Concert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walking%20Concert/670572"
+    },
+    {
+      "name": "Wall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wall/21309"
+    },
+    {
+      "name": "Wall Matthews",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wall%20Matthews/2683"
+    },
+    {
+      "name": "Wall of Voodoo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wall%20of%20Voodoo/5782"
+    },
+    {
+      "name": "Wallace Davenport",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wallace%20Davenport/8364"
+    },
+    {
+      "name": "Wallace Roney",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wallace%20Roney/11560"
+    },
+    {
+      "name": "Wallowitch & Ross",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wallowitch%20%26%20Ross/816439"
+    },
+    {
+      "name": "Wallpaper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wallpaper/311301"
+    },
+    {
+      "name": "Wallpaper Silhouettes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wallpaper%20Silhouettes/785984"
+    },
+    {
+      "name": "Wallpaper.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wallpaper./1085620"
+    },
+    {
+      "name": "Walls of Jasper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walls%20of%20Jasper/968929"
+    },
+    {
+      "name": "Walls of Jericho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walls%20of%20Jericho/404089"
+    },
+    {
+      "name": "Wally Cirillo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Cirillo/8265"
+    },
+    {
+      "name": "Wally Fawkes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Fawkes/241400"
+    },
+    {
+      "name": "Wally Holmes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Holmes/87579"
+    },
+    {
+      "name": "Wally Leask",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Leask/523284"
+    },
+    {
+      "name": "Wally Lopez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Lopez/539090"
+    },
+    {
+      "name": "Wally Pleasant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Pleasant/143299"
+    },
+    {
+      "name": "Wally Rose",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Rose/7450"
+    },
+    {
+      "name": "Wally Stott",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Stott/218150"
+    },
+    {
+      "name": "Wally Warning",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wally%20Warning/968935"
+    },
+    {
+      "name": "Walt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt/464238"
+    },
+    {
+      "name": "Walt  \"Baby\" Love",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20%20%22Baby%22%20Love/1712173"
+    },
+    {
+      "name": "Walt \"Baby\" Love",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20%22Baby%22%20Love/661584"
+    },
+    {
+      "name": "Walt Dickerson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Dickerson/6402"
+    },
+    {
+      "name": "Walt Elson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Elson/1144291"
+    },
+    {
+      "name": "Walt Luv",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Luv/1175986"
+    },
+    {
+      "name": "Walt Mink",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Mink/22920"
+    },
+    {
+      "name": "Walt Procanyn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Procanyn/968948"
+    },
+    {
+      "name": "Walt Wagner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Wagner/968953"
+    },
+    {
+      "name": "Walt Weiskopf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Weiskopf/11945"
+    },
+    {
+      "name": "Walt Whitman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walt%20Whitman/2436"
+    },
+    {
+      "name": "Waltah Boy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waltah%20Boy/447415"
+    },
+    {
+      "name": "Waltan Mari",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waltan%20Mari/2643011"
+    },
+    {
+      "name": "Waltari",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waltari/391192"
+    },
+    {
+      "name": "Walter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter/723196"
+    },
+    {
+      "name": "Walter \"Junie\" Morrison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20%22Junie%22%20Morrison/21865"
+    },
+    {
+      "name": "Walter \"Wolfman\" Washington",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20%22Wolfman%22%20Washington/565"
+    },
+    {
+      "name": "Walter Barr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Barr/54492"
+    },
+    {
+      "name": "Walter Beasley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Beasley/6080"
+    },
+    {
+      "name": "Walter Becker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Becker/44934"
+    },
+    {
+      "name": "Walter Bell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Bell/551730"
+    },
+    {
+      "name": "Walter Bishop, Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Bishop%2C%20Jr./6120"
+    },
+    {
+      "name": "Walter Blanding",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Blanding/148265"
+    },
+    {
+      "name": "Walter Boenig",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Boenig/57653"
+    },
+    {
+      "name": "Walter Brennan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Brennan/32992"
+    },
+    {
+      "name": "Walter Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Brown/16136"
+    },
+    {
+      "name": "Walter Chancellor, Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Chancellor%2C%20Jr./235426"
+    },
+    {
+      "name": "Walter Cronkite",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Cronkite/365534"
+    },
+    {
+      "name": "Walter Davis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Davis/330"
+    },
+    {
+      "name": "Walter Davis, Jr.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Davis%2C%20Jr./69117"
+    },
+    {
+      "name": "Walter E. Sear",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20E.%20Sear/123427"
+    },
+    {
+      "name": "Walter Egan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Egan/17257"
+    },
+    {
+      "name": "Walter Gibbons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Gibbons/182862"
+    },
+    {
+      "name": "Walter Givens",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Givens/1070153"
+    },
+    {
+      "name": "Walter Hyatt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Hyatt/1657"
+    },
+    {
+      "name": "Walter J. Lindner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20J.%20Lindner/431723"
+    },
+    {
+      "name": "Walter Jackson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Jackson/4579"
+    },
+    {
+      "name": "Walter Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Jones/624299"
+    },
+    {
+      "name": "Walter La Kota",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20La%20Kota/414753"
+    },
+    {
+      "name": "Walter Lakutard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Lakutard/195038"
+    },
+    {
+      "name": "Walter Lang",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Lang/155881"
+    },
+    {
+      "name": "Walter Levinsky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Levinsky/98096"
+    },
+    {
+      "name": "Walter Lure",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Lure/100029"
+    },
+    {
+      "name": "Walter Marsh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Marsh/311688"
+    },
+    {
+      "name": "Walter McCarty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20McCarty/715795"
+    },
+    {
+      "name": "Walter Meego",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Meego/749214"
+    },
+    {
+      "name": "Walter Murphy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Murphy/25301"
+    },
+    {
+      "name": "Walter Norris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Norris/7241"
+    },
+    {
+      "name": "Walter Ostanek",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Ostanek/224213"
+    },
+    {
+      "name": "Walter Payton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Payton/113001"
+    },
+    {
+      "name": "Walter Prez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Prez/1095626"
+    },
+    {
+      "name": "Walter Rossi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Rossi/120476"
+    },
+    {
+      "name": "Walter Savage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Savage/507662"
+    },
+    {
+      "name": "Walter Scholz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Scholz/476065"
+    },
+    {
+      "name": "Walter Trout",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Trout/132889"
+    },
+    {
+      "name": "Walter Wanderley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Wanderley/11929"
+    },
+    {
+      "name": "Walter Weeman's Brass & Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walter%20Weeman%27s%20Brass%20%26%20Singers/2364321"
+    },
+    {
+      "name": "Walters & Kazha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Walters%20%26%20Kazha/968974"
+    },
+    {
+      "name": "Waltham",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waltham/703780"
+    },
+    {
+      "name": "Waltz for Debbie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waltz%20for%20Debbie/425581"
+    },
+    {
+      "name": "Wam Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wam%20Band/434667"
+    },
+    {
+      "name": "Wamdue Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wamdue%20Project/207046"
+    },
+    {
+      "name": "Wampas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wampas/475157"
+    },
+    {
+      "name": "Wan-Cee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wan-Cee/881907"
+    },
+    {
+      "name": "Wanda and the Electric Dogs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20and%20the%20Electric%20Dogs/1095629"
+    },
+    {
+      "name": "Wanda Cork",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20Cork/968981"
+    },
+    {
+      "name": "Wanda Jackson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20Jackson/4580"
+    },
+    {
+      "name": "Wanda Lindstrom Mitchell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20Lindstrom%20Mitchell/507618"
+    },
+    {
+      "name": "Wanda Perry Josephs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20Perry%20Josephs/249699"
+    },
+    {
+      "name": "Wanda Sá",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20S%C3%A1/434186"
+    },
+    {
+      "name": "Wanda Stafford",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanda%20Stafford/968985"
+    },
+    {
+      "name": "Wanderers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanderers/391219"
+    },
+    {
+      "name": "Wanderléa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanderl%C3%A9a/485383"
+    },
+    {
+      "name": "Wanessa Camargo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wanessa%20Camargo/681151"
+    },
+    {
+      "name": "Wang Chung",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wang%20Chung/5787"
+    },
+    {
+      "name": "Wank",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wank/291184"
+    },
+    {
+      "name": "Wankelmut",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wankelmut/2685167"
+    },
+    {
+      "name": "War",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War/968995"
+    },
+    {
+      "name": "War",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War/838482"
+    },
+    {
+      "name": "War",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War/5788"
+    },
+    {
+      "name": "War Against Sleep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War%20Against%20Sleep/615632"
+    },
+    {
+      "name": "War Child",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War%20Child/616725"
+    },
+    {
+      "name": "War Dance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War%20Dance/1095635"
+    },
+    {
+      "name": "War of Ages",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War%20of%20Ages/802670"
+    },
+    {
+      "name": "War Pigs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War%20Pigs/1000894"
+    },
+    {
+      "name": "War Rocket Ajax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/War%20Rocket%20Ajax/373851"
+    },
+    {
+      "name": "Warbringer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warbringer/1002791"
+    },
+    {
+      "name": "Warcry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warcry/847480"
+    },
+    {
+      "name": "Ward 21",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ward%2021/391230"
+    },
+    {
+      "name": "Ward Marston",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ward%20Marston/203876"
+    },
+    {
+      "name": "Warda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warda/43264"
+    },
+    {
+      "name": "Wardell Gray",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wardell%20Gray/6611"
+    },
+    {
+      "name": "Wareika",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wareika/1074459"
+    },
+    {
+      "name": "Wargasm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wargasm/14671"
+    },
+    {
+      "name": "Warhammer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warhammer/530969"
+    },
+    {
+      "name": "Warhead",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warhead/207050"
+    },
+    {
+      "name": "Warhorse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warhorse/528720"
+    },
+    {
+      "name": "Warlock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warlock/14672"
+    },
+    {
+      "name": "Warlord",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warlord/14674"
+    },
+    {
+      "name": "Warmen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warmen/519969"
+    },
+    {
+      "name": "Warne Marsh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warne%20Marsh/7059"
+    },
+    {
+      "name": "Warner Mack",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warner%20Mack/19073"
+    },
+    {
+      "name": "Warning",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warning/1030075"
+    },
+    {
+      "name": "Warp 9",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warp%209/21325"
+    },
+    {
+      "name": "Warp Brothers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warp%20Brothers/470321"
+    },
+    {
+      "name": "Warpaint",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warpaint/1143668"
+    },
+    {
+      "name": "Warr Acres",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warr%20Acres/2429288"
+    },
+    {
+      "name": "Warrant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warrant/5790"
+    },
+    {
+      "name": "Warren",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren/1047046"
+    },
+    {
+      "name": "Warren Bailey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Bailey/23746"
+    },
+    {
+      "name": "Warren Barfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Barfield/570901"
+    },
+    {
+      "name": "Warren Barker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Barker/25428"
+    },
+    {
+      "name": "Warren Battiste",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Battiste/895945"
+    },
+    {
+      "name": "Warren Bernhardt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Bernhardt/6107"
+    },
+    {
+      "name": "Warren Ceasar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Ceasar/211513"
+    },
+    {
+      "name": "Warren Chiasson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Chiasson/64181"
+    },
+    {
+      "name": "Warren Clarke",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Clarke/298420"
+    },
+    {
+      "name": "Warren Cooper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Cooper/543635"
+    },
+    {
+      "name": "Warren G",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20G/44720"
+    },
+    {
+      "name": "Warren Gluck",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Gluck/434139"
+    },
+    {
+      "name": "Warren Hatfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Hatfield/969024"
+    },
+    {
+      "name": "Warren Haynes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Haynes/39324"
+    },
+    {
+      "name": "Warren Hill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Hill/6743"
+    },
+    {
+      "name": "Warren Kime",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Kime/10953"
+    },
+    {
+      "name": "Warren Schein",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Schein/969028"
+    },
+    {
+      "name": "Warren Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Smith/5464"
+    },
+    {
+      "name": "Warren Sneed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Sneed/126679"
+    },
+    {
+      "name": "Warren Storm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Storm/20782"
+    },
+    {
+      "name": "Warren Vaché",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Vach%C3%A9/7730"
+    },
+    {
+      "name": "Warren Zanes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Zanes/194495"
+    },
+    {
+      "name": "Warren Zevon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warren%20Zevon/140899"
+    },
+    {
+      "name": "Warrior King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warrior%20King/476928"
+    },
+    {
+      "name": "Warrior River Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warrior%20River%20Boys/704"
+    },
+    {
+      "name": "Warrior Soul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warrior%20Soul/5791"
+    },
+    {
+      "name": "Warriors",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warriors/851970"
+    },
+    {
+      "name": "Warriors la Corporacion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warriors%20la%20Corporacion/697643"
+    },
+    {
+      "name": "Warsaw",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warsaw/435130"
+    },
+    {
+      "name": "Warzone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Warzone/22128"
+    },
+    {
+      "name": "Was (Not Was)",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Was%20%28Not%20Was%29/5792"
+    },
+    {
+      "name": "Wascals",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wascals/136155"
+    },
+    {
+      "name": "Washboard Rhythm Kings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Washboard%20Rhythm%20Kings/165639"
+    },
+    {
+      "name": "Washboard Sam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Washboard%20Sam/121654"
+    },
+    {
+      "name": "Washed Out",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Washed%20Out/1171148"
+    },
+    {
+      "name": "Wasis Diop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wasis%20Diop/71194"
+    },
+    {
+      "name": "WASO",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WASO/424487"
+    },
+    {
+      "name": "Wason",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wason/2202144"
+    },
+    {
+      "name": "Wasted Youth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wasted%20Youth/14681"
+    },
+    {
+      "name": "Wat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wat/842817"
+    },
+    {
+      "name": "Wat Tyler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wat%20Tyler/165585"
+    },
+    {
+      "name": "Watain",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watain/848269"
+    },
+    {
+      "name": "Watashi Wa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watashi%20Wa/430236"
+    },
+    {
+      "name": "Watch Them Die",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watch%20Them%20Die/587445"
+    },
+    {
+      "name": "Watchmaker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watchmaker/516132"
+    },
+    {
+      "name": "Watchtower",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watchtower/14683"
+    },
+    {
+      "name": "Water",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Water/723258"
+    },
+    {
+      "name": "Water",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Water/21334"
+    },
+    {
+      "name": "Water Boys TV",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Water%20Boys%20TV/1662427"
+    },
+    {
+      "name": "Waterdeep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterdeep/373482"
+    },
+    {
+      "name": "Waterdown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterdown/478165"
+    },
+    {
+      "name": "Waterfront",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterfront/296375"
+    },
+    {
+      "name": "Waterlillies",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterlillies/27151"
+    },
+    {
+      "name": "Waterloo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterloo/725129"
+    },
+    {
+      "name": "Waterloo & Robinson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterloo%20%26%20Robinson/975226"
+    },
+    {
+      "name": "Waterman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterman/468774"
+    },
+    {
+      "name": "Watermark",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watermark/361978"
+    },
+    {
+      "name": "Waterproof Blonde",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterproof%20Blonde/688610"
+    },
+    {
+      "name": "Watershed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watershed/919879"
+    },
+    {
+      "name": "Waterson:Carthy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waterson%3ACarthy/165500"
+    },
+    {
+      "name": "Watson Beasley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watson%20Beasley/293869"
+    },
+    {
+      "name": "Watusi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Watusi/577376"
+    },
+    {
+      "name": "Wave",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wave/391347"
+    },
+    {
+      "name": "Wave Mechanics Union",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wave%20Mechanics%20Union/1099972"
+    },
+    {
+      "name": "Waverly Seven",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waverly%20Seven/914587"
+    },
+    {
+      "name": "Wavetraxx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wavetraxx/673624"
+    },
+    {
+      "name": "Waving at Strangers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waving%20at%20Strangers/723289"
+    },
+    {
+      "name": "Wavorly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wavorly/914591"
+    },
+    {
+      "name": "Wavves",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wavves/1107617"
+    },
+    {
+      "name": "Wax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wax/1613935"
+    },
+    {
+      "name": "Wax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wax/2714288"
+    },
+    {
+      "name": "Wax on Radio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wax%20on%20Radio/792134"
+    },
+    {
+      "name": "Wax Poetic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wax%20Poetic/415939"
+    },
+    {
+      "name": "Wax Tailor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wax%20Tailor/742958"
+    },
+    {
+      "name": "Wax UK",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wax%20UK/27153"
+    },
+    {
+      "name": "Waxdolls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waxdolls/1180510"
+    },
+    {
+      "name": "Waxwing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waxwing/370471"
+    },
+    {
+      "name": "Way Out West",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Way%20Out%20West/228192"
+    },
+    {
+      "name": "Wayfaring Strangers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayfaring%20Strangers/507556"
+    },
+    {
+      "name": "Waylon Jennings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waylon%20Jennings/1663"
+    },
+    {
+      "name": "Waylon Thibodeaux",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waylon%20Thibodeaux/41941"
+    },
+    {
+      "name": "Wayman Tisdale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayman%20Tisdale/144316"
+    },
+    {
+      "name": "Waymon Reed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Waymon%20Reed/117575"
+    },
+    {
+      "name": "Wayne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne/464138"
+    },
+    {
+      "name": "Wayne & Jake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20%26%20Jake/529909"
+    },
+    {
+      "name": "Wayne Bartlett",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Bartlett/224268"
+    },
+    {
+      "name": "Wayne Bedrosian",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Bedrosian/10115"
+    },
+    {
+      "name": "Wayne Bergeron",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Bergeron/223296"
+    },
+    {
+      "name": "Wayne Boyer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Boyer/6158"
+    },
+    {
+      "name": "Wayne Brady",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Brady/745489"
+    },
+    {
+      "name": "Wayne Burton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Burton/477304"
+    },
+    {
+      "name": "Wayne C. Henderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20C.%20Henderson/225424"
+    },
+    {
+      "name": "Wayne Carson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Carson/37787"
+    },
+    {
+      "name": "Wayne Cochran",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Cochran/16560"
+    },
+    {
+      "name": "Wayne Erbsen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Erbsen/151577"
+    },
+    {
+      "name": "Wayne Escoffery",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Escoffery/509988"
+    },
+    {
+      "name": "Wayne Fontana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Fontana/195900"
+    },
+    {
+      "name": "Wayne Fontana and the Mindbenders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Fontana%20and%20the%20Mindbenders/35556"
+    },
+    {
+      "name": "Wayne G",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20G/291122"
+    },
+    {
+      "name": "Wayne Goins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Goins/80586"
+    },
+    {
+      "name": "Wayne Gratz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Gratz/2582"
+    },
+    {
+      "name": "Wayne Hancock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Hancock/168266"
+    },
+    {
+      "name": "Wayne Henderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Henderson/2002"
+    },
+    {
+      "name": "Wayne Horsburgh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Horsburgh/703423"
+    },
+    {
+      "name": "Wayne Horvitz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Horvitz/87921"
+    },
+    {
+      "name": "Wayne Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Johnson/10906"
+    },
+    {
+      "name": "Wayne Keenan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Keenan/969118"
+    },
+    {
+      "name": "Wayne King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20King/14905"
+    },
+    {
+      "name": "Wayne Kramer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Kramer/39896"
+    },
+    {
+      "name": "Wayne Krantz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Krantz/6912"
+    },
+    {
+      "name": "Wayne Marshall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Marshall/102200"
+    },
+    {
+      "name": "Wayne Marshall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Marshall/1304380"
+    },
+    {
+      "name": "Wayne Minor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Minor/1018849"
+    },
+    {
+      "name": "Wayne Moore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Moore/107165"
+    },
+    {
+      "name": "Wayne Morrison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Morrison/107668"
+    },
+    {
+      "name": "Wayne Newton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Newton/3135"
+    },
+    {
+      "name": "Wayne Pascall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Pascall/717720"
+    },
+    {
+      "name": "Wayne Shorter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Shorter/7540"
+    },
+    {
+      "name": "Wayne Stallings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Stallings/721135"
+    },
+    {
+      "name": "Wayne Static",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Static/449375"
+    },
+    {
+      "name": "Wayne Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Taylor/2158744"
+    },
+    {
+      "name": "Wayne Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Taylor/979941"
+    },
+    {
+      "name": "Wayne Tolbert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Tolbert/969135"
+    },
+    {
+      "name": "Wayne Toups",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Toups/748"
+    },
+    {
+      "name": "Wayne Wade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Wade/163993"
+    },
+    {
+      "name": "Wayne Walker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Walker/135626"
+    },
+    {
+      "name": "Wayne Watson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Watson/2432"
+    },
+    {
+      "name": "Wayne Wesley Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Wesley%20Johnson/407206"
+    },
+    {
+      "name": "Wayne Wilkinson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Wilkinson/381783"
+    },
+    {
+      "name": "Wayne Wonder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wayne%20Wonder/30005"
+    },
+    {
+      "name": "WB",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WB/542747"
+    },
+    {
+      "name": "WD",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WD/723100"
+    },
+    {
+      "name": "WDR Big Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WDR%20Big%20Band/42291"
+    },
+    {
+      "name": "WDR Orchestra, Köln",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WDR%20Orchestra%2C%20K%C3%B6ln/23878"
+    },
+    {
+      "name": "We",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We/202438"
+    },
+    {
+      "name": "WE",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WE/1999063"
+    },
+    {
+      "name": "We 3",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%203/429588"
+    },
+    {
+      "name": "We Are Augustines",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20Augustines/2433274"
+    },
+    {
+      "name": "We Are Disco Doom Revenge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20Disco%20Doom%20Revenge/2652586"
+    },
+    {
+      "name": "We Are Lions",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20Lions/704845"
+    },
+    {
+      "name": "We Are Scientists",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20Scientists/736526"
+    },
+    {
+      "name": "We Are the Fallen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20the%20Fallen/1161193"
+    },
+    {
+      "name": "We Are the Fury",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20the%20Fury/812787"
+    },
+    {
+      "name": "We Are the In Crowd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20the%20In%20Crowd/2083252"
+    },
+    {
+      "name": "We Are the Ocean",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Are%20the%20Ocean/2165043"
+    },
+    {
+      "name": "We as Human",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20as%20Human/969154"
+    },
+    {
+      "name": "We Came as Romans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Came%20as%20Romans/1565093"
+    },
+    {
+      "name": "We Five",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Five/21349"
+    },
+    {
+      "name": "We Men Of  Talent",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Men%20Of%20%20Talent/1795045"
+    },
+    {
+      "name": "We Shot the Moon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Shot%20the%20Moon/1033476"
+    },
+    {
+      "name": "We the Kings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20the%20Kings/984436"
+    },
+    {
+      "name": "We the People",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20the%20People/1095683"
+    },
+    {
+      "name": "We Three",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Three/838522"
+    },
+    {
+      "name": "We Versus the Shark",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Versus%20the%20Shark/687429"
+    },
+    {
+      "name": "We Were Promised Jetpacks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Were%20Promised%20Jetpacks/1135997"
+    },
+    {
+      "name": "We Will Rock You [London Cast]",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%20Will%20Rock%20You%20%5BLondon%20Cast%5D/1704828"
+    },
+    {
+      "name": "We'll Always Have Paris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%27ll%20Always%20Have%20Paris/735906"
+    },
+    {
+      "name": "Weak",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weak/559710"
+    },
+    {
+      "name": "Weak at Best",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weak%20at%20Best/597150"
+    },
+    {
+      "name": "Weather Pending",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weather%20Pending/1161410"
+    },
+    {
+      "name": "Weather Report",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weather%20Report/7791"
+    },
+    {
+      "name": "Weatherbox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weatherbox/848846"
+    },
+    {
+      "name": "Weatherstorm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weatherstorm/1096100"
+    },
+    {
+      "name": "Webb Pierce",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webb%20Pierce/113270"
+    },
+    {
+      "name": "Webb Sisters",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webb%20Sisters/813266"
+    },
+    {
+      "name": "Webb Wilder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webb%20Wilder/5827"
+    },
+    {
+      "name": "Webbie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webbie/724158"
+    },
+    {
+      "name": "Webley Edwards",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webley%20Edwards/30779"
+    },
+    {
+      "name": "Webstar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webstar/828967"
+    },
+    {
+      "name": "Webster",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webster/1977915"
+    },
+    {
+      "name": "Webster Booth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webster%20Booth/37518"
+    },
+    {
+      "name": "Webster Young",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Webster%20Young/7870"
+    },
+    {
+      "name": "Wedlock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wedlock/391421"
+    },
+    {
+      "name": "Wednesday 13",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wednesday%2013/532837"
+    },
+    {
+      "name": "Wee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wee/1073340"
+    },
+    {
+      "name": "Wee Hairy Beasties",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wee%20Hairy%20Beasties/840768"
+    },
+    {
+      "name": "Wee Willie Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wee%20Willie%20Harris/4443"
+    },
+    {
+      "name": "Wee Worship",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wee%20Worship/1785364"
+    },
+    {
+      "name": "Weekend",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weekend/21359"
+    },
+    {
+      "name": "Weekend Excursion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weekend%20Excursion/373484"
+    },
+    {
+      "name": "Weekend Heroes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weekend%20Heroes/2220725"
+    },
+    {
+      "name": "Weekend Players",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weekend%20Players/528808"
+    },
+    {
+      "name": "Weekly Reader",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weekly%20Reader/1686378"
+    },
+    {
+      "name": "Ween",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ween/14697"
+    },
+    {
+      "name": "Weeping Tile",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weeping%20Tile/173341"
+    },
+    {
+      "name": "Weeping Willows",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weeping%20Willows/510959"
+    },
+    {
+      "name": "Weerd Science",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weerd%20Science/695528"
+    },
+    {
+      "name": "Weevil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weevil/703963"
+    },
+    {
+      "name": "Weezer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weezer/44726"
+    },
+    {
+      "name": "Wehrwolfe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wehrwolfe/571952"
+    },
+    {
+      "name": "Weimar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weimar/2061507"
+    },
+    {
+      "name": "Weird Al Yankovic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weird%20Al%20Yankovic/140212"
+    },
+    {
+      "name": "Weissglut",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weissglut/880058"
+    },
+    {
+      "name": "Wela",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wela/731376"
+    },
+    {
+      "name": "Welbilt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welbilt/723351"
+    },
+    {
+      "name": "Welcome to Florida",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welcome%20to%20Florida/723356"
+    },
+    {
+      "name": "Welcome to Your Life",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welcome%20to%20Your%20Life/532947"
+    },
+    {
+      "name": "Weldon Irvine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weldon%20Irvine/18448"
+    },
+    {
+      "name": "Weldon Myrick",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weldon%20Myrick/108652"
+    },
+    {
+      "name": "Well",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Well/532959"
+    },
+    {
+      "name": "Well Dressed Men",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Well%20Dressed%20Men/216219"
+    },
+    {
+      "name": "Welldone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welldone/1867368"
+    },
+    {
+      "name": "Wellenrausch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wellenrausch/788490"
+    },
+    {
+      "name": "Wellimir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wellimir/2610405"
+    },
+    {
+      "name": "Wellstone Conspiracy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wellstone%20Conspiracy/2123697"
+    },
+    {
+      "name": "Wellwater Conspiracy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wellwater%20Conspiracy/215512"
+    },
+    {
+      "name": "Welsh Guards Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welsh%20Guards%20Band/26164"
+    },
+    {
+      "name": "Welsh National Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welsh%20National%20Orchestra/215513"
+    },
+    {
+      "name": "Welt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Welt/202251"
+    },
+    {
+      "name": "Wench",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wench/1002398"
+    },
+    {
+      "name": "Wenda Zonnefeld",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wenda%20Zonnefeld/457638"
+    },
+    {
+      "name": "Wendee Glick",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendee%20Glick/552332"
+    },
+    {
+      "name": "Wendell Brunious",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendell%20Brunious/148888"
+    },
+    {
+      "name": "Wendell H. Mills II",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendell%20H.%20Mills%20II/2272950"
+    },
+    {
+      "name": "Wendell Harrison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendell%20Harrison/6685"
+    },
+    {
+      "name": "Wendell Wayne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendell%20Wayne/480501"
+    },
+    {
+      "name": "Wendlel Hawkins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendlel%20Hawkins/293937"
+    },
+    {
+      "name": "Wendo Kolosoy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendo%20Kolosoy/435627"
+    },
+    {
+      "name": "Wendy & Bonnie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20%26%20Bonnie/482225"
+    },
+    {
+      "name": "Wendy & Lisa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20%26%20Lisa/5804"
+    },
+    {
+      "name": "Wendy Bucklew",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Bucklew/142553"
+    },
+    {
+      "name": "Wendy Carlos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Carlos/2974"
+    },
+    {
+      "name": "Wendy Fopeano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Fopeano/471332"
+    },
+    {
+      "name": "Wendy Hayes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Hayes/2328815"
+    },
+    {
+      "name": "Wendy Lee Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Lee%20Taylor/837909"
+    },
+    {
+      "name": "Wendy Lewis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Lewis/517447"
+    },
+    {
+      "name": "Wendy Lynn Stevens",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Lynn%20Stevens/969231"
+    },
+    {
+      "name": "Wendy Matthews",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Matthews/102770"
+    },
+    {
+      "name": "Wendy Moten",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Moten/107899"
+    },
+    {
+      "name": "Wendy Nottonson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Nottonson/1047065"
+    },
+    {
+      "name": "Wendy Pedersen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Pedersen/113192"
+    },
+    {
+      "name": "Wendy St. Kitts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20St.%20Kitts/1056290"
+    },
+    {
+      "name": "Wendy Waldman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Waldman/21298"
+    },
+    {
+      "name": "Wendy Weiler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Weiler/1156882"
+    },
+    {
+      "name": "Wendy Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Williams/724388"
+    },
+    {
+      "name": "Wendy Wiseman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Wiseman/281436"
+    },
+    {
+      "name": "Wendy Woo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wendy%20Woo/496744"
+    },
+    {
+      "name": "Werkha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Werkha/2699396"
+    },
+    {
+      "name": "Werner Müller",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Werner%20M%C3%BCller/9269"
+    },
+    {
+      "name": "Wes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes/296533"
+    },
+    {
+      "name": "Wes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes/723389"
+    },
+    {
+      "name": "Wes Carr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Carr/1141209"
+    },
+    {
+      "name": "Wes Charlton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Charlton/698384"
+    },
+    {
+      "name": "Wes Cunningham",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Cunningham/312194"
+    },
+    {
+      "name": "Wes Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Jones/969256"
+    },
+    {
+      "name": "Wes King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20King/27937"
+    },
+    {
+      "name": "Wes McGhee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20McGhee/104084"
+    },
+    {
+      "name": "Wes Miller",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Miller/914473"
+    },
+    {
+      "name": "Wes Montgomery",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Montgomery/7162"
+    },
+    {
+      "name": "Wes Raymond",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wes%20Raymond/718740"
+    },
+    {
+      "name": "Wesla Whitfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wesla%20Whitfield/7813"
+    },
+    {
+      "name": "Wesley Dennis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wesley%20Dennis/142054"
+    },
+    {
+      "name": "Wesley Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wesley%20Taylor/130801"
+    },
+    {
+      "name": "Wesley Thomas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wesley%20Thomas/722059"
+    },
+    {
+      "name": "Wesley Tuttle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wesley%20Tuttle/193542"
+    },
+    {
+      "name": "Wesley Willis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wesley%20Willis/173306"
+    },
+    {
+      "name": "Wess Morgan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wess%20Morgan/1022110"
+    },
+    {
+      "name": "Wessel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wessel/979241"
+    },
+    {
+      "name": "Wessel Van Rensberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wessel%20Van%20Rensberg/474813"
+    },
+    {
+      "name": "Wessell Anderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wessell%20Anderson/45057"
+    },
+    {
+      "name": "West",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West/1592071"
+    },
+    {
+      "name": "West Brom FC",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Brom%20FC/556176"
+    },
+    {
+      "name": "West Coast All-Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Coast%20All-Stars/215518"
+    },
+    {
+      "name": "West Coast Hustlaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Coast%20Hustlaz/437750"
+    },
+    {
+      "name": "West Coast Jazz Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Coast%20Jazz%20Ensemble/825643"
+    },
+    {
+      "name": "West Coast Saxophone Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Coast%20Saxophone%20Quartet/207063"
+    },
+    {
+      "name": "West End Girls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20End%20Girls/14704"
+    },
+    {
+      "name": "West End Girls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20End%20Girls/822931"
+    },
+    {
+      "name": "West End Hustler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20End%20Hustler/2526251"
+    },
+    {
+      "name": "West End Jazz Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20End%20Jazz%20Band/1097599"
+    },
+    {
+      "name": "West End Orchestra & Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20End%20Orchestra%20%26%20Chorus/533167"
+    },
+    {
+      "name": "West Ham United FC",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Ham%20United%20FC/552554"
+    },
+    {
+      "name": "West Indian Girl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Indian%20Girl/662761"
+    },
+    {
+      "name": "West Nkosi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Nkosi/109866"
+    },
+    {
+      "name": "West Side Story Cast Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Side%20Story%20Cast%20Ensemble/1269547"
+    },
+    {
+      "name": "West TN Looney Mob",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20TN%20Looney%20Mob/531624"
+    },
+    {
+      "name": "West Winds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%20Winds/294693"
+    },
+    {
+      "name": "West, Bruce & Laing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/West%2C%20Bruce%20%26%20Laing/5805"
+    },
+    {
+      "name": "WestBam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WestBam/14707"
+    },
+    {
+      "name": "Westbound Train",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westbound%20Train/556215"
+    },
+    {
+      "name": "Western Band of the Royal Air Force",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Western%20Band%20of%20the%20Royal%20Air%20Force/42356"
+    },
+    {
+      "name": "Western Flyer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Western%20Flyer/169678"
+    },
+    {
+      "name": "Western Illinois University Jazz Studio Orchest",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Western%20Illinois%20University%20Jazz%20Studio%20Orchest/42358"
+    },
+    {
+      "name": "Western Keys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Western%20Keys/542266"
+    },
+    {
+      "name": "Western Michigan University Jazz Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Western%20Michigan%20University%20Jazz%20Orchestra/141491"
+    },
+    {
+      "name": "Western Wind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Western%20Wind/27620"
+    },
+    {
+      "name": "Westernhagen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westernhagen/141750"
+    },
+    {
+      "name": "Westlife",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westlife/396003"
+    },
+    {
+      "name": "Westminster Cathedral Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westminster%20Cathedral%20Choir/215525"
+    },
+    {
+      "name": "Westminster Cathedral Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westminster%20Cathedral%20Orchestra/294696"
+    },
+    {
+      "name": "Westminster Children's Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westminster%20Children%27s%20Choir/1711010"
+    },
+    {
+      "name": "Weston",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Weston/194979"
+    },
+    {
+      "name": "Westside Badboys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westside%20Badboys/454554"
+    },
+    {
+      "name": "Westside Bugg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westside%20Bugg/866015"
+    },
+    {
+      "name": "Westside Children's Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westside%20Children%27s%20Singers/1974894"
+    },
+    {
+      "name": "Westside Connection",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westside%20Connection/194861"
+    },
+    {
+      "name": "Westwind Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westwind%20Ensemble/199770"
+    },
+    {
+      "name": "Westwind Players",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westwind%20Players/805917"
+    },
+    {
+      "name": "Westworld",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westworld/1783453"
+    },
+    {
+      "name": "Westworld",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westworld/5808"
+    },
+    {
+      "name": "Westworld",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Westworld/398334"
+    },
+    {
+      "name": "Wet Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wet%20Boys/374111"
+    },
+    {
+      "name": "Wet Wet Wet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wet%20Wet%20Wet/23164"
+    },
+    {
+      "name": "Wet Willie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wet%20Willie/5809"
+    },
+    {
+      "name": "Wet::Sex",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wet%3A%3ASex/2597245"
+    },
+    {
+      "name": "We’re Going Up Up Up",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/We%E2%80%99re%20Going%20Up%20Up%20Up/2697661"
+    },
+    {
+      "name": "Whale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whale/44880"
+    },
+    {
+      "name": "Wham!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wham%21/5811"
+    },
+    {
+      "name": "What Matters Most",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/What%20Matters%20Most/748056"
+    },
+    {
+      "name": "Whatever It Takes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whatever%20It%20Takes/651613"
+    },
+    {
+      "name": "Whatever It Takes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whatever%20It%20Takes/558693"
+    },
+    {
+      "name": "Wheat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wheat/293836"
+    },
+    {
+      "name": "Wheatmonkeys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wheatmonkeys/723431"
+    },
+    {
+      "name": "Wheatus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wheatus/437024"
+    },
+    {
+      "name": "When in Rome",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/When%20in%20Rome/14711"
+    },
+    {
+      "name": "When October Goes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/When%20October%20Goes/1746454"
+    },
+    {
+      "name": "When People Were Shorter and Lived Near Water",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/When%20People%20Were%20Shorter%20and%20Lived%20Near%20Water/42370"
+    },
+    {
+      "name": "When Saints Go Machine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/When%20Saints%20Go%20Machine/1157328"
+    },
+    {
+      "name": "Where Angels Fall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Where%20Angels%20Fall/767464"
+    },
+    {
+      "name": "Where Eagles Dare",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Where%20Eagles%20Dare/624954"
+    },
+    {
+      "name": "Whigfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whigfield/168545"
+    },
+    {
+      "name": "Whipped Cream",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whipped%20Cream/27204"
+    },
+    {
+      "name": "Whippersnapper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whippersnapper/398710"
+    },
+    {
+      "name": "Whipping Boy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whipping%20Boy/143642"
+    },
+    {
+      "name": "Whirimako Black",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whirimako%20Black/843452"
+    },
+    {
+      "name": "Whirligig",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whirligig/510395"
+    },
+    {
+      "name": "Whirling Dervishes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whirling%20Dervishes/2841"
+    },
+    {
+      "name": "Whirling Dervishes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whirling%20Dervishes/1061407"
+    },
+    {
+      "name": "Whirlwind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whirlwind/723443"
+    },
+    {
+      "name": "Whirlwind Heat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whirlwind%20Heat/557491"
+    },
+    {
+      "name": "Whiskey Falls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whiskey%20Falls/972329"
+    },
+    {
+      "name": "Whiskey Myers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whiskey%20Myers/1073788"
+    },
+    {
+      "name": "Whiskey Rebels",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whiskey%20Rebels/530377"
+    },
+    {
+      "name": "Whiskeytown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whiskeytown/169992"
+    },
+    {
+      "name": "Whispering Bob",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whispering%20Bob/516698"
+    },
+    {
+      "name": "Whispering Jack Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whispering%20Jack%20Smith/192524"
+    },
+    {
+      "name": "Whistle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whistle/5814"
+    },
+    {
+      "name": "Whistler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whistler/277171"
+    },
+    {
+      "name": "White & Crazy Kids",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20%26%20Crazy%20Kids/1184831"
+    },
+    {
+      "name": "White Apple Tree",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Apple%20Tree/2160045"
+    },
+    {
+      "name": "White Cliffs of Dover",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Cliffs%20of%20Dover/42373"
+    },
+    {
+      "name": "White Denim",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Denim/998875"
+    },
+    {
+      "name": "White Eisenstein",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Eisenstein/33315"
+    },
+    {
+      "name": "White Family Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Family%20Singers/278768"
+    },
+    {
+      "name": "White Flame",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Flame/972265"
+    },
+    {
+      "name": "White Glove",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Glove/2707089"
+    },
+    {
+      "name": "White Hassle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Hassle/215990"
+    },
+    {
+      "name": "White Lies",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Lies/1054909"
+    },
+    {
+      "name": "White Lightnin' Washboard Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Lightnin%27%20Washboard%20Band/366450"
+    },
+    {
+      "name": "White Lion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Lion/5817"
+    },
+    {
+      "name": "White Mountain Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Mountain%20Singers/30783"
+    },
+    {
+      "name": "White Noise Machine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Noise%20Machine/969390"
+    },
+    {
+      "name": "White Plains",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Plains/25050"
+    },
+    {
+      "name": "White Rabbits",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Rabbits/892120"
+    },
+    {
+      "name": "White Rock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Rock/21398"
+    },
+    {
+      "name": "White Skull",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Skull/374081"
+    },
+    {
+      "name": "White Tiger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Tiger/365833"
+    },
+    {
+      "name": "White Town",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Town/200682"
+    },
+    {
+      "name": "White Zombie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/White%20Zombie/14717"
+    },
+    {
+      "name": "Whitebread",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitebread/391652"
+    },
+    {
+      "name": "Whitechapel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitechapel/829034"
+    },
+    {
+      "name": "Whitecross",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitecross/2435"
+    },
+    {
+      "name": "WhiteHeart",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WhiteHeart/2433"
+    },
+    {
+      "name": "Whitehouse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitehouse/21413"
+    },
+    {
+      "name": "Whitehouse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitehouse/969395"
+    },
+    {
+      "name": "Whiteout",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whiteout/165505"
+    },
+    {
+      "name": "WhiteSky",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WhiteSky/2628747"
+    },
+    {
+      "name": "Whitesnake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitesnake/5819"
+    },
+    {
+      "name": "Whitey Conwell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitey%20Conwell/708348"
+    },
+    {
+      "name": "Whitley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitley/1001597"
+    },
+    {
+      "name": "Whitman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitman/703934"
+    },
+    {
+      "name": "Whitmore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitmore/533152"
+    },
+    {
+      "name": "Whitney Duncan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitney%20Duncan/691649"
+    },
+    {
+      "name": "Whitney Houston",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitney%20Houston/4519"
+    },
+    {
+      "name": "Whitney James",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitney%20James/2100866"
+    },
+    {
+      "name": "Whitney Wolanin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whitney%20Wolanin/726179"
+    },
+    {
+      "name": "Who's That Girl?",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Who%27s%20That%20Girl%3F/391686"
+    },
+    {
+      "name": "Whodini",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whodini/112"
+    },
+    {
+      "name": "Whodunit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whodunit/687212"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whole%20Wheat%20Bread/691560"
+    },
+    {
+      "name": "WhoMadeWho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WhoMadeWho/743181"
+    },
+    {
+      "name": "Whorrid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whorrid/969419"
+    },
+    {
+      "name": "Whose Muddy Shoes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whose%20Muddy%20Shoes/880088"
+    },
+    {
+      "name": "Why Knot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Why%20Knot/435421"
+    },
+    {
+      "name": "Why?",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Why%3F/528521"
+    },
+    {
+      "name": "Whyte Bread 330",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whyte%20Bread%20330/969425"
+    },
+    {
+      "name": "Whyte Seeds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Whyte%20Seeds/704789"
+    },
+    {
+      "name": "Wicked Lady",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wicked%20Lady/194109"
+    },
+    {
+      "name": "Wicked Sounds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wicked%20Sounds/2627508"
+    },
+    {
+      "name": "Wicked Wisdom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wicked%20Wisdom/651382"
+    },
+    {
+      "name": "Wicked Witch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wicked%20Witch/1101679"
+    },
+    {
+      "name": "Wide Awake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wide%20Awake/391706"
+    },
+    {
+      "name": "Wide Mouth Mason",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wide%20Mouth%20Mason/215668"
+    },
+    {
+      "name": "Wideawake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wideawake/697408"
+    },
+    {
+      "name": "Wideband Network",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wideband%20Network/556642"
+    },
+    {
+      "name": "Widelife",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Widelife/647271"
+    },
+    {
+      "name": "Widespread Depression Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Widespread%20Depression%20Orchestra/11966"
+    },
+    {
+      "name": "Widespread Panic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Widespread%20Panic/5823"
+    },
+    {
+      "name": "Widowmaker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Widowmaker/291452"
+    },
+    {
+      "name": "Widowmaker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Widowmaker/21420"
+    },
+    {
+      "name": "Wiednitz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiednitz/2364970"
+    },
+    {
+      "name": "Wies Norberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wies%20Norberg/1094352"
+    },
+    {
+      "name": "Wig Wam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wig%20Wam/823896"
+    },
+    {
+      "name": "Wighnomy Brothers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wighnomy%20Brothers/576543"
+    },
+    {
+      "name": "Wigwam",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wigwam/21421"
+    },
+    {
+      "name": "Wijk & Mero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wijk%20%26%20Mero/2608098"
+    },
+    {
+      "name": "Wikeeda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wikeeda/2424256"
+    },
+    {
+      "name": "Wiki Waki Woo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiki%20Waki%20Woo/741013"
+    },
+    {
+      "name": "Wil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wil/137965"
+    },
+    {
+      "name": "Wil Milton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wil%20Milton/1072928"
+    },
+    {
+      "name": "Wil Robinson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wil%20Robinson/719249"
+    },
+    {
+      "name": "Wil Seabrook",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wil%20Seabrook/440744"
+    },
+    {
+      "name": "Wil Swindler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wil%20Swindler/1275926"
+    },
+    {
+      "name": "Wil.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wil./457723"
+    },
+    {
+      "name": "Wilbert Harrison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbert%20Harrison/10730"
+    },
+    {
+      "name": "Wilbert Longmire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbert%20Longmire/18996"
+    },
+    {
+      "name": "Wilbur De Paris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbur%20De%20Paris/141254"
+    },
+    {
+      "name": "Wilbur Harden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbur%20Harden/10728"
+    },
+    {
+      "name": "Wilbur Mullett",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbur%20Mullett/515141"
+    },
+    {
+      "name": "Wilbur Sweatman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbur%20Sweatman/193037"
+    },
+    {
+      "name": "Wilbur Ware",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilbur%20Ware/7769"
+    },
+    {
+      "name": "Wilco",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilco/142015"
+    },
+    {
+      "name": "Wild and Blue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20and%20Blue/137998"
+    },
+    {
+      "name": "Wild Angels",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Angels/21425"
+    },
+    {
+      "name": "Wild Beasts",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Beasts/857148"
+    },
+    {
+      "name": "Wild Bill Davis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Bill%20Davis/10409"
+    },
+    {
+      "name": "Wild Bill Davison",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Bill%20Davison/25517"
+    },
+    {
+      "name": "Wild Bill Moore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Bill%20Moore/158099"
+    },
+    {
+      "name": "Wild Carrot & the Roots Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Carrot%20%26%20the%20Roots%20Band/2093640"
+    },
+    {
+      "name": "Wild Cherry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Cherry/5824"
+    },
+    {
+      "name": "Wild Children",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Children/723518"
+    },
+    {
+      "name": "Wild Colonials",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Colonials/143646"
+    },
+    {
+      "name": "Wild Dee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Dee/2691195"
+    },
+    {
+      "name": "Wild Flag",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Flag/2265804"
+    },
+    {
+      "name": "Wild Goose Worship Group",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Goose%20Worship%20Group/182613"
+    },
+    {
+      "name": "Wild Hogs Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Hogs%20Project/2647504"
+    },
+    {
+      "name": "Wild Light",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Light/1080803"
+    },
+    {
+      "name": "Wild Man Fischer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Man%20Fischer/4253"
+    },
+    {
+      "name": "Wild Mango",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Mango/45029"
+    },
+    {
+      "name": "Wild Moon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Moon/723519"
+    },
+    {
+      "name": "Wild Nothing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Nothing/2082782"
+    },
+    {
+      "name": "Wild Orchid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Orchid/111361"
+    },
+    {
+      "name": "Wild Passion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Passion/1186815"
+    },
+    {
+      "name": "Wild Strawberries",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Strawberries/30479"
+    },
+    {
+      "name": "Wild Swans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Swans/14723"
+    },
+    {
+      "name": "Wild Turkey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Turkey/728735"
+    },
+    {
+      "name": "Wild Weekend",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Weekend/372405"
+    },
+    {
+      "name": "Wild Willy Barrett",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Willy%20Barrett/15673"
+    },
+    {
+      "name": "Wild Wind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wild%20Wind/391745"
+    },
+    {
+      "name": "Wildcats",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wildcats/194134"
+    },
+    {
+      "name": "Wildchild",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wildchild/169068"
+    },
+    {
+      "name": "Wildchild",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wildchild/398067"
+    },
+    {
+      "name": "Wilder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilder/14724"
+    },
+    {
+      "name": "Wilderness",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilderness/697673"
+    },
+    {
+      "name": "Wildfire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wildfire/21436"
+    },
+    {
+      "name": "Wildlife Rides Again",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wildlife%20Rides%20Again/2102522"
+    },
+    {
+      "name": "Wildman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wildman/169069"
+    },
+    {
+      "name": "Wiley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiley/638316"
+    },
+    {
+      "name": "Wiley and the Checkmates",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiley%20and%20the%20Checkmates/1111593"
+    },
+    {
+      "name": "Wilf Carter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilf%20Carter/30227"
+    },
+    {
+      "name": "Wilfrido Vargas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilfrido%20Vargas/29584"
+    },
+    {
+      "name": "Wilhelm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilhelm/1192191"
+    },
+    {
+      "name": "Wilhelm Luft",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilhelm%20Luft/2658832"
+    },
+    {
+      "name": "Wilhelmenia Fernandez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilhelmenia%20Fernandez/1308874"
+    },
+    {
+      "name": "Wilki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilki/922790"
+    },
+    {
+      "name": "Wilkins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilkins/29500"
+    },
+    {
+      "name": "Wilko Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilko%20Johnson/18543"
+    },
+    {
+      "name": "Wilkshake",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilkshake/2685069"
+    },
+    {
+      "name": "Will & Rainbow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20%26%20Rainbow/532311"
+    },
+    {
+      "name": "Will Bradley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Bradley/6162"
+    },
+    {
+      "name": "Will Dailey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Dailey/515500"
+    },
+    {
+      "name": "Will Donato",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Donato/176730"
+    },
+    {
+      "name": "Will Downing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Downing/4123"
+    },
+    {
+      "name": "Will Ferrell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Ferrell/666920"
+    },
+    {
+      "name": "Will Glahé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Glah%C3%A9/187168"
+    },
+    {
+      "name": "Will H. Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20H.%20Johnson/2238480"
+    },
+    {
+      "name": "Will Haven",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Haven/215992"
+    },
+    {
+      "name": "Will Hoge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Hoge/464137"
+    },
+    {
+      "name": "Will Lee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Lee/97319"
+    },
+    {
+      "name": "Will Martin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Martin/858687"
+    },
+    {
+      "name": "Will Nealy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Nealy/969520"
+    },
+    {
+      "name": "Will Oldham",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Oldham/260120"
+    },
+    {
+      "name": "Will Patton Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Patton%20Ensemble/969521"
+    },
+    {
+      "name": "Will Powers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Powers/2608415"
+    },
+    {
+      "name": "Will Pursley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Pursley/463797"
+    },
+    {
+      "name": "Will Saul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Saul/732591"
+    },
+    {
+      "name": "Will Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Smith/278403"
+    },
+    {
+      "name": "Will Soll",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Soll/969527"
+    },
+    {
+      "name": "Will Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Taylor/969528"
+    },
+    {
+      "name": "Will Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Taylor/141639"
+    },
+    {
+      "name": "Will to Live",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20to%20Live/1650227"
+    },
+    {
+      "name": "Will to Power",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20to%20Power/5828"
+    },
+    {
+      "name": "Will Tura",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Tura/1013633"
+    },
+    {
+      "name": "Will Vill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Vill/769496"
+    },
+    {
+      "name": "Will Young",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will%20Young/527379"
+    },
+    {
+      "name": "Will-Low",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Will-Low/969534"
+    },
+    {
+      "name": "will.i.am",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/will.i.am/351867"
+    },
+    {
+      "name": "Willa & the Buffalo Chips",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willa%20%26%20the%20Buffalo%20Chips/2333550"
+    },
+    {
+      "name": "Willa Ford",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willa%20Ford/481369"
+    },
+    {
+      "name": "Willard Grant Conspiracy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willard%20Grant%20Conspiracy/310256"
+    },
+    {
+      "name": "Willard White",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willard%20White/225041"
+    },
+    {
+      "name": "Willcocks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willcocks/14727"
+    },
+    {
+      "name": "Willem Breuker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willem%20Breuker/8138"
+    },
+    {
+      "name": "Willem Vermandere",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willem%20Vermandere/1057294"
+    },
+    {
+      "name": "Willi Johanns & the RTS Big Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willi%20Johanns%20%26%20the%20RTS%20Big%20Band/1072539"
+    },
+    {
+      "name": "William \"Doc\" Belisle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20%22Doc%22%20Belisle/969540"
+    },
+    {
+      "name": "William Ash",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Ash/52688"
+    },
+    {
+      "name": "William Aura",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Aura/2465"
+    },
+    {
+      "name": "William Baldé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Bald%C3%A9/1063752"
+    },
+    {
+      "name": "William Bell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Bell/3657"
+    },
+    {
+      "name": "William Bolcom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Bolcom/928"
+    },
+    {
+      "name": "William Clarke",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Clarke/309"
+    },
+    {
+      "name": "William Clauson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Clauson/1767414"
+    },
+    {
+      "name": "William Control",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Control/1085458"
+    },
+    {
+      "name": "William Coulter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Coulter/38088"
+    },
+    {
+      "name": "William David Fastenow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20David%20Fastenow/670248"
+    },
+    {
+      "name": "William DeVaughn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20DeVaughn/22248"
+    },
+    {
+      "name": "William Duke",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Duke/969552"
+    },
+    {
+      "name": "William Elliott Whitmore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Elliott%20Whitmore/585702"
+    },
+    {
+      "name": "William F. Gregory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20F.%20Gregory/969555"
+    },
+    {
+      "name": "William Fitzsimmons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Fitzsimmons/969557"
+    },
+    {
+      "name": "William Flessel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Flessel/43398"
+    },
+    {
+      "name": "William Goldstein",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Goldstein/27674"
+    },
+    {
+      "name": "William Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Harris/84684"
+    },
+    {
+      "name": "William Henderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Henderson/969559"
+    },
+    {
+      "name": "William Hung",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Hung/654552"
+    },
+    {
+      "name": "William Hut",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Hut/558932"
+    },
+    {
+      "name": "William Joseph",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Joseph/666902"
+    },
+    {
+      "name": "William Joseph Watkins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Joseph%20Watkins/1047105"
+    },
+    {
+      "name": "William King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20King/171524"
+    },
+    {
+      "name": "William Matthews",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Matthews/2406811"
+    },
+    {
+      "name": "William McDowell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20McDowell/1113518"
+    },
+    {
+      "name": "William Menefield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Menefield/372498"
+    },
+    {
+      "name": "William Noll",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Noll/225299"
+    },
+    {
+      "name": "William Orbit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Orbit/13868"
+    },
+    {
+      "name": "William Oz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Oz/142185"
+    },
+    {
+      "name": "William Parker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Parker/25841"
+    },
+    {
+      "name": "William Paterson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Paterson/1765475"
+    },
+    {
+      "name": "William Paterson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Paterson/404173"
+    },
+    {
+      "name": "William Pitt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Pitt/362926"
+    },
+    {
+      "name": "William S. Emert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20S.%20Emert/1115169"
+    },
+    {
+      "name": "William Schimmel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Schimmel/21636"
+    },
+    {
+      "name": "William Shatner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Shatner/44948"
+    },
+    {
+      "name": "William Sheller",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Sheller/141635"
+    },
+    {
+      "name": "William Sperandei",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Sperandei/465783"
+    },
+    {
+      "name": "William Steffey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Steffey/516916"
+    },
+    {
+      "name": "William Stenner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Stenner/1094381"
+    },
+    {
+      "name": "William Susman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Susman/916582"
+    },
+    {
+      "name": "William T. Stromberg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20T.%20Stromberg/269155"
+    },
+    {
+      "name": "William Tell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Tell/513224"
+    },
+    {
+      "name": "William Topley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Topley/200259"
+    },
+    {
+      "name": "William Ward",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/William%20Ward/425710"
+    },
+    {
+      "name": "Williams Brothers Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Williams%20Brothers%20Band/2193071"
+    },
+    {
+      "name": "Williamson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Williamson/578633"
+    },
+    {
+      "name": "Willie \"Big Eyes\" Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20%22Big%20Eyes%22%20Smith/126596"
+    },
+    {
+      "name": "Willie \"The Lion\" Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20%22The%20Lion%22%20Smith/126595"
+    },
+    {
+      "name": "Willie & the Mighty Magnificents",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20%26%20the%20Mighty%20Magnificents/25062"
+    },
+    {
+      "name": "Willie and the Poor Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20and%20the%20Poor%20Boys/21446"
+    },
+    {
+      "name": "Willie B",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20B/673955"
+    },
+    {
+      "name": "Willie Barber",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Barber/969602"
+    },
+    {
+      "name": "Willie Bobo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Bobo/57573"
+    },
+    {
+      "name": "Willie Clayton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Clayton/3916"
+    },
+    {
+      "name": "Willie Cobbs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Cobbs/312"
+    },
+    {
+      "name": "Willie Colón",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Col%C3%B3n/3247"
+    },
+    {
+      "name": "Willie D",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20D/27174"
+    },
+    {
+      "name": "Willie Dixon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Dixon/332"
+    },
+    {
+      "name": "Willie Egan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Egan/17258"
+    },
+    {
+      "name": "Willie G.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20G./476893"
+    },
+    {
+      "name": "Willie Gonzalez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Gonzalez/32518"
+    },
+    {
+      "name": "Willie Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Harris/177740"
+    },
+    {
+      "name": "Willie Henderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Henderson/85893"
+    },
+    {
+      "name": "Willie Hill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Hill/2156115"
+    },
+    {
+      "name": "Willie Hill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Hill/86747"
+    },
+    {
+      "name": "Willie Hobbs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Hobbs/712422"
+    },
+    {
+      "name": "Willie Humphrey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Humphrey/88597"
+    },
+    {
+      "name": "Willie Hutch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Hutch/88873"
+    },
+    {
+      "name": "Willie J",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20J/1094384"
+    },
+    {
+      "name": "Willie Jones III",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Jones%20III/468301"
+    },
+    {
+      "name": "Willie K.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20K./42406"
+    },
+    {
+      "name": "Willie Kent",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Kent/27789"
+    },
+    {
+      "name": "Willie King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20King/451993"
+    },
+    {
+      "name": "Willie Lewis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Lewis/9038"
+    },
+    {
+      "name": "Willie Mabon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Mabon/437"
+    },
+    {
+      "name": "Willie Max",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Max/322505"
+    },
+    {
+      "name": "Willie McClain",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20McClain/1094386"
+    },
+    {
+      "name": "Willie McCulloch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20McCulloch/969617"
+    },
+    {
+      "name": "Willie Mitchell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Mitchell/19366"
+    },
+    {
+      "name": "Willie Myette",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Myette/425550"
+    },
+    {
+      "name": "Willie Neal Johnson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Neal%20Johnson/2320"
+    },
+    {
+      "name": "Willie Nelson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Nelson/1743"
+    },
+    {
+      "name": "Willie Nile",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Nile/5031"
+    },
+    {
+      "name": "Willie Norwood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Norwood/511576"
+    },
+    {
+      "name": "Willie Organ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Organ/880114"
+    },
+    {
+      "name": "Willie P. Richardson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20P.%20Richardson/320736"
+    },
+    {
+      "name": "Willie Pickens",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Pickens/114381"
+    },
+    {
+      "name": "Willie Rodriguez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Rodriguez/11561"
+    },
+    {
+      "name": "Willie Rogers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Rogers/280383"
+    },
+    {
+      "name": "Willie Ruff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Ruff/36870"
+    },
+    {
+      "name": "Willie Smith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Smith/7576"
+    },
+    {
+      "name": "Willie Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willie%20Williams/11990"
+    },
+    {
+      "name": "Willis \"Gator\" Jackson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willis%20%22Gator%22%20Jackson/89851"
+    },
+    {
+      "name": "Willis Alan Ramsey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willis%20Alan%20Ramsey/5224"
+    },
+    {
+      "name": "Willo da Don",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willo%20da%20Don/577799"
+    },
+    {
+      "name": "Willow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willow/2281178"
+    },
+    {
+      "name": "Willy & His Giants",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20%26%20His%20Giants/1148491"
+    },
+    {
+      "name": "Willy Astor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Astor/294049"
+    },
+    {
+      "name": "Willy Chirino",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Chirino/29617"
+    },
+    {
+      "name": "Willy Denzey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Denzey/631375"
+    },
+    {
+      "name": "Willy DeVille",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20DeVille/12743"
+    },
+    {
+      "name": "Willy Mason",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Mason/671051"
+    },
+    {
+      "name": "Willy Moon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Moon/2617790"
+    },
+    {
+      "name": "Willy Northpole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Northpole/1076006"
+    },
+    {
+      "name": "Willy Porter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Willy%20Porter/165081"
+    },
+    {
+      "name": "Wilma Lee & Stoney Cooper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilma%20Lee%20%26%20Stoney%20Cooper/1643363"
+    },
+    {
+      "name": "Wilma Lee Cooper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilma%20Lee%20Cooper/28151"
+    },
+    {
+      "name": "Wilmer & the Dukes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilmer%20%26%20the%20Dukes/25064"
+    },
+    {
+      "name": "Wilmington Chester Mass Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilmington%20Chester%20Mass%20Choir/44760"
+    },
+    {
+      "name": "Wilshire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilshire/291297"
+    },
+    {
+      "name": "Wilson Ferguson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilson%20Ferguson/919060"
+    },
+    {
+      "name": "Wilson Phillips",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilson%20Phillips/114299"
+    },
+    {
+      "name": "Wilson Pickett",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilson%20Pickett/5142"
+    },
+    {
+      "name": "Wilt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilt/442474"
+    },
+    {
+      "name": "Wilton Felder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilton%20Felder/75473"
+    },
+    {
+      "name": "Wilton Gaynair",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wilton%20Gaynair/334777"
+    },
+    {
+      "name": "Wim Mertens",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wim%20Mertens/2688"
+    },
+    {
+      "name": "Wim Vandekeybus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wim%20Vandekeybus/215379"
+    },
+    {
+      "name": "Wimberly Family",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wimberly%20Family/215552"
+    },
+    {
+      "name": "Winans Phase 2",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winans%20Phase%202/373875"
+    },
+    {
+      "name": "Winard Harper",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winard%20Harper/84435"
+    },
+    {
+      "name": "Wincey Terry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wincey%20Terry/969656"
+    },
+    {
+      "name": "Winchester Cathedral Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winchester%20Cathedral%20Choir/207095"
+    },
+    {
+      "name": "Winchester Christmas Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winchester%20Christmas%20Ensemble/294695"
+    },
+    {
+      "name": "Wind Chimes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wind%20Chimes/429244"
+    },
+    {
+      "name": "Wind Machine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wind%20Machine/2843"
+    },
+    {
+      "name": "Winda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winda/806426"
+    },
+    {
+      "name": "Windir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Windir/467381"
+    },
+    {
+      "name": "Windmar Allstars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Windmar%20Allstars/1094397"
+    },
+    {
+      "name": "Windowwalkers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Windowwalkers/2072379"
+    },
+    {
+      "name": "Winds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winds/527109"
+    },
+    {
+      "name": "Winds of Plague",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winds%20of%20Plague/984582"
+    },
+    {
+      "name": "Windsor for the Derby",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Windsor%20for%20the%20Derby/202699"
+    },
+    {
+      "name": "Wine-O",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wine-O/747389"
+    },
+    {
+      "name": "Wing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wing/723655"
+    },
+    {
+      "name": "Wing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wing/969672"
+    },
+    {
+      "name": "Wing & a Prayer Fife & Drum Corps.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wing%20%26%20a%20Prayer%20Fife%20%26%20Drum%20Corps./25404"
+    },
+    {
+      "name": "Winger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winger/5849"
+    },
+    {
+      "name": "Wings of Azrael",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wings%20of%20Azrael/666599"
+    },
+    {
+      "name": "Wings of Scarlet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wings%20of%20Scarlet/663054"
+    },
+    {
+      "name": "Wingy Manone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wingy%20Manone/9101"
+    },
+    {
+      "name": "Winifred Atwell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winifred%20Atwell/295249"
+    },
+    {
+      "name": "Winnie the Pooh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winnie%20the%20Pooh/215559"
+    },
+    {
+      "name": "Winnie Winston",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winnie%20Winston/139109"
+    },
+    {
+      "name": "Winslow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winslow/1047112"
+    },
+    {
+      "name": "Winson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winson/793581"
+    },
+    {
+      "name": "Winston \"Mankunku\" Ngozi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winston%20%22Mankunku%22%20Ngozi/1767323"
+    },
+    {
+      "name": "Winston Francis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winston%20Francis/291349"
+    },
+    {
+      "name": "Winston Hewitt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winston%20Hewitt/29913"
+    },
+    {
+      "name": "Winston Riley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winston%20Riley/172472"
+    },
+    {
+      "name": "Winston Tong",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winston%20Tong/132271"
+    },
+    {
+      "name": "Winston Walls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winston%20Walls/141498"
+    },
+    {
+      "name": "Winter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winter/676069"
+    },
+    {
+      "name": "Winter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winter/391935"
+    },
+    {
+      "name": "Winter Coat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winter%20Coat/969684"
+    },
+    {
+      "name": "Winter Equinox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winter%20Equinox/745421"
+    },
+    {
+      "name": "Winter Rose",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winter%20Rose/747689"
+    },
+    {
+      "name": "Winter Solstice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winter%20Solstice/694323"
+    },
+    {
+      "name": "Winterborn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winterborn/829710"
+    },
+    {
+      "name": "Winterhawk",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winterhawk/667018"
+    },
+    {
+      "name": "Winterlog",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winterlog/756932"
+    },
+    {
+      "name": "Winterlong",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winterlong/510180"
+    },
+    {
+      "name": "Winterpills",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winterpills/743559"
+    },
+    {
+      "name": "Winters Bane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winters%20Bane/415931"
+    },
+    {
+      "name": "Wintersleep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wintersleep/704056"
+    },
+    {
+      "name": "Wintersun",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wintersun/677148"
+    },
+    {
+      "name": "Winterus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Winterus/2364703"
+    },
+    {
+      "name": "Wipers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wipers/5855"
+    },
+    {
+      "name": "Wir Sind Helden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wir%20Sind%20Helden/646882"
+    },
+    {
+      "name": "Wire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wire/5856"
+    },
+    {
+      "name": "Wire Train",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wire%20Train/5857"
+    },
+    {
+      "name": "Wired",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wired/391945"
+    },
+    {
+      "name": "Wired All Wrong",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wired%20All%20Wrong/827583"
+    },
+    {
+      "name": "Wiretree",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiretree/723679"
+    },
+    {
+      "name": "Wise",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wise/886784"
+    },
+    {
+      "name": "Wise",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wise/913878"
+    },
+    {
+      "name": "Wise Channels Productions",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wise%20Channels%20Productions/1798896"
+    },
+    {
+      "name": "Wise Guys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wise%20Guys/297198"
+    },
+    {
+      "name": "Wiseblood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiseblood/14739"
+    },
+    {
+      "name": "Wishbone Ash",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wishbone%20Ash/52689"
+    },
+    {
+      "name": "Wishful Thinking",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wishful%20Thinking/442323"
+    },
+    {
+      "name": "Wisin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wisin/636593"
+    },
+    {
+      "name": "Wisin & Yandel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wisin%20%26%20Yandel/437447"
+    },
+    {
+      "name": "Wistle Wisl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wistle%20Wisl/2660393"
+    },
+    {
+      "name": "Witchcraft",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witchcraft/391961"
+    },
+    {
+      "name": "Witchdoctor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witchdoctor/278905"
+    },
+    {
+      "name": "Witchery",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witchery/413348"
+    },
+    {
+      "name": "Witchfinder General",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witchfinder%20General/21465"
+    },
+    {
+      "name": "With Blood Comes Cleansing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/With%20Blood%20Comes%20Cleansing/823588"
+    },
+    {
+      "name": "With Dead Hands Rising",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/With%20Dead%20Hands%20Rising/663051"
+    },
+    {
+      "name": "With Honor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/With%20Honor/657418"
+    },
+    {
+      "name": "With Passion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/With%20Passion/696651"
+    },
+    {
+      "name": "With Resistance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/With%20Resistance/559192"
+    },
+    {
+      "name": "Withered Beauty",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Withered%20Beauty/391966"
+    },
+    {
+      "name": "Withering Surface",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Withering%20Surface/626784"
+    },
+    {
+      "name": "Within Temptation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Within%20Temptation/508773"
+    },
+    {
+      "name": "Within the Ruins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Within%20the%20Ruins/969726"
+    },
+    {
+      "name": "Within Y",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Within%20Y/644917"
+    },
+    {
+      "name": "Without Face",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Without%20Face/532007"
+    },
+    {
+      "name": "Without Gravity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Without%20Gravity/724833"
+    },
+    {
+      "name": "Witness",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witness/195136"
+    },
+    {
+      "name": "Witness U.K.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witness%20U.K./430803"
+    },
+    {
+      "name": "Witt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Witt/391969"
+    },
+    {
+      "name": "Wiu Jazz Studio Orch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiu%20Jazz%20Studio%20Orch/142021"
+    },
+    {
+      "name": "Wiz Khalifa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wiz%20Khalifa/843628"
+    },
+    {
+      "name": "Wizard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wizard/479604"
+    },
+    {
+      "name": "Wizard Of Oz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wizard%20Of%20Oz/846449"
+    },
+    {
+      "name": "WIZO",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WIZO/169611"
+    },
+    {
+      "name": "Wizzzard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wizzzard/42438"
+    },
+    {
+      "name": "Wobbling Woodwinds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wobbling%20Woodwinds/459670"
+    },
+    {
+      "name": "Woe Is Me",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woe%20Is%20Me/2206924"
+    },
+    {
+      "name": "Woe of Tyrants",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woe%20of%20Tyrants/910052"
+    },
+    {
+      "name": "Wofford Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wofford%20Band/215567"
+    },
+    {
+      "name": "Woh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woh/1669342"
+    },
+    {
+      "name": "Wojciech Kilar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wojciech%20Kilar/145718"
+    },
+    {
+      "name": "Wolf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolf/391990"
+    },
+    {
+      "name": "Wolf Colonel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolf%20Colonel/407044"
+    },
+    {
+      "name": "Wolf Maahn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolf%20Maahn/100318"
+    },
+    {
+      "name": "Wolf Parade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolf%20Parade/729540"
+    },
+    {
+      "name": "Wolf Weiss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolf%20Weiss/644920"
+    },
+    {
+      "name": "Wolfe Tones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfe%20Tones/30442"
+    },
+    {
+      "name": "Wolfgang",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang/359946"
+    },
+    {
+      "name": "Wolfgang Ambros",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Ambros/144329"
+    },
+    {
+      "name": "Wolfgang Dauner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Dauner/8363"
+    },
+    {
+      "name": "Wolfgang Gartner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Gartner/1565862"
+    },
+    {
+      "name": "Wolfgang Haffner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Haffner/219057"
+    },
+    {
+      "name": "Wolfgang Hering",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Hering/916555"
+    },
+    {
+      "name": "Wolfgang Lackerschmid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Lackerschmid/10990"
+    },
+    {
+      "name": "Wolfgang Lohr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Lohr/2602876"
+    },
+    {
+      "name": "Wolfgang Mitschke",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Mitschke/555819"
+    },
+    {
+      "name": "Wolfgang Mörike",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20M%C3%B6rike/1768681"
+    },
+    {
+      "name": "Wolfgang Muthspiel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Muthspiel/7204"
+    },
+    {
+      "name": "Wolfgang Obert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Obert/1058137"
+    },
+    {
+      "name": "Wolfgang Petry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfgang%20Petry/199791"
+    },
+    {
+      "name": "Wolfman Jack",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfman%20Jack/21475"
+    },
+    {
+      "name": "Wolfmangler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfmangler/808973"
+    },
+    {
+      "name": "Wolfmother",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfmother/678485"
+    },
+    {
+      "name": "Wolfram Hochstetter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfram%20Hochstetter/2675981"
+    },
+    {
+      "name": "Wolfsbane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfsbane/5863"
+    },
+    {
+      "name": "Wolfsheim",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfsheim/380349"
+    },
+    {
+      "name": "Wolfstone",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolfstone/44790"
+    },
+    {
+      "name": "Wolftron",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolftron/1038066"
+    },
+    {
+      "name": "Wolle Kriwanek Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolle%20Kriwanek%20Band/861341"
+    },
+    {
+      "name": "Wolverine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolverine/496624"
+    },
+    {
+      "name": "Wolverines",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolverines/868049"
+    },
+    {
+      "name": "Wolverines Jazz Band of Bern",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolverines%20Jazz%20Band%20of%20Bern/352568"
+    },
+    {
+      "name": "Wolves at the Gate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wolves%20at%20the%20Gate/2622241"
+    },
+    {
+      "name": "Womack & Womack",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Womack%20%26%20Womack/139432"
+    },
+    {
+      "name": "Women of Faith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Women%20of%20Faith/392009"
+    },
+    {
+      "name": "Women's Chorus of Dallas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Women%27s%20Chorus%20of%20Dallas/286624"
+    },
+    {
+      "name": "Won Ton Ton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Won%20Ton%20Ton/5866"
+    },
+    {
+      "name": "Won-G",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Won-G/207105"
+    },
+    {
+      "name": "Wonder Girls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonder%20Girls/1029449"
+    },
+    {
+      "name": "Wonder Kids Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonder%20Kids%20Choir/533348"
+    },
+    {
+      "name": "Wonder Pets!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonder%20Pets%21/888954"
+    },
+    {
+      "name": "Wonderland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonderland/2385278"
+    },
+    {
+      "name": "Wonderland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonderland/362881"
+    },
+    {
+      "name": "Wonderland Avenue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonderland%20Avenue/757272"
+    },
+    {
+      "name": "Wonderwall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wonderwall/838671"
+    },
+    {
+      "name": "Woo Hyuk Jang",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woo%20Hyuk%20Jang/2500458"
+    },
+    {
+      "name": "Wood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wood/373906"
+    },
+    {
+      "name": "Woodale",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woodale/909503"
+    },
+    {
+      "name": "Wooden Bones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wooden%20Bones/2601611"
+    },
+    {
+      "name": "Wooden Joe Nicholas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wooden%20Joe%20Nicholas/11330"
+    },
+    {
+      "name": "Wooden Spoon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wooden%20Spoon/29833"
+    },
+    {
+      "name": "Woodford & Company",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woodford%20%26%20Company/215575"
+    },
+    {
+      "name": "Woodie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woodie/375916"
+    },
+    {
+      "name": "Woodkid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woodkid/2517035"
+    },
+    {
+      "name": "Woods Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woods%20Band/558070"
+    },
+    {
+      "name": "Woods of Ypres",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woods%20of%20Ypres/691518"
+    },
+    {
+      "name": "Woods Tea Co.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woods%20Tea%20Co./207106"
+    },
+    {
+      "name": "Woodstock Mountain Revue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woodstock%20Mountain%20Revue/28322"
+    },
+    {
+      "name": "Woody",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody/1620708"
+    },
+    {
+      "name": "Woody Allen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody%20Allen/119"
+    },
+    {
+      "name": "Woody Cunningham",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody%20Cunningham/67867"
+    },
+    {
+      "name": "Woody Guthrie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody%20Guthrie/1995"
+    },
+    {
+      "name": "Woody Herman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody%20Herman/6726"
+    },
+    {
+      "name": "Woody Rock",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody%20Rock/510303"
+    },
+    {
+      "name": "Woody Shaw",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woody%20Shaw/7526"
+    },
+    {
+      "name": "Woofers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woofers/25078"
+    },
+    {
+      "name": "Wookie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wookie/402770"
+    },
+    {
+      "name": "Wool",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wool/225157"
+    },
+    {
+      "name": "Woolfy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woolfy/1013954"
+    },
+    {
+      "name": "Worcester Cathedral Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worcester%20Cathedral%20Choir/572249"
+    },
+    {
+      "name": "Word of Mouth Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Word%20of%20Mouth%20Chorus/32762"
+    },
+    {
+      "name": "Words Like Bullets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Words%20Like%20Bullets/2459439"
+    },
+    {
+      "name": "Words of Farewell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Words%20of%20Farewell/2593684"
+    },
+    {
+      "name": "Wordsworth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wordsworth/526959"
+    },
+    {
+      "name": "Work in Progress",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Work%20in%20Progress/466996"
+    },
+    {
+      "name": "Work o' the Weavers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Work%20o%27%20the%20Weavers/695634"
+    },
+    {
+      "name": "Workbook Studio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Workbook%20Studio/723768"
+    },
+    {
+      "name": "Working Week",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Working%20Week/12020"
+    },
+    {
+      "name": "Worl-A-Girl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worl-A-Girl/139768"
+    },
+    {
+      "name": "World Entertainment War",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Entertainment%20War/42464"
+    },
+    {
+      "name": "World Mestizo Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Mestizo%20Ensemble/891298"
+    },
+    {
+      "name": "World on Edge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20on%20Edge/440612"
+    },
+    {
+      "name": "World Party",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Party/5871"
+    },
+    {
+      "name": "World Saxophone Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Saxophone%20Orchestra/467537"
+    },
+    {
+      "name": "World Saxophone Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Saxophone%20Quartet/7853"
+    },
+    {
+      "name": "World Stage",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Stage/742968"
+    },
+    {
+      "name": "World Trade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Trade/14752"
+    },
+    {
+      "name": "World War IX",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20War%20IX/723774"
+    },
+    {
+      "name": "World Wide Message Tribe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%20Wide%20Message%20Tribe/173314"
+    },
+    {
+      "name": "World's Greatest Jazz Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/World%27s%20Greatest%20Jazz%20Band/7854"
+    },
+    {
+      "name": "Worlds Apart",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worlds%20Apart/199795"
+    },
+    {
+      "name": "Worms",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worms/364280"
+    },
+    {
+      "name": "Worship Arising",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worship%20Arising/1588185"
+    },
+    {
+      "name": "Worship Central",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worship%20Central/2424080"
+    },
+    {
+      "name": "Worth Dying For",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Worth%20Dying%20For/1033478"
+    },
+    {
+      "name": "Wouter Kompier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wouter%20Kompier/2639593"
+    },
+    {
+      "name": "Woven",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woven/510382"
+    },
+    {
+      "name": "Woven Hand",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Woven%20Hand/545333"
+    },
+    {
+      "name": "Wozny Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wozny%20Project/1047129"
+    },
+    {
+      "name": "WPG Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WPG%20Trio/513257"
+    },
+    {
+      "name": "Wrathchild America",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wrathchild%20America/5874"
+    },
+    {
+      "name": "Wreck",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wreck/483863"
+    },
+    {
+      "name": "Wrecked",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wrecked/1040129"
+    },
+    {
+      "name": "Wreckin' Crew",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wreckin%27%20Crew/760082"
+    },
+    {
+      "name": "Wreckless Eric",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wreckless%20Eric/21499"
+    },
+    {
+      "name": "Wreckshop Family",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wreckshop%20Family/413424"
+    },
+    {
+      "name": "Wreckx-N-Effect",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wreckx-N-Effect/139832"
+    },
+    {
+      "name": "Wretched Refuse String Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wretched%20Refuse%20String%20Band/215580"
+    },
+    {
+      "name": "Wriggly Scott",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wriggly%20Scott/2726552"
+    },
+    {
+      "name": "Wright at the Poolside",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wright%20at%20the%20Poolside/1094445"
+    },
+    {
+      "name": "Writer's Block",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Writer%27s%20Block/618757"
+    },
+    {
+      "name": "Wrockers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wrockers/365921"
+    },
+    {
+      "name": "Wshakoda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wshakoda/1030436"
+    },
+    {
+      "name": "WU LYF",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WU%20LYF/2242137"
+    },
+    {
+      "name": "Wu-Syndicate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wu-Syndicate/370833"
+    },
+    {
+      "name": "Wu-Tang Clan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wu-Tang%20Clan/143661"
+    },
+    {
+      "name": "Wu-Tang Killa Bees",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wu-Tang%20Killa%20Bees/310036"
+    },
+    {
+      "name": "Wulli & Fiddler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wulli%20%26%20Fiddler/2611709"
+    },
+    {
+      "name": "Wunder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wunder/363506"
+    },
+    {
+      "name": "Wurdulak",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wurdulak/512751"
+    },
+    {
+      "name": "Wurlitzer Band Organ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wurlitzer%20Band%20Organ/416153"
+    },
+    {
+      "name": "Wurlitzer Model 165 Band Organ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wurlitzer%20Model%20165%20Band%20Organ/23885"
+    },
+    {
+      "name": "Wurlitzer Organ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wurlitzer%20Organ/374154"
+    },
+    {
+      "name": "Wussy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wussy/744596"
+    },
+    {
+      "name": "Wuthering Heights",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wuthering%20Heights/398367"
+    },
+    {
+      "name": "Wyatt Rice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyatt%20Rice/677"
+    },
+    {
+      "name": "WychKraft",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WychKraft/702585"
+    },
+    {
+      "name": "Wyckham Porteous",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyckham%20Porteous/165103"
+    },
+    {
+      "name": "Wyclef Jean",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyclef%20Jean/212899"
+    },
+    {
+      "name": "Wycliffe Gordon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wycliffe%20Gordon/81148"
+    },
+    {
+      "name": "Wye Oak",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wye%20Oak/1029177"
+    },
+    {
+      "name": "Wyland Blues Planet Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyland%20Blues%20Planet%20Band/2505358"
+    },
+    {
+      "name": "Wyleaner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyleaner/723823"
+    },
+    {
+      "name": "Wylie & the Wild West",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wylie%20%26%20the%20Wild%20West/42477"
+    },
+    {
+      "name": "Wyndbreakers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyndbreakers/430366"
+    },
+    {
+      "name": "Wynder K. Frog",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynder%20K.%20Frog/17728"
+    },
+    {
+      "name": "Wyndham Regency Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyndham%20Regency%20Orchestra/1085651"
+    },
+    {
+      "name": "Wynjara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynjara/678616"
+    },
+    {
+      "name": "Wynn Stewart",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynn%20Stewart/128752"
+    },
+    {
+      "name": "Wynonie Harris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynonie%20Harris/362"
+    },
+    {
+      "name": "Wynonna Judd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynonna%20Judd/91986"
+    },
+    {
+      "name": "Wynter Gordon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynter%20Gordon/1662980"
+    },
+    {
+      "name": "Wynton Kelly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynton%20Kelly/6884"
+    },
+    {
+      "name": "Wynton Marsalis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wynton%20Marsalis/102096"
+    },
+    {
+      "name": "Wyrd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wyrd/1175953"
+    },
+    {
+      "name": "Wzbelle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Wzbelle/2345547"
+    },
+    {
+      "name": "WZRD",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/WZRD/2572397"
+    }
+  ]
+}

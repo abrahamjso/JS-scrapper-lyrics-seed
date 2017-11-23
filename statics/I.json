@@ -1,0 +1,3121 @@
+{
+  "letra": "I",
+  "artistas": [
+    {
+      "name": "I",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I/844473"
+    },
+    {
+      "name": "I",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I/557052"
+    },
+    {
+      "name": "I Against I",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Against%20I/320392"
+    },
+    {
+      "name": "I Am Arrows",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20Arrows/2163426"
+    },
+    {
+      "name": "I Am Cereals",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20Cereals/1069975"
+    },
+    {
+      "name": "I Am Ghost",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20Ghost/743118"
+    },
+    {
+      "name": "I Am Kloot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20Kloot/435454"
+    },
+    {
+      "name": "I Am Robot and Proud",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20Robot%20and%20Proud/544611"
+    },
+    {
+      "name": "I Am Spoonbender",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20Spoonbender/380410"
+    },
+    {
+      "name": "I Am the Avalanche",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20the%20Avalanche/740614"
+    },
+    {
+      "name": "I Am the World Trade Center",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Am%20the%20World%20Trade%20Center/395948"
+    },
+    {
+      "name": "I Blame Coco",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Blame%20Coco/1175499"
+    },
+    {
+      "name": "I Break Horses",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Break%20Horses/2348003"
+    },
+    {
+      "name": "I Call Fives",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Call%20Fives/2194377"
+    },
+    {
+      "name": "I Camaleonti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Camaleonti/366345"
+    },
+    {
+      "name": "I Can Make a Mess Like Nobody's Business",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Can%20Make%20a%20Mess%20Like%20Nobody%27s%20Business/681331"
+    },
+    {
+      "name": "I Declare War",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Declare%20War/1127371"
+    },
+    {
+      "name": "I Fight Dragons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Fight%20Dragons/1141074"
+    },
+    {
+      "name": "I for U",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20for%20U/1186434"
+    },
+    {
+      "name": "I Giganti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Giganti/516508"
+    },
+    {
+      "name": "I Got You on Tape",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Got%20You%20on%20Tape/828254"
+    },
+    {
+      "name": "I Hate Kate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Hate%20Kate/934685"
+    },
+    {
+      "name": "I Hate Myself",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Hate%20Myself/641065"
+    },
+    {
+      "name": "I Hate You When You're Pregnant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Hate%20You%20When%20You%27re%20Pregnant/1021645"
+    },
+    {
+      "name": "I Killed the Prom Queen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Killed%20the%20Prom%20Queen/647572"
+    },
+    {
+      "name": "I Love You But I've Chosen Darkness",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Love%20You%20But%20I%27ve%20Chosen%20Darkness/613878"
+    },
+    {
+      "name": "I Monster",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Monster/485188"
+    },
+    {
+      "name": "I Mother Earth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Mother%20Earth/142956"
+    },
+    {
+      "name": "I Muvrini",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Muvrini/212792"
+    },
+    {
+      "name": "I Nomadi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Nomadi/19615"
+    },
+    {
+      "name": "I Object",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Object/764123"
+    },
+    {
+      "name": "I Salonisti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Salonisti/39480"
+    },
+    {
+      "name": "I Santo California",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Santo%20California/383311"
+    },
+    {
+      "name": "I See Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20See%20Stars/1122695"
+    },
+    {
+      "name": "I Set My Friends on Fire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Set%20My%20Friends%20on%20Fire/1080809"
+    },
+    {
+      "name": "I Shalt Become",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Shalt%20Become/821162"
+    },
+    {
+      "name": "I Spy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Spy/298922"
+    },
+    {
+      "name": "i Square",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/i%20Square/2248496"
+    },
+    {
+      "name": "I Start Counting",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Start%20Counting/13255"
+    },
+    {
+      "name": "I the Breather",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20the%20Breather/2231205"
+    },
+    {
+      "name": "I Voted for Kodos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%20Voted%20for%20Kodos/813082"
+    },
+    {
+      "name": "I'D Rather Shout At A",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%27D%20Rather%20Shout%20At%20A/1648904"
+    },
+    {
+      "name": "I'm from Barcelona",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%27m%20from%20Barcelona/817337"
+    },
+    {
+      "name": "I, Robot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%2C%20Robot/532551"
+    },
+    {
+      "name": "I-20",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-20/544521"
+    },
+    {
+      "name": "I-94",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-94/742995"
+    },
+    {
+      "name": "I-BIZ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-BIZ/2441704"
+    },
+    {
+      "name": "I-F",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-F/292223"
+    },
+    {
+      "name": "I-Jazzin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-Jazzin/934702"
+    },
+    {
+      "name": "I-N-S Thugz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-N-S%20Thugz/446922"
+    },
+    {
+      "name": "I-Robots",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-Robots/737047"
+    },
+    {
+      "name": "I-Threes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-Threes/39481"
+    },
+    {
+      "name": "I-Wayne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I-Wayne/735793"
+    },
+    {
+      "name": "I. Stroom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I.%20Stroom/2627468"
+    },
+    {
+      "name": "I.M.T.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I.M.T./743432"
+    },
+    {
+      "name": "I.M.T. Smile",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I.M.T.%20Smile/1114168"
+    },
+    {
+      "name": "I.V.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I.V./1728312"
+    },
+    {
+      "name": "I5",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I5/437516"
+    },
+    {
+      "name": "I:Scintilla",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%3AScintilla/676522"
+    },
+    {
+      "name": "Iain Archer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iain%20Archer/165287"
+    },
+    {
+      "name": "Iain Banks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iain%20Banks/368030"
+    },
+    {
+      "name": "Iain Jennings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iain%20Jennings/815887"
+    },
+    {
+      "name": "IAM",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IAM/212796"
+    },
+    {
+      "name": "IAMDYNAMITE",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IAMDYNAMITE/2568847"
+    },
+    {
+      "name": "IAMX",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IAMX/993718"
+    },
+    {
+      "name": "Ian",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian/712772"
+    },
+    {
+      "name": "Ian",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian/89044"
+    },
+    {
+      "name": "Ian & Sylvia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20%26%20Sylvia/2016"
+    },
+    {
+      "name": "Ian Anderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Anderson/3543"
+    },
+    {
+      "name": "Ian Axel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Axel/1003013"
+    },
+    {
+      "name": "Ian Ball",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Ball/454019"
+    },
+    {
+      "name": "Ian Bargh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Bargh/417012"
+    },
+    {
+      "name": "Ian Bartlett",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Bartlett/1055480"
+    },
+    {
+      "name": "Ian Britt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Britt/737133"
+    },
+    {
+      "name": "Ian Broudie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Broudie/59780"
+    },
+    {
+      "name": "Ian Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Brown/175823"
+    },
+    {
+      "name": "Ian Byington",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Byington/934733"
+    },
+    {
+      "name": "Ian Campbell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Campbell/769"
+    },
+    {
+      "name": "Ian Dury",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Dury/17186"
+    },
+    {
+      "name": "Ian Eskelin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Eskelin/74407"
+    },
+    {
+      "name": "Ian Finkel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Finkel/746920"
+    },
+    {
+      "name": "Ian Gillan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Gillan/4366"
+    },
+    {
+      "name": "Ian Gomm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Gomm/17931"
+    },
+    {
+      "name": "Ian Hunt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Hunt/88661"
+    },
+    {
+      "name": "Ian Hunter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Hunter/4528"
+    },
+    {
+      "name": "Ian Lloyd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Lloyd/18971"
+    },
+    {
+      "name": "Ian Love",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Love/444893"
+    },
+    {
+      "name": "Ian Martin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Martin/1838792"
+    },
+    {
+      "name": "Ian Matthews",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Matthews/102898"
+    },
+    {
+      "name": "Ian McCulloch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20McCulloch/103714"
+    },
+    {
+      "name": "Ian McDougall",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20McDougall/103892"
+    },
+    {
+      "name": "Ian McLagan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20McLagan/19265"
+    },
+    {
+      "name": "Ian Moore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Moore/40474"
+    },
+    {
+      "name": "Ian Moss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Moss/107839"
+    },
+    {
+      "name": "Ian Ossia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Ossia/364533"
+    },
+    {
+      "name": "Ian Paice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Paice/111981"
+    },
+    {
+      "name": "Ian Parry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Parry/393052"
+    },
+    {
+      "name": "Ian Pearce",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Pearce/717804"
+    },
+    {
+      "name": "Ian Pooley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Pooley/168962"
+    },
+    {
+      "name": "Ian Shaw",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Shaw/124266"
+    },
+    {
+      "name": "Ian Thomas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Thomas/21008"
+    },
+    {
+      "name": "Ian Thomas Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Thomas%20Band/2111279"
+    },
+    {
+      "name": "Ian Tyson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Tyson/1852"
+    },
+    {
+      "name": "Ian Van Dahl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Van%20Dahl/459804"
+    },
+    {
+      "name": "Ian Whitcomb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ian%20Whitcomb/21390"
+    },
+    {
+      "name": "Ib Glindeman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ib%20Glindeman/244458"
+    },
+    {
+      "name": "Ib Glindemann",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ib%20Glindemann/735938"
+    },
+    {
+      "name": "Ibiza DJ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ibiza%20DJ/647042"
+    },
+    {
+      "name": "Ibn Baya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ibn%20Baya/740483"
+    },
+    {
+      "name": "Ibo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ibo/802324"
+    },
+    {
+      "name": "Ibrahim Ferrer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ibrahim%20Ferrer/333291"
+    },
+    {
+      "name": "Ibrahim Tatlises",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ibrahim%20Tatlises/509887"
+    },
+    {
+      "name": "Ibro Lolov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ibro%20Lolov/350572"
+    },
+    {
+      "name": "IBU",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IBU/693764"
+    },
+    {
+      "name": "Icarus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icarus/290248"
+    },
+    {
+      "name": "Icarus Line",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icarus%20Line/374112"
+    },
+    {
+      "name": "Ice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ice/699364"
+    },
+    {
+      "name": "Ice Age",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ice%20Age/370938"
+    },
+    {
+      "name": "Ice Cube",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ice%20Cube/48"
+    },
+    {
+      "name": "Ice MC",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ice%20MC/205325"
+    },
+    {
+      "name": "Ice Nine Kills",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ice%20Nine%20Kills/856649"
+    },
+    {
+      "name": "Ice-T",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ice-T/89063"
+    },
+    {
+      "name": "Iced Earth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iced%20Earth/13256"
+    },
+    {
+      "name": "Icehouse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icehouse/4538"
+    },
+    {
+      "name": "IceMan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IceMan/292225"
+    },
+    {
+      "name": "Icemoon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icemoon/2660166"
+    },
+    {
+      "name": "Icewater",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icewater/383757"
+    },
+    {
+      "name": "Ich",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ich/912844"
+    },
+    {
+      "name": "Ich + Ich",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ich%20%2B%20Ich/726214"
+    },
+    {
+      "name": "Ichmael",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ichmael/712785"
+    },
+    {
+      "name": "Ici",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ici/2583673"
+    },
+    {
+      "name": "Icicle Works",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icicle%20Works/4539"
+    },
+    {
+      "name": "Icon for Hire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icon%20for%20Hire/2429301"
+    },
+    {
+      "name": "Icon of Coil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icon%20of%20Coil/451850"
+    },
+    {
+      "name": "Iconz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iconz/440654"
+    },
+    {
+      "name": "ICP Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ICP%20Orchestra/10815"
+    },
+    {
+      "name": "Icycore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Icycore/669432"
+    },
+    {
+      "name": "Ida",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ida/199992"
+    },
+    {
+      "name": "Ida Corr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ida%20Corr/983187"
+    },
+    {
+      "name": "Ida Cox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ida%20Cox/6345"
+    },
+    {
+      "name": "Ida Maria",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ida%20Maria/860384"
+    },
+    {
+      "name": "Ida McBeth",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ida%20McBeth/868242"
+    },
+    {
+      "name": "Idaho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idaho/144142"
+    },
+    {
+      "name": "Ide",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ide/799103"
+    },
+    {
+      "name": "Ideal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ideal/373833"
+    },
+    {
+      "name": "Ideal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ideal/18399"
+    },
+    {
+      "name": "Ides of Space",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ides%20of%20Space/512171"
+    },
+    {
+      "name": "Idina Menzel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idina%20Menzel/295899"
+    },
+    {
+      "name": "Idiot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idiot/1127372"
+    },
+    {
+      "name": "Idiot Flesh",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idiot%20Flesh/278912"
+    },
+    {
+      "name": "Idiot Pilot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idiot%20Pilot/680300"
+    },
+    {
+      "name": "Idjut Boys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idjut%20Boys/183104"
+    },
+    {
+      "name": "Idle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idle/169446"
+    },
+    {
+      "name": "Idle a.M.",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idle%20a.M./2423275"
+    },
+    {
+      "name": "Idle Eyes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idle%20Eyes/22523"
+    },
+    {
+      "name": "Idle Hands",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idle%20Hands/1183955"
+    },
+    {
+      "name": "Idle Sons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idle%20Sons/770050"
+    },
+    {
+      "name": "Idle Warship",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idle%20Warship/2491007"
+    },
+    {
+      "name": "Idlewild",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idlewild/380736"
+    },
+    {
+      "name": "Ido Bukelman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ido%20Bukelman/891731"
+    },
+    {
+      "name": "Ido Giafu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ido%20Giafu/2668241"
+    },
+    {
+      "name": "Ido Ophir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ido%20Ophir/1086691"
+    },
+    {
+      "name": "Idol Worship International",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idol%20Worship%20International/825180"
+    },
+    {
+      "name": "iDolphin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/iDolphin/1127373"
+    },
+    {
+      "name": "Idrees Sulieman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idrees%20Sulieman/129552"
+    },
+    {
+      "name": "Idris Ackamoor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idris%20Ackamoor/291030"
+    },
+    {
+      "name": "Idrissa Diop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Idrissa%20Diop/464634"
+    },
+    {
+      "name": "Ieshia Le",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ieshia%20Le/881885"
+    },
+    {
+      "name": "If All Else Fails",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/If%20All%20Else%20Fails/712799"
+    },
+    {
+      "name": "If Hope Dies",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/If%20Hope%20Dies/683471"
+    },
+    {
+      "name": "If I Were a Gladiator",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/If%20I%20Were%20a%20Gladiator/2189999"
+    },
+    {
+      "name": "Ifan Kovny",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ifan%20Kovny/2668839"
+    },
+    {
+      "name": "iFire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/iFire/1165183"
+    },
+    {
+      "name": "IG Culture",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IG%20Culture/237369"
+    },
+    {
+      "name": "Iggy Miles",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iggy%20Miles/2448721"
+    },
+    {
+      "name": "Iggy Pop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iggy%20Pop/5167"
+    },
+    {
+      "name": "Iglu & Hartly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iglu%20%26%20Hartly/1077955"
+    },
+    {
+      "name": "IGM",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IGM/736806"
+    },
+    {
+      "name": "Ignacio Copani",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ignacio%20Copani/328941"
+    },
+    {
+      "name": "Ignasi Terraza Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ignasi%20Terraza%20Trio/1095488"
+    },
+    {
+      "name": "Ignaz Dinne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ignaz%20Dinne/832282"
+    },
+    {
+      "name": "Igness",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igness/2271559"
+    },
+    {
+      "name": "Ignite",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ignite/205329"
+    },
+    {
+      "name": "Igniters Steel Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igniters%20Steel%20Band/212803"
+    },
+    {
+      "name": "Igod",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igod/712803"
+    },
+    {
+      "name": "Igor Bril",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igor%20Bril/6174"
+    },
+    {
+      "name": "Igor Butman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igor%20Butman/61372"
+    },
+    {
+      "name": "Igor Cold",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igor%20Cold/2628567"
+    },
+    {
+      "name": "Igor Garnier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Igor%20Garnier/2414199"
+    },
+    {
+      "name": "Ihsahn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ihsahn/302456"
+    },
+    {
+      "name": "II Kold Syndicate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/II%20Kold%20Syndicate/768300"
+    },
+    {
+      "name": "II N Da Chamber",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/II%20N%20Da%20Chamber/362017"
+    },
+    {
+      "name": "II Tre",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/II%20Tre/934716"
+    },
+    {
+      "name": "II Tru",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/II%20Tru/294632"
+    },
+    {
+      "name": "IIIrd Tyme Out",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IIIrd%20Tyme%20Out/34044"
+    },
+    {
+      "name": "iiO",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/iiO/220443"
+    },
+    {
+      "name": "Iip",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iip/739060"
+    },
+    {
+      "name": "Iiro Rantala",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iiro%20Rantala/442327"
+    },
+    {
+      "name": "Ijahman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ijahman/2896"
+    },
+    {
+      "name": "Ijiwarukei All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ijiwarukei%20All%20Stars/872987"
+    },
+    {
+      "name": "Ikara Colt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ikara%20Colt/532548"
+    },
+    {
+      "name": "Ike",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike/557572"
+    },
+    {
+      "name": "Ike & Tina Turner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20%26%20Tina%20Turner/5711"
+    },
+    {
+      "name": "Ike Cole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20Cole/291445"
+    },
+    {
+      "name": "Ike Cosse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20Cosse/203252"
+    },
+    {
+      "name": "Ike Moriz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20Moriz/716561"
+    },
+    {
+      "name": "Ike Quebec",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20Quebec/7376"
+    },
+    {
+      "name": "Ike Reilly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20Reilly/484890"
+    },
+    {
+      "name": "Ike Turner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ike%20Turner/89121"
+    },
+    {
+      "name": "Ikhwani Safaa Music Club",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ikhwani%20Safaa%20Music%20Club/1728026"
+    },
+    {
+      "name": "Ikhwani Safaa Musical Club",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ikhwani%20Safaa%20Musical%20Club/174094"
+    },
+    {
+      "name": "Ikimono Gakari",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ikimono%20Gakari/918332"
+    },
+    {
+      "name": "Ikon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ikon/207279"
+    },
+    {
+      "name": "Ikos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ikos/623069"
+    },
+    {
+      "name": "Il Divino Otelma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Il%20Divino%20Otelma/787433"
+    },
+    {
+      "name": "Il Divo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Il%20Divo/692597"
+    },
+    {
+      "name": "Il Était une Fois",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Il%20%C3%89tait%20une%20Fois/657189"
+    },
+    {
+      "name": "Il Volo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Il%20Volo/2397292"
+    },
+    {
+      "name": "Ilagales",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilagales/728910"
+    },
+    {
+      "name": "Ilan Chester",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilan%20Chester/33778"
+    },
+    {
+      "name": "Ilario Alicante",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilario%20Alicante/1076118"
+    },
+    {
+      "name": "Ile Aiye",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ile%20Aiye/485345"
+    },
+    {
+      "name": "Ilegales",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilegales/205330"
+    },
+    {
+      "name": "Ilene Graff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilene%20Graff/573057"
+    },
+    {
+      "name": "Ilene Weiss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilene%20Weiss/2166"
+    },
+    {
+      "name": "Ilham Al Madfai",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilham%20Al%20Madfai/603223"
+    },
+    {
+      "name": "Iliad Jazz Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iliad%20Jazz%20Orchestra/1121119"
+    },
+    {
+      "name": "iLiKETRAiNS",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/iLiKETRAiNS/797155"
+    },
+    {
+      "name": "Ilkan Gunuc",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilkan%20Gunuc/2627782"
+    },
+    {
+      "name": "Ilkin Deniz Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilkin%20Deniz%20Trio/1020485"
+    },
+    {
+      "name": "Ill Al Skratch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Al%20Skratch/44730"
+    },
+    {
+      "name": "Ill Bill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Bill/550622"
+    },
+    {
+      "name": "Ill Biskits",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Biskits/173933"
+    },
+    {
+      "name": "Ill Genius",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Genius/578881"
+    },
+    {
+      "name": "Ill Harmonics",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Harmonics/442591"
+    },
+    {
+      "name": "Ill James",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20James/2186575"
+    },
+    {
+      "name": "Ill Lit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Lit/541847"
+    },
+    {
+      "name": "Ill Murk",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Murk/2225668"
+    },
+    {
+      "name": "Ill Nature",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Nature/798594"
+    },
+    {
+      "name": "Ill Niño",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Ni%C3%B1o/484562"
+    },
+    {
+      "name": "Ill Repute",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ill%20Repute/13262"
+    },
+    {
+      "name": "Illapu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illapu/39502"
+    },
+    {
+      "name": "Illbreak",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illbreak/737535"
+    },
+    {
+      "name": "Illdisposed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illdisposed/212815"
+    },
+    {
+      "name": "Illegal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illegal/39503"
+    },
+    {
+      "name": "Illegal 2001",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illegal%202001/873007"
+    },
+    {
+      "name": "Illegal Substance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illegal%20Substance/561516"
+    },
+    {
+      "name": "Illin' P",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illin%27%20P/484569"
+    },
+    {
+      "name": "Illinois",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illinois/865241"
+    },
+    {
+      "name": "Illinois Jacquet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illinois%20Jacquet/6798"
+    },
+    {
+      "name": "Illinois Speed Press",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illinois%20Speed%20Press/18409"
+    },
+    {
+      "name": "Illmatic Buddha MCs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illmatic%20Buddha%20MCs/913613"
+    },
+    {
+      "name": "Illmind",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illmind/796821"
+    },
+    {
+      "name": "Illogic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illogic/363845"
+    },
+    {
+      "name": "Illogicist",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illogicist/664186"
+    },
+    {
+      "name": "Illumina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illumina/712823"
+    },
+    {
+      "name": "Illya Kuryaki and the Valderramas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Illya%20Kuryaki%20and%20the%20Valderramas/360026"
+    },
+    {
+      "name": "Ilona",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilona/531970"
+    },
+    {
+      "name": "Ilona Knopfler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilona%20Knopfler/560782"
+    },
+    {
+      "name": "Ils",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ils/199993"
+    },
+    {
+      "name": "Ilse DeLange",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilse%20DeLange/358613"
+    },
+    {
+      "name": "Ilya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilya/534965"
+    },
+    {
+      "name": "Ilya Santana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilya%20Santana/1159618"
+    },
+    {
+      "name": "Ilyas Malayev",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ilyas%20Malayev/201860"
+    },
+    {
+      "name": "IM",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IM/1569409"
+    },
+    {
+      "name": "Im Sumpf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Im%20Sumpf/293411"
+    },
+    {
+      "name": "IM2",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IM2/2645226"
+    },
+    {
+      "name": "Ima",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ima/296545"
+    },
+    {
+      "name": "Ima Robot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ima%20Robot/577706"
+    },
+    {
+      "name": "Images",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Images/786026"
+    },
+    {
+      "name": "Images in Vogue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Images%20in%20Vogue/295686"
+    },
+    {
+      "name": "Images of Eden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Images%20of%20Eden/848855"
+    },
+    {
+      "name": "Imagika",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imagika/483876"
+    },
+    {
+      "name": "Imaginary Cities ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imaginary%20Cities%20/2316733"
+    },
+    {
+      "name": "Imaginary Johnny",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imaginary%20Johnny/662665"
+    },
+    {
+      "name": "Imaginasamba",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imaginasamba/686258"
+    },
+    {
+      "name": "Imagination",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imagination/4541"
+    },
+    {
+      "name": "Imagine Dragons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imagine%20Dragons/1184089"
+    },
+    {
+      "name": "Imago",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imago/1083915"
+    },
+    {
+      "name": "Imajin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imajin/294895"
+    },
+    {
+      "name": "Imani Coppola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imani%20Coppola/225408"
+    },
+    {
+      "name": "Imany",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imany/2416664"
+    },
+    {
+      "name": "Imaran",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imaran/294549"
+    },
+    {
+      "name": "Imelda May",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imelda%20May/1022669"
+    },
+    {
+      "name": "Imix Children's Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imix%20Children%27s%20Choir/533350"
+    },
+    {
+      "name": "Imix Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imix%20Singers/371334"
+    },
+    {
+      "name": "Immaculate Fools",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immaculate%20Fools/13265"
+    },
+    {
+      "name": "Immaculate Machine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immaculate%20Machine/739701"
+    },
+    {
+      "name": "Immature",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immature/23057"
+    },
+    {
+      "name": "Immolation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immolation/13266"
+    },
+    {
+      "name": "Immortal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immortal/212822"
+    },
+    {
+      "name": "Immortal Souls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immortal%20Souls/643657"
+    },
+    {
+      "name": "Immortal Technique",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Immortal%20Technique/593659"
+    },
+    {
+      "name": "Imogen Heap",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imogen%20Heap/296465"
+    },
+    {
+      "name": "Impact",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impact/507890"
+    },
+    {
+      "name": "Impact Frequency",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impact%20Frequency/2600159"
+    },
+    {
+      "name": "Impact Kids",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impact%20Kids/746308"
+    },
+    {
+      "name": "Impala",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impala/45070"
+    },
+    {
+      "name": "Impaled",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impaled/413333"
+    },
+    {
+      "name": "Impaled Nazarene",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impaled%20Nazarene/212825"
+    },
+    {
+      "name": "Impaler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impaler/39510"
+    },
+    {
+      "name": "Impellitteri",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impellitteri/13267"
+    },
+    {
+      "name": "Impending Doom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impending%20Doom/1150298"
+    },
+    {
+      "name": "Imperanon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperanon/659486"
+    },
+    {
+      "name": "Imperative Reaction",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperative%20Reaction/365304"
+    },
+    {
+      "name": "Imperia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperia/833809"
+    },
+    {
+      "name": "Imperial",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial/703868"
+    },
+    {
+      "name": "Imperial",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial/1561750"
+    },
+    {
+      "name": "Imperial",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial/298750"
+    },
+    {
+      "name": "Imperial Drag",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial%20Drag/174985"
+    },
+    {
+      "name": "Imperial Hotel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial%20Hotel/1624095"
+    },
+    {
+      "name": "Imperial Quintet of New Orleans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial%20Quintet%20of%20New%20Orleans/975696"
+    },
+    {
+      "name": "Imperial Teen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperial%20Teen/174780"
+    },
+    {
+      "name": "Imperiet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperiet/513703"
+    },
+    {
+      "name": "Imperium Dekadenz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imperium%20Dekadenz/1105141"
+    },
+    {
+      "name": "Impetigo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impetigo/13268"
+    },
+    {
+      "name": "Implex & Enei",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Implex%20%26%20Enei/2465871"
+    },
+    {
+      "name": "Impotent Sea Snakes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impotent%20Sea%20Snakes/212828"
+    },
+    {
+      "name": "Impractical Cockpit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impractical%20Cockpit/749557"
+    },
+    {
+      "name": "Impulser",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impulser/2685297"
+    },
+    {
+      "name": "Impulsive",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impulsive/1004737"
+    },
+    {
+      "name": "Impumelelo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Impumelelo/2471639"
+    },
+    {
+      "name": "Imua",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Imua/829852"
+    },
+    {
+      "name": "IMx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IMx/375641"
+    },
+    {
+      "name": "In a Split Second",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20a%20Split%20Second/224354"
+    },
+    {
+      "name": "In a World...",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20a%20World.../1078119"
+    },
+    {
+      "name": "In Arcadia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Arcadia/740537"
+    },
+    {
+      "name": "In Beat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Beat/1666961"
+    },
+    {
+      "name": "In Camera",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Camera/201735"
+    },
+    {
+      "name": "In Control",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Control/512914"
+    },
+    {
+      "name": "In Due Time",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Due%20Time/855201"
+    },
+    {
+      "name": "In Extremo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Extremo/372477"
+    },
+    {
+      "name": "In Fear and Faith",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Fear%20and%20Faith/1105395"
+    },
+    {
+      "name": "In Flagranti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Flagranti/676717"
+    },
+    {
+      "name": "In Flames",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Flames/200319"
+    },
+    {
+      "name": "In Harmony",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Harmony/934967"
+    },
+    {
+      "name": "In Memorium",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Memorium/727492"
+    },
+    {
+      "name": "In My Eyes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20My%20Eyes/311678"
+    },
+    {
+      "name": "In Passing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Passing/650751"
+    },
+    {
+      "name": "In Pieces",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Pieces/484313"
+    },
+    {
+      "name": "In R Voice",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20R%20Voice/842217"
+    },
+    {
+      "name": "In Reverent Fear",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Reverent%20Fear/647794"
+    },
+    {
+      "name": "In Sound",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Sound/141422"
+    },
+    {
+      "name": "In Stereo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Stereo/730200"
+    },
+    {
+      "name": "In Strict Confidence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Strict%20Confidence/207248"
+    },
+    {
+      "name": "In the Midst of Lions",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20the%20Midst%20of%20Lions/1140395"
+    },
+    {
+      "name": "In the Nursery",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20the%20Nursery/13270"
+    },
+    {
+      "name": "In the Woods...",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20the%20Woods.../212832"
+    },
+    {
+      "name": "In This Moment",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20This%20Moment/859292"
+    },
+    {
+      "name": "In Tua Nua",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%20Tua%20Nua/13271"
+    },
+    {
+      "name": "In-Grid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In-Grid/559873"
+    },
+    {
+      "name": "In/Humanity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%2FHumanity/279051"
+    },
+    {
+      "name": "In:Sight",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/In%3ASight/2441765"
+    },
+    {
+      "name": "Ina Deter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ina%20Deter/294789"
+    },
+    {
+      "name": "Ina May Wool",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ina%20May%20Wool/392066"
+    },
+    {
+      "name": "Ina Müller",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ina%20M%C3%BCller/854153"
+    },
+    {
+      "name": "Ina Ray Hutton",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ina%20Ray%20Hutton/188119"
+    },
+    {
+      "name": "Iñaki Sandoval",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/I%C3%B1aki%20Sandoval/817975"
+    },
+    {
+      "name": "Inara George",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inara%20George/287900"
+    },
+    {
+      "name": "Inasense",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inasense/205338"
+    },
+    {
+      "name": "Inast8",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inast8/2524702"
+    },
+    {
+      "name": "Inca Son",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inca%20Son/429970"
+    },
+    {
+      "name": "Incantation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Incantation/361933"
+    },
+    {
+      "name": "Incite",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Incite/1167649"
+    },
+    {
+      "name": "Incline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Incline/1050070"
+    },
+    {
+      "name": "Incognito",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Incognito/10818"
+    },
+    {
+      "name": "Inconfundible",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inconfundible/530774"
+    },
+    {
+      "name": "Increase!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Increase%21/2375127"
+    },
+    {
+      "name": "Incubus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Incubus/463778"
+    },
+    {
+      "name": "Incubus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Incubus/13273"
+    },
+    {
+      "name": "Indecent Obsession",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indecent%20Obsession/13274"
+    },
+    {
+      "name": "Indecision",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indecision/384294"
+    },
+    {
+      "name": "Indeep",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indeep/22708"
+    },
+    {
+      "name": "Independence Jazz Reunion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Independence%20Jazz%20Reunion/435216"
+    },
+    {
+      "name": "Independents",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Independents/1463031"
+    },
+    {
+      "name": "Index Case",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Index%20Case/742236"
+    },
+    {
+      "name": "India",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/India/2311553"
+    },
+    {
+      "name": "India",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/India/13278"
+    },
+    {
+      "name": "India Omega Dawn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/India%20Omega%20Dawn/709032"
+    },
+    {
+      "name": "India.Arie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/India.Arie/475170"
+    },
+    {
+      "name": "Indian Funk Crew",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indian%20Funk%20Crew/712868"
+    },
+    {
+      "name": "Indian Nation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indian%20Nation/202939"
+    },
+    {
+      "name": "Indian Tribe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indian%20Tribe/2687555"
+    },
+    {
+      "name": "Indianapolis Women's Chorus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indianapolis%20Women%27s%20Chorus/699956"
+    },
+    {
+      "name": "Indica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indica/168871"
+    },
+    {
+      "name": "Indica",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indica/916904"
+    },
+    {
+      "name": "Indica Gypsys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indica%20Gypsys/352612"
+    },
+    {
+      "name": "Indigenous",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indigenous/320410"
+    },
+    {
+      "name": "Indigo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indigo/203476"
+    },
+    {
+      "name": "Indigo Girls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indigo%20Girls/4543"
+    },
+    {
+      "name": "Indigo Spirit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indigo%20Spirit/434040"
+    },
+    {
+      "name": "Indio Solari",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indio%20Solari/725398"
+    },
+    {
+      "name": "Indios Bravos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indios%20Bravos/988065"
+    },
+    {
+      "name": "Indira Khan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indira%20Khan/541538"
+    },
+    {
+      "name": "INDK",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/INDK/479870"
+    },
+    {
+      "name": "Indo G",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indo%20G/309934"
+    },
+    {
+      "name": "Indochine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indochine/294898"
+    },
+    {
+      "name": "Indra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indra/291191"
+    },
+    {
+      "name": "Indra Lesmana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indra%20Lesmana/11031"
+    },
+    {
+      "name": "Indulis & Ilga Suna",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Indulis%20%26%20Ilga%20Suna/1070038"
+    },
+    {
+      "name": "Industria del Amor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Industria%20del%20Amor/39527"
+    },
+    {
+      "name": "Industrial Tepee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Industrial%20Tepee/320741"
+    },
+    {
+      "name": "Industry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Industry/712879"
+    },
+    {
+      "name": "Industry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Industry/18428"
+    },
+    {
+      "name": "Industry Standerd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Industry%20Standerd/2349654"
+    },
+    {
+      "name": "Ines Adler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ines%20Adler/991614"
+    },
+    {
+      "name": "Inestate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inestate/1134222"
+    },
+    {
+      "name": "Inez & Charlie Foxx",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inez%20%26%20Charlie%20Foxx/77303"
+    },
+    {
+      "name": "Inez Andrews",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inez%20Andrews/2193"
+    },
+    {
+      "name": "Inez Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inez%20Jones/291406"
+    },
+    {
+      "name": "Infamous Mobb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infamous%20Mobb/469112"
+    },
+    {
+      "name": "Infamous Stringdusters",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infamous%20Stringdusters/864843"
+    },
+    {
+      "name": "Infamous Syndicate",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infamous%20Syndicate/365825"
+    },
+    {
+      "name": "Infamous X-Mann",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infamous%20X-Mann/361990"
+    },
+    {
+      "name": "Infant Kings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infant%20Kings/468501"
+    },
+    {
+      "name": "Infant Sorrow",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infant%20Sorrow/1055594"
+    },
+    {
+      "name": "Infantil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infantil/1629496"
+    },
+    {
+      "name": "Infected Mushroom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infected%20Mushroom/475290"
+    },
+    {
+      "name": "Infectious Grooves",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infectious%20Grooves/4544"
+    },
+    {
+      "name": "Infernaeon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infernaeon/880694"
+    },
+    {
+      "name": "Infernal",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infernal/849759"
+    },
+    {
+      "name": "Inferno",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inferno/289643"
+    },
+    {
+      "name": "Infesticons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infesticons/425506"
+    },
+    {
+      "name": "Infidelity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infidelity/761168"
+    },
+    {
+      "name": "Infinia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinia/2675672"
+    },
+    {
+      "name": "Infinite",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinite/736425"
+    },
+    {
+      "name": "Infinite Embrace",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinite%20Embrace/973287"
+    },
+    {
+      "name": "Infinite Mass",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinite%20Mass/212841"
+    },
+    {
+      "name": "Infinity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinity/528073"
+    },
+    {
+      "name": "Infinity 16",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinity%2016/997317"
+    },
+    {
+      "name": "Infinity Space",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinity%20Space/2326114"
+    },
+    {
+      "name": "Infinity tha Ghetto Child",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infinity%20tha%20Ghetto%20Child/511547"
+    },
+    {
+      "name": "Informatik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Informatik/183108"
+    },
+    {
+      "name": "Information Society",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Information%20Society/4545"
+    },
+    {
+      "name": "Infra-Red",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infra-Red/290255"
+    },
+    {
+      "name": "Infusion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Infusion/401825"
+    },
+    {
+      "name": "Ing",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ing/429026"
+    },
+    {
+      "name": "Inga Rumpf",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inga%20Rumpf/20290"
+    },
+    {
+      "name": "Inga Swearingen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inga%20Swearingen/755671"
+    },
+    {
+      "name": "Inge Brandenburg",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inge%20Brandenburg/822475"
+    },
+    {
+      "name": "Ingemars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingemars/1083656"
+    },
+    {
+      "name": "Inger Marie Gundersen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inger%20Marie%20Gundersen/824013"
+    },
+    {
+      "name": "Inglas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inglas/1063833"
+    },
+    {
+      "name": "Ingmar Nordström",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingmar%20Nordstr%C3%B6m/989540"
+    },
+    {
+      "name": "Ingram Hill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingram%20Hill/524540"
+    },
+    {
+      "name": "Ingram Washington",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingram%20Washington/723249"
+    },
+    {
+      "name": "Ingrams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrams/516127"
+    },
+    {
+      "name": "Ingrid Jensen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrid%20Jensen/144244"
+    },
+    {
+      "name": "Ingrid Lucia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrid%20Lucia/366463"
+    },
+    {
+      "name": "Ingrid Michaelson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrid%20Michaelson/826247"
+    },
+    {
+      "name": "Ingrid Peters",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrid%20Peters/612562"
+    },
+    {
+      "name": "Ingrid Saxon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrid%20Saxon/691878"
+    },
+    {
+      "name": "Ingrid's Sing & Dance-A-Longs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ingrid%27s%20Sing%20%26%20Dance-A-Longs/712904"
+    },
+    {
+      "name": "Inhabited",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inhabited/702607"
+    },
+    {
+      "name": "InI",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/InI/200453"
+    },
+    {
+      "name": "Ini Kamoze",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ini%20Kamoze/92360"
+    },
+    {
+      "name": "Inigo Kilborn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inigo%20Kilborn/1127444"
+    },
+    {
+      "name": "Iniquity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iniquity/479603"
+    },
+    {
+      "name": "Inishkea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inishkea/833851"
+    },
+    {
+      "name": "Initial State",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Initial%20State/311587"
+    },
+    {
+      "name": "Injected",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Injected/516285"
+    },
+    {
+      "name": "Ink & Dagger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ink%20%26%20Dagger/224355"
+    },
+    {
+      "name": "Inka Inka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inka%20Inka/39532"
+    },
+    {
+      "name": "Inkubus Sukkubus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inkubus%20Sukkubus/373013"
+    },
+    {
+      "name": "Inkwell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inkwell/792140"
+    },
+    {
+      "name": "Inmates",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inmates/18431"
+    },
+    {
+      "name": "InMe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/InMe/558294"
+    },
+    {
+      "name": "InMemory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/InMemory/685995"
+    },
+    {
+      "name": "Inn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inn/39534"
+    },
+    {
+      "name": "Inna",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inna/1551036"
+    },
+    {
+      "name": "Inna Modja",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inna%20Modja/1187337"
+    },
+    {
+      "name": "Inner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner/523351"
+    },
+    {
+      "name": "Inner Circle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Circle/2897"
+    },
+    {
+      "name": "Inner City",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20City/13283"
+    },
+    {
+      "name": "Inner Ear Brigade",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Ear%20Brigade/935118"
+    },
+    {
+      "name": "Inner Life",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Life/18433"
+    },
+    {
+      "name": "Inner Resonance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Resonance/425690"
+    },
+    {
+      "name": "Inner Surge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Surge/826229"
+    },
+    {
+      "name": "Inner Thought",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Thought/169230"
+    },
+    {
+      "name": "Inner Voices",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inner%20Voices/350522"
+    },
+    {
+      "name": "Innerlude",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innerlude/366764"
+    },
+    {
+      "name": "Innerpartysystem",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innerpartysystem/999632"
+    },
+    {
+      "name": "Innerself",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innerself/666738"
+    },
+    {
+      "name": "Innerstance.Beatbox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innerstance.Beatbox/560030"
+    },
+    {
+      "name": "Innervoices",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innervoices/712922"
+    },
+    {
+      "name": "Innerwish",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innerwish/667963"
+    },
+    {
+      "name": "Innocence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innocence/4548"
+    },
+    {
+      "name": "Innocent",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innocent/923288"
+    },
+    {
+      "name": "Innosense",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innosense/435368"
+    },
+    {
+      "name": "Innovations",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innovations/293412"
+    },
+    {
+      "name": "Innych",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Innych/2677401"
+    },
+    {
+      "name": "INoA 'OLe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/INoA%20%27OLe/772708"
+    },
+    {
+      "name": "Inoj",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inoj/320938"
+    },
+    {
+      "name": "Inrsoul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inrsoul/915721"
+    },
+    {
+      "name": "Insane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insane/1033657"
+    },
+    {
+      "name": "Insane Brain Damagers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insane%20Brain%20Damagers/2636169"
+    },
+    {
+      "name": "Insane Clown Posse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insane%20Clown%20Posse/165873"
+    },
+    {
+      "name": "Insane Poetry",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insane%20Poetry/22385"
+    },
+    {
+      "name": "Insania",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insania/417194"
+    },
+    {
+      "name": "Insect",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insect/1081792"
+    },
+    {
+      "name": "Insense",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insense/559876"
+    },
+    {
+      "name": "Inside Out",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inside%20Out/617218"
+    },
+    {
+      "name": "Inside Out",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inside%20Out/23022"
+    },
+    {
+      "name": "Inside the Flame",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inside%20the%20Flame/1127460"
+    },
+    {
+      "name": "InsideOut",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/InsideOut/482803"
+    },
+    {
+      "name": "Insight",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insight/292241"
+    },
+    {
+      "name": "Insipid Hothouse Melons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insipid%20Hothouse%20Melons/740128"
+    },
+    {
+      "name": "Insision",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insision/524542"
+    },
+    {
+      "name": "Insite",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insite/1108473"
+    },
+    {
+      "name": "Insolence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insolence/402510"
+    },
+    {
+      "name": "Insomniaa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insomniaa/2628944"
+    },
+    {
+      "name": "Insomnium",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insomnium/529782"
+    },
+    {
+      "name": "Inspectah Deck",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspectah%20Deck/278693"
+    },
+    {
+      "name": "Inspecter 7",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspecter%207/224806"
+    },
+    {
+      "name": "Inspection 12",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspection%2012/480906"
+    },
+    {
+      "name": "Inspector",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspector/532915"
+    },
+    {
+      "name": "Inspiral Carpets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspiral%20Carpets/4551"
+    },
+    {
+      "name": "Inspired Souls",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspired%20Souls/2482789"
+    },
+    {
+      "name": "Inspired!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspired%21/712936"
+    },
+    {
+      "name": "Inspirer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inspirer/2585935"
+    },
+    {
+      "name": "Instant Funk",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instant%20Funk/18437"
+    },
+    {
+      "name": "Instant Mp3 Library",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instant%20Mp3%20Library/1634398"
+    },
+    {
+      "name": "Institute",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Institute/734327"
+    },
+    {
+      "name": "Institutional Choir of the Church of God in Christ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Institutional%20Choir%20of%20the%20Church%20of%20God%20in%20Christ/417056"
+    },
+    {
+      "name": "Institutional Radio Choir",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Institutional%20Radio%20Choir/2314"
+    },
+    {
+      "name": "Instruction",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instruction/673261"
+    },
+    {
+      "name": "Instrumental",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instrumental/1736142"
+    },
+    {
+      "name": "Instrumental Beatles",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instrumental%20Beatles/1664620"
+    },
+    {
+      "name": "Instrumental Champions",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instrumental%20Champions/1124000"
+    },
+    {
+      "name": "Instrumental Icons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instrumental%20Icons/1566430"
+    },
+    {
+      "name": "Instrumental King",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instrumental%20King/1139711"
+    },
+    {
+      "name": "Instrumentales del Siglo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Instrumentales%20del%20Siglo/429146"
+    },
+    {
+      "name": "Insyderz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Insyderz/294551"
+    },
+    {
+      "name": "Integrity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Integrity/39541"
+    },
+    {
+      "name": "Intell-A-Gent",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intell-A-Gent/612955"
+    },
+    {
+      "name": "Intelligentsia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intelligentsia/833871"
+    },
+    {
+      "name": "Intenso Project",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intenso%20Project/577637"
+    },
+    {
+      "name": "Intergalactic Contemporary Ensemble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intergalactic%20Contemporary%20Ensemble/468917"
+    },
+    {
+      "name": "Internacional Sonora Show",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Internacional%20Sonora%20Show/212846"
+    },
+    {
+      "name": "Internal Suffering",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Internal%20Suffering/823622"
+    },
+    {
+      "name": "Internal/External",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Internal%2FExternal/407043"
+    },
+    {
+      "name": "International Beat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Beat/13292"
+    },
+    {
+      "name": "International Club DJs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Club%20DJs/1797967"
+    },
+    {
+      "name": "International Festival Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Festival%20Orchestra/39549"
+    },
+    {
+      "name": "International Hot Jazz Quartet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Hot%20Jazz%20Quartet/2241324"
+    },
+    {
+      "name": "International Jazz Group",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Jazz%20Group/10820"
+    },
+    {
+      "name": "International Pop All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Pop%20All%20Stars/1553164"
+    },
+    {
+      "name": "International Reggae All Stars",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Reggae%20All%20Stars/820240"
+    },
+    {
+      "name": "International Staff Band of the Salvation Army",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Staff%20Band%20of%20the%20Salvation%20Army/1143554"
+    },
+    {
+      "name": "International Sweethearts of Rhythm",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/International%20Sweethearts%20of%20Rhythm/39551"
+    },
+    {
+      "name": "Interpol",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Interpol/483380"
+    },
+    {
+      "name": "Interstate Cowboy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Interstate%20Cowboy/935187"
+    },
+    {
+      "name": "Interstring",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Interstring/290996"
+    },
+    {
+      "name": "Intethod",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intethod/1015749"
+    },
+    {
+      "name": "Inti-Illimani",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inti-Illimani/3300"
+    },
+    {
+      "name": "Into Eternity",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Into%20Eternity/478149"
+    },
+    {
+      "name": "Into the Light",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Into%20the%20Light/468391"
+    },
+    {
+      "name": "Into the Moat",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Into%20the%20Moat/694325"
+    },
+    {
+      "name": "Intocable",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intocable/142971"
+    },
+    {
+      "name": "Intonation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intonation/168238"
+    },
+    {
+      "name": "Intoxicados",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intoxicados/755546"
+    },
+    {
+      "name": "Intoxicated",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intoxicated/384323"
+    },
+    {
+      "name": "Intrigue",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intrigue/188171"
+    },
+    {
+      "name": "Intrinsic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intrinsic/935201"
+    },
+    {
+      "name": "Intro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intro/39554"
+    },
+    {
+      "name": "Intro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intro/864987"
+    },
+    {
+      "name": "Intro5pect",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intro5pect/553614"
+    },
+    {
+      "name": "Introvoys",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Introvoys/468447"
+    },
+    {
+      "name": "Intruder",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intruder/4553"
+    },
+    {
+      "name": "Intrusos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Intrusos/209181"
+    },
+    {
+      "name": "Inure",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inure/712956"
+    },
+    {
+      "name": "Invaders",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Invaders/18442"
+    },
+    {
+      "name": "Invictus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Invictus/557840"
+    },
+    {
+      "name": "Inviting the Crash",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Inviting%20the%20Crash/758007"
+    },
+    {
+      "name": "Invizible Touch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Invizible%20Touch/1081967"
+    },
+    {
+      "name": "Invocation of Nehek",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Invocation%20of%20Nehek/681329"
+    },
+    {
+      "name": "INXS",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/INXS/4555"
+    },
+    {
+      "name": "IO",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IO/291069"
+    },
+    {
+      "name": "Ioan Gamboa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ioan%20Gamboa/2628828"
+    },
+    {
+      "name": "Ioan Harea",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ioan%20Harea/209093"
+    },
+    {
+      "name": "Iodine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iodine/169450"
+    },
+    {
+      "name": "Iola Haag",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iola%20Haag/467440"
+    },
+    {
+      "name": "IOM",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IOM/645188"
+    },
+    {
+      "name": "Ion Dissonance",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ion%20Dissonance/575597"
+    },
+    {
+      "name": "Iona",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iona/18445"
+    },
+    {
+      "name": "Ipanema Beach Orchestra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ipanema%20Beach%20Orchestra/434141"
+    },
+    {
+      "name": "Ipso Facto",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ipso%20Facto/39560"
+    },
+    {
+      "name": "IQ",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IQ/26552"
+    },
+    {
+      "name": "Iqu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iqu/373993"
+    },
+    {
+      "name": "IR",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IR/760556"
+    },
+    {
+      "name": "Ira Gonzalez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%20Gonzalez/1127489"
+    },
+    {
+      "name": "Ira Ironstrings",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%20Ironstrings/598956"
+    },
+    {
+      "name": "Ira Kaspi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%20Kaspi/935245"
+    },
+    {
+      "name": "Ira Nepus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%20Nepus/109290"
+    },
+    {
+      "name": "Ira Schulman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%20Schulman/11646"
+    },
+    {
+      "name": "Ira Sullivan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%20Sullivan/7634"
+    },
+    {
+      "name": "Ira!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ira%21/454604"
+    },
+    {
+      "name": "Iran Castillo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iran%20Castillo/224850"
+    },
+    {
+      "name": "Irate Architect",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irate%20Architect/1065625"
+    },
+    {
+      "name": "Iration",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iration/935252"
+    },
+    {
+      "name": "Irene Cara",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Cara/16290"
+    },
+    {
+      "name": "Irene Coloso",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Coloso/484287"
+    },
+    {
+      "name": "Irene Dunne",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Dunne/459975"
+    },
+    {
+      "name": "Irene Grandi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Grandi/320490"
+    },
+    {
+      "name": "Irene Kelley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Kelley/93073"
+    },
+    {
+      "name": "Irene Kral",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Kral/8961"
+    },
+    {
+      "name": "Irene Reid",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irene%20Reid/11514"
+    },
+    {
+      "name": "Irène Schweizer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ir%C3%A8ne%20Schweizer/123139"
+    },
+    {
+      "name": "Irina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irina/916905"
+    },
+    {
+      "name": "Irina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irina/2696687"
+    },
+    {
+      "name": "Irio de Paula",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irio%20de%20Paula/38308"
+    },
+    {
+      "name": "Iris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iris/484495"
+    },
+    {
+      "name": "Iris DeMent",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iris%20DeMent/1956"
+    },
+    {
+      "name": "Iris Parks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iris%20Parks/1067390"
+    },
+    {
+      "name": "Iris Williams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iris%20Williams/391799"
+    },
+    {
+      "name": "Irish Ceili Band & Singers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irish%20Ceili%20Band%20%26%20Singers/2034856"
+    },
+    {
+      "name": "Irish Mic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irish%20Mic/840820"
+    },
+    {
+      "name": "Irish Repertory Theatre Cast",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irish%20Repertory%20Theatre%20Cast/2015339"
+    },
+    {
+      "name": "Irish Tenor Trio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irish%20Tenor%20Trio/552371"
+    },
+    {
+      "name": "Irish Tenors",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irish%20Tenors/374159"
+    },
+    {
+      "name": "Irma",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irma/2455890"
+    },
+    {
+      "name": "Irma Dee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irma%20Dee/2726169"
+    },
+    {
+      "name": "Irma Thomas",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irma%20Thomas/5638"
+    },
+    {
+      "name": "Irnside",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irnside/663963"
+    },
+    {
+      "name": "Iron & Wine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20%26%20Wine/534825"
+    },
+    {
+      "name": "Iron Butterfly",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Butterfly/4558"
+    },
+    {
+      "name": "Iron Curtis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Curtis/1102772"
+    },
+    {
+      "name": "Iron Fire",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Fire/434712"
+    },
+    {
+      "name": "Iron Horse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Horse/826486"
+    },
+    {
+      "name": "Iron Horse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Horse/212855"
+    },
+    {
+      "name": "Iron Kingdom",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Kingdom/2580974"
+    },
+    {
+      "name": "Iron Lyon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Lyon/1148048"
+    },
+    {
+      "name": "Iron Maiden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Maiden/4560"
+    },
+    {
+      "name": "Iron Man",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Man/430186"
+    },
+    {
+      "name": "Iron Mask",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Mask/553608"
+    },
+    {
+      "name": "Iron Monkey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Monkey/225491"
+    },
+    {
+      "name": "Iron Savior",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iron%20Savior/302825"
+    },
+    {
+      "name": "Ironic",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ironic/173281"
+    },
+    {
+      "name": "Ironik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ironik/296953"
+    },
+    {
+      "name": "Irradio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irradio/653798"
+    },
+    {
+      "name": "Irresistible Force",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irresistible%20Force/141469"
+    },
+    {
+      "name": "Irrlicht",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irrlicht/935298"
+    },
+    {
+      "name": "Irv Gotti",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irv%20Gotti/244952"
+    },
+    {
+      "name": "Irv Stokes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irv%20Stokes/128916"
+    },
+    {
+      "name": "Irvin Mayfield",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irvin%20Mayfield/359078"
+    },
+    {
+      "name": "Irving",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving/532815"
+    },
+    {
+      "name": "Irving Aaronson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Aaronson/50121"
+    },
+    {
+      "name": "Irving Ashby",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Ashby/7968"
+    },
+    {
+      "name": "Irving Berlin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Berlin/3084"
+    },
+    {
+      "name": "Irving Fazola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Fazola/8514"
+    },
+    {
+      "name": "Irving Fields",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Fields/276802"
+    },
+    {
+      "name": "Irving Joseph",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Joseph/14902"
+    },
+    {
+      "name": "Irving Kaufman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Kaufman/188550"
+    },
+    {
+      "name": "Irving Mills",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irving%20Mills/9199"
+    },
+    {
+      "name": "Irwin Goodman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irwin%20Goodman/890654"
+    },
+    {
+      "name": "Irwin Solomon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Irwin%20Solomon/1127497"
+    },
+    {
+      "name": "Iry LeJune",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iry%20LeJune/395886"
+    },
+    {
+      "name": "Isaac Carree",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Carree/327249"
+    },
+    {
+      "name": "Isaac Delgado",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Delgado/852289"
+    },
+    {
+      "name": "Isaac Figgs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Figgs/710576"
+    },
+    {
+      "name": "Isaac Green",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Green/212532"
+    },
+    {
+      "name": "Isaac Hayes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Hayes/83140"
+    },
+    {
+      "name": "Isaac Maya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Maya/2160999"
+    },
+    {
+      "name": "Isaac Simpson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaac%20Simpson/1662703"
+    },
+    {
+      "name": "Isabel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabel/363899"
+    },
+    {
+      "name": "Isabel Granada",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabel%20Granada/468448"
+    },
+    {
+      "name": "Isabel Pantoja",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabel%20Pantoja/29346"
+    },
+    {
+      "name": "Isabel Parra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabel%20Parra/30923"
+    },
+    {
+      "name": "Isabela",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabela/583039"
+    },
+    {
+      "name": "Isabelle Antena",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabelle%20Antena/12229"
+    },
+    {
+      "name": "Isabelle Boulay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabelle%20Boulay/529241"
+    },
+    {
+      "name": "Isabelle Carpentier",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isabelle%20Carpentier/1062999"
+    },
+    {
+      "name": "Isadar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isadar/694120"
+    },
+    {
+      "name": "Isaiah & Sarah",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaiah%20%26%20Sarah/2392223"
+    },
+    {
+      "name": "Isaiah Jackson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isaiah%20Jackson/1043381"
+    },
+    {
+      "name": "Isao Suzuki",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isao%20Suzuki/291286"
+    },
+    {
+      "name": "Isengard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isengard/529303"
+    },
+    {
+      "name": "Ish",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ish/735755"
+    },
+    {
+      "name": "Isham Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isham%20Jones/91518"
+    },
+    {
+      "name": "Ishmael Reed",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ishmael%20Reed/7397"
+    },
+    {
+      "name": "Ishtar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ishtar/527441"
+    },
+    {
+      "name": "Ishues",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ishues/712991"
+    },
+    {
+      "name": "Isidore",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isidore/678483"
+    },
+    {
+      "name": "Isis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isis/472173"
+    },
+    {
+      "name": "Isla Grant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isla%20Grant/833285"
+    },
+    {
+      "name": "Island Jam Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Island%20Jam%20Band/809923"
+    },
+    {
+      "name": "Island Jazz Quintet",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Island%20Jazz%20Quintet/935352"
+    },
+    {
+      "name": "Island View Drive",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Island%20View%20Drive/690504"
+    },
+    {
+      "name": "Islands",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Islands/734244"
+    },
+    {
+      "name": "Isle of Essence",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isle%20of%20Essence/935354"
+    },
+    {
+      "name": "Isle of Man",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isle%20of%20Man/39573"
+    },
+    {
+      "name": "Isle of Q",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isle%20of%20Q/434813"
+    },
+    {
+      "name": "Islets of Dust",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Islets%20of%20Dust/2611306"
+    },
+    {
+      "name": "Isley Jasper Isley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isley%20Jasper%20Isley/13298"
+    },
+    {
+      "name": "Ismaël Lô",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isma%C3%ABl%20L%C3%B4/28572"
+    },
+    {
+      "name": "Ismael Miranda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ismael%20Miranda/40417"
+    },
+    {
+      "name": "Ismael Reinhardt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ismael%20Reinhardt/700394"
+    },
+    {
+      "name": "Ismael Rivera",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ismael%20Rivera/41222"
+    },
+    {
+      "name": "Ismael Serrano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ismael%20Serrano/476241"
+    },
+    {
+      "name": "Ismo Alanko",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ismo%20Alanko/295196"
+    },
+    {
+      "name": "Iso H",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iso%20H/1001330"
+    },
+    {
+      "name": "Isobel Campbell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isobel%20Campbell/431985"
+    },
+    {
+      "name": "Isolée",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isol%C3%A9e/292248"
+    },
+    {
+      "name": "Isotope 217",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isotope%20217/277224"
+    },
+    {
+      "name": "Israel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Israel/1725459"
+    },
+    {
+      "name": "Israel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Israel/200262"
+    },
+    {
+      "name": "Israel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Israel/833915"
+    },
+    {
+      "name": "Israel Kamakawiwo'ole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Israel%20Kamakawiwo%27ole/142999"
+    },
+    {
+      "name": "Israel Vibration",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Israel%20Vibration/2899"
+    },
+    {
+      "name": "Issa Gadala",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Issa%20Gadala/1145769"
+    },
+    {
+      "name": "Issy Bonn",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Issy%20Bonn/831328"
+    },
+    {
+      "name": "ist",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ist/750890"
+    },
+    {
+      "name": "Istra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Istra/713005"
+    },
+    {
+      "name": "Isyss",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Isyss/529783"
+    },
+    {
+      "name": "It",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It/212865"
+    },
+    {
+      "name": "It Dies Today",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It%20Dies%20Today/663058"
+    },
+    {
+      "name": "It Prevails",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It%20Prevails/886430"
+    },
+    {
+      "name": "It's a Beautiful Day",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It%27s%20a%20Beautiful%20Day/4565"
+    },
+    {
+      "name": "It's about the Word",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It%27s%20about%20the%20Word/1050844"
+    },
+    {
+      "name": "It's Alive",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It%27s%20Alive/2148227"
+    },
+    {
+      "name": "It's All Gone to Hell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/It%27s%20All%20Gone%20to%20Hell/560947"
+    },
+    {
+      "name": "Itaal Shur",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Itaal%20Shur/124960"
+    },
+    {
+      "name": "Ital",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ital/2328552"
+    },
+    {
+      "name": "Itch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Itch/26555"
+    },
+    {
+      "name": "Itchy Fingers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Itchy%20Fingers/6789"
+    },
+    {
+      "name": "Ithamara Koorax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ithamara%20Koorax/423384"
+    },
+    {
+      "name": "Itoura Moussongo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Itoura%20Moussongo/881927"
+    },
+    {
+      "name": "Itzhak Perlman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Itzhak%20Perlman/1313"
+    },
+    {
+      "name": "IV-V-VI",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/IV-V-VI/371624"
+    },
+    {
+      "name": "Iva Ambush",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iva%20Ambush/475265"
+    },
+    {
+      "name": "Iva Davies",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iva%20Davies/68974"
+    },
+    {
+      "name": "Iván",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iv%C3%A1n/447092"
+    },
+    {
+      "name": "Ivan Diaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Diaz/238895"
+    },
+    {
+      "name": "Ivan Král",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Kr%C3%A1l/95170"
+    },
+    {
+      "name": "Ivan Lins",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Lins/3332"
+    },
+    {
+      "name": "Ivan Nevskiy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Nevskiy/2628839"
+    },
+    {
+      "name": "Ivan Noble",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Noble/690655"
+    },
+    {
+      "name": "Ivan Parker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Parker/296015"
+    },
+    {
+      "name": "Ivan Smagghe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Smagghe/450364"
+    },
+    {
+      "name": "Ivan Spell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Spell/1108995"
+    },
+    {
+      "name": "Ivan Villazon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Villazon/291151"
+    },
+    {
+      "name": "Ivan Zharov",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivan%20Zharov/2431698"
+    },
+    {
+      "name": "Ivano Bellini",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivano%20Bellini/308710"
+    },
+    {
+      "name": "Ivano Fizio",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivano%20Fizio/1079653"
+    },
+    {
+      "name": "Ivano Fossati",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivano%20Fossati/205005"
+    },
+    {
+      "name": "Ivar Brodahl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivar%20Brodahl/211357"
+    },
+    {
+      "name": "Ive Mendes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ive%20Mendes/555161"
+    },
+    {
+      "name": "Ivete Sangalo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivete%20Sangalo/459785"
+    },
+    {
+      "name": "Ivie Anderson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivie%20Anderson/36790"
+    },
+    {
+      "name": "Ivo Franklin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivo%20Franklin/543215"
+    },
+    {
+      "name": "Ivo Perelman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivo%20Perelman/11401"
+    },
+    {
+      "name": "Ivor & The Engines",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivor%20%26%20The%20Engines/521403"
+    },
+    {
+      "name": "Ivor Cutler",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivor%20Cutler/16780"
+    },
+    {
+      "name": "Ivor Novello",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivor%20Novello/530657"
+    },
+    {
+      "name": "Ivory",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory/543703"
+    },
+    {
+      "name": "Ivory & Gold",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory%20%26%20Gold/1141095"
+    },
+    {
+      "name": "Ivory Dreams",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory%20Dreams/1043388"
+    },
+    {
+      "name": "Ivory Frequency",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory%20Frequency/553143"
+    },
+    {
+      "name": "Ivory Joe Hunter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory%20Joe%20Hunter/378"
+    },
+    {
+      "name": "Ivory Rose",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory%20Rose/205368"
+    },
+    {
+      "name": "Ivory Tower",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivory%20Tower/413458"
+    },
+    {
+      "name": "Ivoryline",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivoryline/1020452"
+    },
+    {
+      "name": "Ivy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivy/45072"
+    },
+    {
+      "name": "Ivy Benson",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivy%20Benson/467371"
+    },
+    {
+      "name": "Ivy Quainoo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivy%20Quainoo/2598649"
+    },
+    {
+      "name": "Ivy Queen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivy%20Queen/224845"
+    },
+    {
+      "name": "Ivy Violan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivy%20Violan/434916"
+    },
+    {
+      "name": "Ivyia",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ivyia/650755"
+    },
+    {
+      "name": "Iwahala Ohca",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iwahala%20Ohca/935421"
+    },
+    {
+      "name": "Iwase Yuka",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iwase%20Yuka/1117612"
+    },
+    {
+      "name": "Iwr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iwr/1016965"
+    },
+    {
+      "name": "Iwrestledabearonce",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iwrestledabearonce/1106115"
+    },
+    {
+      "name": "Iya Khan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iya%20Khan/1127518"
+    },
+    {
+      "name": "Iyanla Van Zant",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iyanla%20Van%20Zant/373860"
+    },
+    {
+      "name": "Iyaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iyaz/1189501"
+    },
+    {
+      "name": "Iz Carter",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Iz%20Carter/2188697"
+    },
+    {
+      "name": "Izabo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Izabo/704812"
+    },
+    {
+      "name": "Izzy Chait",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Izzy%20Chait/707808"
+    },
+    {
+      "name": "Izzy Stradlin",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Izzy%20Stradlin/26100"
+    }
+  ]
+}

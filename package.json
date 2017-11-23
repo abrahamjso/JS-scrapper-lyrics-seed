@@ -1,0 +1,29 @@
+{
+  "name": "codo-scrapper",
+  "version": "0.0.1",
+  "description": "Scrapper para sacar información de horario de materias de FIME",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapper",
+    "codo"
+  ],
+  "author": "Abraham Silva",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^16.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  }
+}

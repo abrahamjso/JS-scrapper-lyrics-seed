@@ -1,0 +1,885 @@
+{
+  "letra": "Z",
+  "artistas": [
+    {
+      "name": "Z",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z/143671"
+    },
+    {
+      "name": "Z-Man",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z-Man/2614687"
+    },
+    {
+      "name": "Z-Ro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z-Ro/296536"
+    },
+    {
+      "name": "Z.Z. Hill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z.Z.%20Hill/366"
+    },
+    {
+      "name": "Zac Brown",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zac%20Brown/707242"
+    },
+    {
+      "name": "Zac Maloy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zac%20Maloy/309334"
+    },
+    {
+      "name": "Zac Poor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zac%20Poor/1187440"
+    },
+    {
+      "name": "Zach Gill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zach%20Gill/649174"
+    },
+    {
+      "name": "Zach Hill",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zach%20Hill/543076"
+    },
+    {
+      "name": "Zach Madden",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zach%20Madden/715355"
+    },
+    {
+      "name": "Zach Taylor",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zach%20Taylor/2618153"
+    },
+    {
+      "name": "Zach Trandum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zach%20Trandum/2165198"
+    },
+    {
+      "name": "Zachary Breaux",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zachary%20Breaux/59128"
+    },
+    {
+      "name": "Zachary Richard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zachary%20Richard/739"
+    },
+    {
+      "name": "Zack Ferris",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zack%20Ferris/511927"
+    },
+    {
+      "name": "Zack Montana",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zack%20Montana/2520140"
+    },
+    {
+      "name": "Zadik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zadik/2305366"
+    },
+    {
+      "name": "Zadmax",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zadmax/2695119"
+    },
+    {
+      "name": "Zager & Evans",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zager%20%26%20Evans/21551"
+    },
+    {
+      "name": "Zaho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaho/884690"
+    },
+    {
+      "name": "Zaid Nasser",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaid%20Nasser/592483"
+    },
+    {
+      "name": "Zaiko Langa Langa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaiko%20Langa%20Langa/43014"
+    },
+    {
+      "name": "Zain Bhikha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zain%20Bhikha/768195"
+    },
+    {
+      "name": "Zak Starkey",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zak%20Starkey/128035"
+    },
+    {
+      "name": "Zakary Thaks",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zakary%20Thaks/141982"
+    },
+    {
+      "name": "Zaki Nassif",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaki%20Nassif/1104434"
+    },
+    {
+      "name": "Zakiya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zakiya/207170"
+    },
+    {
+      "name": "Zakiya Hooker",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zakiya%20Hooker/174823"
+    },
+    {
+      "name": "Zakk Wylde",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zakk%20Wylde/140046"
+    },
+    {
+      "name": "Zale Dalen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zale%20Dalen/2260456"
+    },
+    {
+      "name": "Zallen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zallen/527783"
+    },
+    {
+      "name": "Zandelle",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zandelle/544908"
+    },
+    {
+      "name": "Zanderland Asante",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zanderland%20Asante/705739"
+    },
+    {
+      "name": "Zandra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zandra/1113786"
+    },
+    {
+      "name": "Zane",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zane/561559"
+    },
+    {
+      "name": "Zane Musa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zane%20Musa/465386"
+    },
+    {
+      "name": "Zang Tuum Tumb",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zang%20Tuum%20Tumb/376872"
+    },
+    {
+      "name": "Zanister",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zanister/475014"
+    },
+    {
+      "name": "Zao",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zao/365255"
+    },
+    {
+      "name": "Zap Mama",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zap%20Mama/42532"
+    },
+    {
+      "name": "Zapato 3",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zapato%203/202275"
+    },
+    {
+      "name": "Zapology",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zapology/1139848"
+    },
+    {
+      "name": "Zapp",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zapp/5901"
+    },
+    {
+      "name": "Zappa's Universe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zappa%27s%20Universe/371258"
+    },
+    {
+      "name": "Zarah Leander",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zarah%20Leander/26635"
+    },
+    {
+      "name": "Zaranina",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaranina/1013323"
+    },
+    {
+      "name": "Zard",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zard/141736"
+    },
+    {
+      "name": "Zarkoff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zarkoff/1143519"
+    },
+    {
+      "name": "Zarkons",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zarkons/23873"
+    },
+    {
+      "name": "Zarpa",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zarpa/723993"
+    },
+    {
+      "name": "Zascha",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zascha/795985"
+    },
+    {
+      "name": "Zascha Moktan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zascha%20Moktan/1020950"
+    },
+    {
+      "name": "Zawles",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zawles/1050253"
+    },
+    {
+      "name": "Zay Zay",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zay%20Zay/970354"
+    },
+    {
+      "name": "Zayra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zayra/2246504"
+    },
+    {
+      "name": "Zayra Alvarez",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zayra%20Alvarez/670794"
+    },
+    {
+      "name": "Zaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaz/2148912"
+    },
+    {
+      "name": "Zaz",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaz/621135"
+    },
+    {
+      "name": "Zaza",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zaza/3477"
+    },
+    {
+      "name": "Zazie",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zazie/215621"
+    },
+    {
+      "name": "Zazou",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zazou/826003"
+    },
+    {
+      "name": "Zbigniew Preisner",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zbigniew%20Preisner/159136"
+    },
+    {
+      "name": "Zbigniew Seifert",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zbigniew%20Seifert/9633"
+    },
+    {
+      "name": "Zcalacee",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zcalacee/1029038"
+    },
+    {
+      "name": "Ze Bruno",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ze%20Bruno/443195"
+    },
+    {
+      "name": "Zé Ramalho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z%C3%A9%20Ramalho/206304"
+    },
+    {
+      "name": "Zebda",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zebda/215623"
+    },
+    {
+      "name": "Zebra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zebra/5905"
+    },
+    {
+      "name": "Zebrahead",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zebrahead/293662"
+    },
+    {
+      "name": "Zeca Baleiro",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeca%20Baleiro/350443"
+    },
+    {
+      "name": "Zeca Pagodinho",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeca%20Pagodinho/214115"
+    },
+    {
+      "name": "Zed Bias",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zed%20Bias/400998"
+    },
+    {
+      "name": "Zed Yago",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zed%20Yago/27189"
+    },
+    {
+      "name": "Zedd",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zedd/2485317"
+    },
+    {
+      "name": "Zee Avi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zee%20Avi/1102492"
+    },
+    {
+      "name": "Zeek Duff",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeek%20Duff/709735"
+    },
+    {
+      "name": "Zeena Gulzar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeena%20Gulzar/402572"
+    },
+    {
+      "name": "Zeke",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeke/207156"
+    },
+    {
+      "name": "Zelenka Trio + 1",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zelenka%20Trio%20%2B%201/838788"
+    },
+    {
+      "name": "Zélia Duncan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z%C3%A9lia%20Duncan/295479"
+    },
+    {
+      "name": "Zelienople",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zelienople/534548"
+    },
+    {
+      "name": "Zelig",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zelig/469626"
+    },
+    {
+      "name": "Zella Mayzell",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zella%20Mayzell/726866"
+    },
+    {
+      "name": "Zelma Davis",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zelma%20Davis/69232"
+    },
+    {
+      "name": "Zen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zen/1009754"
+    },
+    {
+      "name": "Zen for Primates",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zen%20for%20Primates/970395"
+    },
+    {
+      "name": "Zen Guerrilla",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zen%20Guerrilla/215628"
+    },
+    {
+      "name": "Zen Zadravec",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zen%20Zadravec/1064977"
+    },
+    {
+      "name": "Zendaya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zendaya/2434998"
+    },
+    {
+      "name": "Zengel & Sirney",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zengel%20%26%20Sirney/970403"
+    },
+    {
+      "name": "Zeni Geva",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeni%20Geva/143676"
+    },
+    {
+      "name": "Zeno",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeno/21567"
+    },
+    {
+      "name": "Zentralquartett",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zentralquartett/648847"
+    },
+    {
+      "name": "Zënzar",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Z%C3%ABnzar/2615738"
+    },
+    {
+      "name": "Zeph & Azeem",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeph%20%26%20Azeem/884692"
+    },
+    {
+      "name": "Zephyr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zephyr/14786"
+    },
+    {
+      "name": "Zepiante",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zepiante/434025"
+    },
+    {
+      "name": "Zer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zer/2362999"
+    },
+    {
+      "name": "Zeraphine",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeraphine/823694"
+    },
+    {
+      "name": "Zerdtrix",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zerdtrix/2660389"
+    },
+    {
+      "name": "Zero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero/12045"
+    },
+    {
+      "name": "Zero 7",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero%207/476853"
+    },
+    {
+      "name": "Zero Assoluto",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero%20Assoluto/748866"
+    },
+    {
+      "name": "Zero by None",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero%20by%20None/559117"
+    },
+    {
+      "name": "Zero Defects",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero%20Defects/392600"
+    },
+    {
+      "name": "Zero Down",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero%20Down/468923"
+    },
+    {
+      "name": "Zero Hour",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zero%20Hour/392602"
+    },
+    {
+      "name": "Zeromancer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeromancer/532392"
+    },
+    {
+      "name": "Zeropositivo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeropositivo/880504"
+    },
+    {
+      "name": "Zeus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeus/2084914"
+    },
+    {
+      "name": "Zeyphyr",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zeyphyr/880905"
+    },
+    {
+      "name": "Zezé Di Camargo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zez%C3%A9%20Di%20Camargo/331127"
+    },
+    {
+      "name": "Zezé Di Camargo & Luciano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zez%C3%A9%20Di%20Camargo%20%26%20Luciano/1639314"
+    },
+    {
+      "name": "Zgomot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zgomot/2587954"
+    },
+    {
+      "name": "Zhané",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zhan%C3%A9/44728"
+    },
+    {
+      "name": "Zhao Jia Zhen",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zhao%20Jia%20Zhen/589992"
+    },
+    {
+      "name": "Zhigge",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zhigge/23842"
+    },
+    {
+      "name": "Zhu Zhu Pets",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zhu%20Zhu%20Pets/2534567"
+    },
+    {
+      "name": "Ziana Zain",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ziana%20Zain/228326"
+    },
+    {
+      "name": "Zico",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zico/2072336"
+    },
+    {
+      "name": "Zididada",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zididada/1006512"
+    },
+    {
+      "name": "Zifou",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zifou/2564241"
+    },
+    {
+      "name": "Zifra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zifra/2421263"
+    },
+    {
+      "name": "Ziggy Elman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ziggy%20Elman/8478"
+    },
+    {
+      "name": "Ziggy Marley",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Ziggy%20Marley/101986"
+    },
+    {
+      "name": "Zigidy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zigidy/555165"
+    },
+    {
+      "name": "Zilch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zilch/296424"
+    },
+    {
+      "name": "Zillertaler Schürzenjäger",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zillertaler%20Sch%C3%BCrzenj%C3%A4ger/300717"
+    },
+    {
+      "name": "Zim Zemarel",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zim%20Zemarel/12042"
+    },
+    {
+      "name": "Zimbabwe",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zimbabwe/202277"
+    },
+    {
+      "name": "Zimbabwe Legit",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zimbabwe%20Legit/140989"
+    },
+    {
+      "name": "Zimmer's Hole",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zimmer%27s%20Hole/483418"
+    },
+    {
+      "name": "Zinc",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zinc/880519"
+    },
+    {
+      "name": "Zing!",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zing%21/202761"
+    },
+    {
+      "name": "Zink",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zink/648859"
+    },
+    {
+      "name": "Zion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zion/867096"
+    },
+    {
+      "name": "Zion",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zion/791355"
+    },
+    {
+      "name": "Zion & Lennox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zion%20%26%20Lennox/654240"
+    },
+    {
+      "name": "Zion I",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zion%20I/370036"
+    },
+    {
+      "name": "Zip Code Rapists",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zip%20Code%20Rapists/203846"
+    },
+    {
+      "name": "Zipfel-Express",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zipfel-Express/2695847"
+    },
+    {
+      "name": "Zipflo Weinrich",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zipflo%20Weinrich/207059"
+    },
+    {
+      "name": "Zipps",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zipps/416585"
+    },
+    {
+      "name": "Zircus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zircus/366238"
+    },
+    {
+      "name": "Zita Swoon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zita%20Swoon/296427"
+    },
+    {
+      "name": "Zituania",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zituania/2144695"
+    },
+    {
+      "name": "Zivanai Masango",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zivanai%20Masango/1148327"
+    },
+    {
+      "name": "Zizi Possi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zizi%20Possi/202025"
+    },
+    {
+      "name": "Zlatne Uste Balkan Brass Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zlatne%20Uste%20Balkan%20Brass%20Band/133687"
+    },
+    {
+      "name": "Zluty Pes",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zluty%20Pes/1068175"
+    },
+    {
+      "name": "ZO2",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ZO2/924306"
+    },
+    {
+      "name": "Zodiac",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zodiac/2595189"
+    },
+    {
+      "name": "Zodiac Mindwarp",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zodiac%20Mindwarp/862856"
+    },
+    {
+      "name": "Zodiac Mindwarp & the Love Reaction",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zodiac%20Mindwarp%20%26%20the%20Love%20Reaction/14790"
+    },
+    {
+      "name": "Zoë",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zo%C3%AB/23307"
+    },
+    {
+      "name": "Zoé",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zo%C3%A9/519578"
+    },
+    {
+      "name": "Zoë Badwi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zo%C3%AB%20Badwi/1090193"
+    },
+    {
+      "name": "Zoe McCulloch",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoe%20McCulloch/678640"
+    },
+    {
+      "name": "Zoe Wood",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoe%20Wood/723735"
+    },
+    {
+      "name": "ZOEgirl",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ZOEgirl/440566"
+    },
+    {
+      "name": "Zoetrope",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoetrope/42552"
+    },
+    {
+      "name": "Zohreh Jooya",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zohreh%20Jooya/558666"
+    },
+    {
+      "name": "Zola",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zola/842865"
+    },
+    {
+      "name": "Zola Jesus",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zola%20Jesus/1141912"
+    },
+    {
+      "name": "Zolar X",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zolar%20X/673257"
+    },
+    {
+      "name": "Zolof the Rock & Roll Destroyer",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zolof%20the%20Rock%20%26%20Roll%20Destroyer/559183"
+    },
+    {
+      "name": "Zombie Apocalypse",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zombie%20Apocalypse/603611"
+    },
+    {
+      "name": "Zombie Ghost Train",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zombie%20Ghost%20Train/692939"
+    },
+    {
+      "name": "Zombie Nation",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zombie%20Nation/401715"
+    },
+    {
+      "name": "Zona Jones",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zona%20Jones/638911"
+    },
+    {
+      "name": "Zona Sul",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zona%20Sul/640508"
+    },
+    {
+      "name": "Zonata",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zonata/667227"
+    },
+    {
+      "name": "Zoo Brazil",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoo%20Brazil/747525"
+    },
+    {
+      "name": "Zoo Dee Jays",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoo%20Dee%20Jays/1155381"
+    },
+    {
+      "name": "Zoo Story",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoo%20Story/483216"
+    },
+    {
+      "name": "Zoop",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoop/1073023"
+    },
+    {
+      "name": "Zoot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoot/173718"
+    },
+    {
+      "name": "Zoot Money",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoot%20Money/4938"
+    },
+    {
+      "name": "Zoot Sims",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoot%20Sims/125307"
+    },
+    {
+      "name": "Zoot Woman",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoot%20Woman/392683"
+    },
+    {
+      "name": "Zoppi",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zoppi/416163"
+    },
+    {
+      "name": "Zora Young",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zora%20Young/42517"
+    },
+    {
+      "name": "Zornik",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zornik/684438"
+    },
+    {
+      "name": "Zorro Viejo",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zorro%20Viejo/634703"
+    },
+    {
+      "name": "Zounds",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zounds/21588"
+    },
+    {
+      "name": "Zox",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zox/609592"
+    },
+    {
+      "name": "Zozobra",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zozobra/863774"
+    },
+    {
+      "name": "Zrazy",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zrazy/141136"
+    },
+    {
+      "name": "Zsa Zsa Padilla",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zsa%20Zsa%20Padilla/434931"
+    },
+    {
+      "name": "ZSK",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ZSK/730641"
+    },
+    {
+      "name": "Zuba",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zuba/215648"
+    },
+    {
+      "name": "Zucchero",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zucchero/14791"
+    },
+    {
+      "name": "Zucker Baby",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zucker%20Baby/469640"
+    },
+    {
+      "name": "Zug Izland",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zug%20Izland/554074"
+    },
+    {
+      "name": "Zulema",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zulema/30343"
+    },
+    {
+      "name": "Zulu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zulu/864113"
+    },
+    {
+      "name": "Zum",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zum/278311"
+    },
+    {
+      "name": "Zumpano",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zumpano/144731"
+    },
+    {
+      "name": "Zurdok",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zurdok/480428"
+    },
+    {
+      "name": "Zuri Deveraux",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zuri%20Deveraux/1047211"
+    },
+    {
+      "name": "Zut",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zut/921691"
+    },
+    {
+      "name": "Zvonari",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zvonari/2627826"
+    },
+    {
+      "name": "Zvonimir Tot",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zvonimir%20Tot/722308"
+    },
+    {
+      "name": "Zvuki Mu",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zvuki%20Mu/14794"
+    },
+    {
+      "name": "Zwan",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zwan/517497"
+    },
+    {
+      "name": "Zwei",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zwei/559776"
+    },
+    {
+      "name": "Zwei Unbekannte Jungs",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zwei%20Unbekannte%20Jungs/2627624"
+    },
+    {
+      "name": "Zweipunkt",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zweipunkt/1081085"
+    },
+    {
+      "name": "Zwieback",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zwieback/1062483"
+    },
+    {
+      "name": "Zxcent",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zxcent/2592807"
+    },
+    {
+      "name": "ZXX",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ZXX/1037777"
+    },
+    {
+      "name": "Zydeco Boneshakers",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zydeco%20Boneshakers/366211"
+    },
+    {
+      "name": "Zydeco Dependents",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zydeco%20Dependents/451890"
+    },
+    {
+      "name": "Zydeco Flames",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zydeco%20Flames/215651"
+    },
+    {
+      "name": "Zydeco Force",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zydeco%20Force/42563"
+    },
+    {
+      "name": "Zydeco Party Band",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zydeco%20Party%20Band/169846"
+    },
+    {
+      "name": "Zyklon",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zyklon/477861"
+    },
+    {
+      "name": "Zykos",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/Zykos/662058"
+    },
+    {
+      "name": "ZZ Top",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ZZ%20Top/5923"
+    },
+    {
+      "name": "ZZ Ward",
+      "urlToExtractAlbum": "https://www.lyrics.com/artist/ZZ%20Ward/2633167"
+    }
+  ]
+}
